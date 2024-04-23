@@ -7,5 +7,16 @@
 
 * Content
 
-| *Paper* | *Idea*  |
-|  test |  [[tes][test.org]] |
+| Date     | *Paper*                                                      |
+| [[20240423]] | A Survey of Embodied AI: From Simulators to Research Tasks |
+|          |                                                            |
+|          |                                                            |
+|          |                                                            |
+|          |                                                            |
+
+
+----
+** 20240423
+- Paper: A Survey of Embodied AI: From Simulators to Research Tasks
+- Links: https://arxiv.org/pdf/2103.04918.pdf
+- Ideas:
