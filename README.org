@@ -1,2 +1,11 @@
-| paper | idea |
+#+TITLE: Evan's Daily Paper 
+#+AUTHOR: Evan Lyu
+#+auto_tangle: t
+#+DESCRIPTION: Evan's Daily Paper
+#+STARTUP: showeverything
+#+OPTIONS: tocs:3
+
+* Content
+
+| *Paper* | *Idea*  |
 |  test |  [[tes][test.org]] |
