@@ -5,6 +5,8 @@
 #+STARTUP: showeverything
 #+OPTIONS: tocs:3
 
+/I am *not* a researcher or scientist. Just a regular guy who follow my interest try to figure out some interesting stuff. Since I love emacs and org mode. Why not track all the papers that i read in a single org file? This is a lifelong repo./
+
 * Content
 
 | Date     | *Paper*                                                      |
@@ -15,8 +17,9 @@
 |          |                                                            |
 
 
-----
+-----
 ** 20240423
 - Paper: A Survey of Embodied AI: From Simulators to Research Tasks
 - Links: https://arxiv.org/pdf/2103.04918.pdf
 - Ideas:
+  1. Embodied AI Simulators: DeepMind Lab, AI2-THOR, SAPIEN, VirtualHome, VRKitchen, ThreeDWorld, CHALET, iGibson, and Habitat-Sim.
