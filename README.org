@@ -11,7 +11,7 @@
 
 | Date     | *Paper*                                                      |
 | [[20240423]] | A Survey of Embodied AI: From Simulators to Research Tasks |
-|          |                                                            |
+| [[20240424]] | Why Functional Programming Matters                         |
 |          |                                                            |
 |          |                                                            |
 |          |                                                            |
@@ -23,3 +23,11 @@
 - Links: https://arxiv.org/pdf/2103.04918.pdf
 - Ideas:
   1. Embodied AI Simulators: DeepMind Lab, AI2-THOR, SAPIEN, VirtualHome, VRKitchen, ThreeDWorld, CHALET, iGibson, and Habitat-Sim.
+
+-----
+** 20240423
+- Paper: Why Functional Programming Matters
+- Links: https://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf
+- Ideas:
+  1. functional programming can improve modularization in an maintainable way
+     using high-order function and lazy evaluation 
