@@ -10,13 +10,12 @@
 
 * Content
 
-| Date     | *Paper*                                                    |
-| [[20240423]] | A Survey of Embodied AI: From Simulators to Research Tasks |
-| [[20240424]] | Why Functional Programming Matters                         |
-| [[20240425]] | Recurrent Neural Networks (RNNs):                          |
-A gentle Introduction and Overview                                                           |
-|   |   |
-|   |   |
+| Date     | *Paper*                                                              |
+| [[20240423]] | A Survey of Embodied AI: From Simulators to Research Tasks           |
+| [[20240424]] | Why Functional Programming Matters                                   |
+| [[20240425]] | Recurrent Neural Networks (RNNs): A gentle Introduction and Overview |
+|          |                                                                      |
+|          |                                                                      |
 
 
 -----
