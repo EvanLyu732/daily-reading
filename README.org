@@ -3,18 +3,20 @@
 #+auto_tangle: t
 #+DESCRIPTION: Evan's Daily Paper
 #+STARTUP: showeverything
+#+STARTUP: align
 #+OPTIONS: tocs:3
 
 /I am *not* a researcher or scientist. Just a regular guy who follow my interest try to figure out some interesting stuff. Since I love emacs and org mode. Why not track all the papers that i read in a single org file? This is a lifelong repo./
 
 * Content
 
-| Date     | *Paper*                                                      |
+| Date     | *Paper*                                                    |
 | [[20240423]] | A Survey of Embodied AI: From Simulators to Research Tasks |
 | [[20240424]] | Why Functional Programming Matters                         |
-|          |                                                            |
-|          |                                                            |
-|          |                                                            |
+| [[20240425]] | Recurrent Neural Networks (RNNs):                          |
+A gentle Introduction and Overview                                                           |
+|   |   |
+|   |   |
 
 
 -----
@@ -25,9 +27,23 @@
   1. Embodied AI Simulators: DeepMind Lab, AI2-THOR, SAPIEN, VirtualHome, VRKitchen, ThreeDWorld, CHALET, iGibson, and Habitat-Sim.
 
 -----
-** 20240423
+** 20240424
 - Paper: Why Functional Programming Matters
 - Links: https://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf
 - Ideas:
   1. functional programming can improve modularization in an maintainable way
      using high-order function and lazy evaluation 
+
+-----
+** 20240425
+- Paper: Recurrent Neural Networks (RNNs): A gentle Introduction and Overview 
+- Links: https://arxiv.org/pdf/1912.05911.pdf
+- Ideas:
+  1. RNN deal with /sequence/ data.
+  2. BPTT (Back Propagation Through Time): store weight when processed through each loss term
+  3. LSTM (Long Short-Term Memory): design to handle vanish graident problems and introduce the /gated cell/ to store more information (*What information*?)
+  4. DRNN (Deep Recurrent Neural Networks): stack ordinary RNN together.
+  5. BRNN (Bidirectional Recurrent Neural Networks): /the authors create the section, but i do not get any ideas./
+  6. Seq2Seq: /What problems does seq2seq or encoder-decoder structure solves?/
+  7. Attention & Transformers: /Why Attentions works?/ /Why Skip-Connection works?/
+  8. Pointer Networks
