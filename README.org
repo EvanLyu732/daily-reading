@@ -10,12 +10,14 @@
 
 * Content
 
-| Date     | *Paper*                                                              |
-| [[20240423]] | A Survey of Embodied AI: From Simulators to Research Tasks           |
-| [[20240424]] | Why Functional Programming Matters                                   |
-| [[20240425]] | Recurrent Neural Networks (RNNs): A gentle Introduction and Overview |
-|          |                                                                      |
-|          |                                                                      |
+| Date     | *Paper*                                                                          |
+| [[20240423]] | A Survey of Embodied AI: From Simulators to Research Tasks                       |
+| [[20240424]] | Why Functional Programming Matters                                               |
+| [[20240425]] | Recurrent Neural Networks (RNNs): A gentle Introduction and Overview             |
+| [[20240426]] | Neural Machine Translation by Jointly Learning to Align and Translate            |
+| [[20240427]] | A General Survey on Attention Mechanisms in Deep Learning                        |
+| [[20240428]] | MEGALODON: Efficient LLM Pretraining and Inference with Unlimited Context Length |
+|          |                                                                                  |
 
 
 -----
@@ -46,3 +48,33 @@
   6. Seq2Seq: /What problems does seq2seq or encoder-decoder structure solves?/
   7. Attention & Transformers: /Why Attentions works?/ /Why Skip-Connection works?/
   8. Pointer Networks
+
+-----
+** 20240426
+- Paper: Neural Machine Translation by Jointly Learning to Align and Translate
+- Links: https://arxiv.org/pdf/1409.0473
+- Ideas:
+  *What is the difference with encoder-decoder architecture?*
+  1. this link may helps https://slds-lmu.github.io/seminar_nlp_ss20/attention-and-self-attention-for-nlp.html
+  2. bidirectional RNN as encoder and a decoder that search through a sources sentences during translation. The architecture *lead to*
+     a *attention* mechansim in the decoder.
+
+-----
+** 20240427
+- paper: A General Survey on Attention Mechanisms in Deep Learning
+- links: https://arxiv.org/pdf/2203.14263
+- ideas:
+  1. authors define a /task model/, which contains /four component/, 1. /the feature model/ 2. /the query model/ 3. /the attention model/ 4. /the output model/
+  2. /feature model/: used to extract features can be RNN or CNN and ...., for turning o$Xn$ into $fn$
+  3. /query model/: a /query/ tell which feature $fn$ to attend to.
+  4. /attention model/: given input query $qn$ and features vectors $fn$, the model extract the key matrix $Kn$ and value matrix $Vn$ from $fn$. Traditionaly, this process can be achived by linear transformation and use weight matrix $Wk$ and $Wv$.
+  5. /attention mechanisms/ can be classify into three categories: query-related, feature-related and general(not relate to query or feature).
+
+ *To learn more about attention mechanisms, this page https://slds-lmu.github.io/seminar_nlp_ss20/attention-and-self-attention-for-nlp.html and 3blue1brown video https://www.3blue1brown.com/lessons/attentionare are helpful*
+
+------
+** 20240428
+- paper: MEGALODON: Efficient LLM Pretraining and Inference with Unlimited Context Length
+- links: https://arxiv.org/pdf/2404.08801
+- ideas:
+  1. 
