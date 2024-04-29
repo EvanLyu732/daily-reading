@@ -17,7 +17,7 @@
 | [[20240426]] | Neural Machine Translation by Jointly Learning to Align and Translate            |
 | [[20240427]] | A General Survey on Attention Mechanisms in Deep Learning                        |
 | [[20240428]] | MEGALODON: Efficient LLM Pretraining and Inference with Unlimited Context Length |
-|          |                                                                                  |
+| [[20240429]] | Mega: Moving Average Equipped Gated Attention                                    |
 
 
 -----
@@ -77,4 +77,23 @@
 - paper: MEGALODON: Efficient LLM Pretraining and Inference with Unlimited Context Length
 - links: https://arxiv.org/pdf/2404.08801
 - ideas:
-  1. 
+  1. traditional transformer: computation complexity, limited inductive bias.
+  2. introduce the /complex exponential moving average(CEMA)/ components, timestamp normalization layer, normalized attention and pre-norm with two-hop residual configuraion.
+
+     *Q1: This paper is based on the architecture of MEGA, But What is MEGA*?
+     *Q2: Why this architecture and deal with unlimited length?*
+     #+begin_quote
+Evaluation on long-context modeling, including
+perplexity in various context lengths up to 2M and long-context QA tasks in Scrolls (Parisotto et al.,
+2020) prove MEGALODON’s ability to model sequences of unlimited length.
+#+end_quote
+*not understand*...
+     
+------
+** 20240429
+- paper: Mega: Moving Average Equipped Gated Attention
+- links: https://arxiv.org/pdf/2209.10655
+- ideas:
+   1. sequence modeling common approaches: self-attention and EMA(exponential moving average)
+     *Well, this kind of theortical paper is too difficult for me, mayme i should start with some basic ideas and understand the concepts by doing project.*
+     
