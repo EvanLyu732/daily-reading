@@ -19,7 +19,7 @@
 | [[20240428]] | MEGALODON: Efficient LLM Pretraining and Inference with Unlimited Context Length |
 | [[20240429]] | Mega: Moving Average Equipped Gated Attention                                    |
 | [[20240430]] | The Next Decade in AI                                                            |
-| [[20240431]] | The Bitter Lesson                                                                |
+| [[20240501]] | The Bitter Lesson                                                                |
 |          |                                                                                  |
 
 
