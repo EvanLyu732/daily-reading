@@ -18,6 +18,9 @@
 | [[20240427]] | A General Survey on Attention Mechanisms in Deep Learning                        |
 | [[20240428]] | MEGALODON: Efficient LLM Pretraining and Inference with Unlimited Context Length |
 | [[20240429]] | Mega: Moving Average Equipped Gated Attention                                    |
+| [[20240430]] | The Next Decade in AI                                                            |
+| [[20240431]] | The Bitter Lesson                                                                |
+|          |                                                                                  |
 
 
 -----
@@ -97,3 +100,29 @@ perplexity in various context lengths up to 2M and long-context QA tasks in Scro
    1. sequence modeling common approaches: self-attention and EMA(exponential moving average)
      *Well, this kind of theortical paper is too difficult for me, mayme i should start with some basic ideas and understand the concepts by doing project.*
      
+------
+** 20240430
+- paper: The Next Decade in AI
+- links: https://arxiv.org/pdf/2002.06177
+- ideas: 
+  1. authors cites "The Bitter Lesson" - By Rich Sutton, i have seen this paper in many places. I should check out this paper.
+  2. claim1: =/to build a robust, knowledge-driven approach to AI we must have the machinery of symbol-manipulation in our toolkit. Too much of useful knowledge is abstract to make do without tools that represent and manipulate abstraction, and to date, the only machinery that we know of that can manipulate such abstract knowledge reliably is the apparatus of symbol-manipulation/.=
+  3. claim2: robust artificial intelligences properties:
+     * have the ability to learn new knowledge
+     * can learn knowledged that is symbolically represented.
+     * significant knowledge is likely to be abstract.
+     * rules and exceptions are co-existed
+     * Some significant fraction of the knowledge that a robust system is likely to be causal, and to support counterfactuals.
+     * Some small but important subset of human knowledge is likely to be innate; robust AI, too, should start with some important prior knowledge.
+  4. claim3: rather than starting each new AI system from scratch, as a blank slate, with little knowledge of the world, we should seek to build learning systems that start with initial frameworks for domains like time, space, and causality, in order to speed up learning and massively constrain the hypothesis space.
+  5. knowledge by itself it not enough. knowledge put into practice with tool of reasoning.
+     #+begin_quote
+a reasoning system that can leverage large-scale background knowledge
+efficiently, even when available information is incomplete is a prerequisite to robustness.
+#+end_quote
+
+------
+** 20240501
+- paper: The Bitter Lesson 
+- links: http://www.incompleteideas.net/IncIdeas/BitterLesson.html 
+- ideas: 
