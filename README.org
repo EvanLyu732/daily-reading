@@ -20,6 +20,9 @@
 | [[20240429]] | Mega: Moving Average Equipped Gated Attention                                    |
 | [[20240430]] | The Next Decade in AI                                                            |
 | [[20240501]] | The Bitter Lesson                                                                |
+| [[20240502]] | KAN: Kolmogorov–Arnold Networks                                                  |
+|          |                                                                                  |
+|          |                                                                                  |
 |          |                                                                                  |
 
 
@@ -122,7 +125,17 @@ efficiently, even when available information is incomplete is a prerequisite to 
 #+end_quote
 
 ------
-** 20240501
-- paper: The Bitter Lesson 
-- links: http://www.incompleteideas.net/IncIdeas/BitterLesson.html 
-- ideas: 
+** 20240502
+- paper: KAN: Kolmogorov–Arnold Networks
+- links: https://arxiv.org/pdf/2404.19756
+- ideas:
+  1. claim1: Kolmogorov-Arnold representation theorem
+     *What is Kolmogorov-Arnold representation theorem? Why it can represented any function like Universal Approximation Theorem?* 
+  2. claim2: MLP: learnable weights on edges, KAN learnable activation functions on edges.
+     *TOMORRORW PAPER IS ABOUT UNIVERSAL APPROXIMATION THEOREM*
+  3. claim3:  KANs’ nodes simply sum incoming signals without applying any non-linearities
+  4. claim4:  KANs are nothing more than combinations of splines
+     *What is splines?*
+  5. claim5: Currently, the biggest bottleneck of KANs lies in its slow training. KANs are usually 10x slower than MLPs, given the same number of parameters. We should be honest that we did not try hard to optimize KANs’ efficiency though, so we deem KANs’ slow training more as an engineering problem to be improved in the future rather than a fundamental limitation. If one wants to train a model fast, one should use MLPs. In other cases, however, KANs should be comparable or better than MLPs, which makes them worth trying.  
+     
+
