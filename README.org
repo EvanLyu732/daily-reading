@@ -24,6 +24,7 @@
 | [[20240503]] | Multilayer feedforward networks are universal approximators                      |
 | [[20240504]] | Sequence to Sequence Learning with Neural Networks                               |
 | [[20240505]] | Translating Videos to Natural Language Using Deep Recurrent Neural Networks      |
+| [[20240506]] | Summarizing Source Code using a Neural Attention Model                           |
 |          |                                                                                  |
 |          |                                                                                  |
 |          |                                                                                  |
@@ -95,7 +96,7 @@
      #+begin_quote
 Evaluation on long-context modeling, including
 perplexity in various context lengths up to 2M and long-context QA tasks in Scrolls (Parisotto et al.,
-2020) prove MEGALODON’s ability to model sequences of unlimited length.
+
 #+end_quote
 *not understand*...
      
@@ -173,3 +174,13 @@ efficiently, even when available information is incomplete is a prerequisite to 
 
      *It seems like features extraction network is a kind of encoder-decoder structure networks.*
 ------
+
+** 20240506
+- paper: Summarizing Source Code using a Neural Attention Model 
+- links: https://github.com/sriniiyer/codenn/blob/master/summarizing_source_code.pdf 
+- ideas:
+  1. claim1:
+       dataset: stackoverflow that contains c# tag
+       model: LSTM 
+
+  *Today paper is about llm in code generation, i chose this paper from this slides https://webstanford.edu/class/cs224g/slides/Code%20Generation%20with%20LLMs.pdf and i discover ==Standford CS 224G=.= Great Resources for keeping track to frontier llm application.*
