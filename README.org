@@ -21,7 +21,7 @@
 | [[20240430]] | The Next Decade in AI                                                            |
 | [[20240501]] | The Bitter Lesson                                                                |
 | [[20240502]] | KAN: Kolmogorov–Arnold Networks                                                  |
-|          |                                                                                  |
+| [[20240503]] | Multilayer feedforward networks are universal approximators                      |
 |          |                                                                                  |
 |          |                                                                                  |
 
@@ -137,5 +137,15 @@ efficiently, even when available information is incomplete is a prerequisite to 
   4. claim4:  KANs are nothing more than combinations of splines
      *What is splines?*
   5. claim5: Currently, the biggest bottleneck of KANs lies in its slow training. KANs are usually 10x slower than MLPs, given the same number of parameters. We should be honest that we did not try hard to optimize KANs’ efficiency though, so we deem KANs’ slow training more as an engineering problem to be improved in the future rather than a fundamental limitation. If one wants to train a model fast, one should use MLPs. In other cases, however, KANs should be comparable or better than MLPs, which makes them worth trying.  
-     
 
+------
+------
+** 20240503
+- paper: Multilayer feedforward networks are universal approximators 
+- links: https://cognitivemedium.com/magic_paper/assets/Hornik.pdf 
+- ideas:
+  1. claim1: Advocates of the virtues of multilayer feedfor- ward networks (e.g., Hecht-Nielsen, 1987) often cite /Kolmogorov’s/ (1957) superposition theorem or its more recent improvements (e.g.. Lorentz, 1976) in support of their capabilities. However, these results require a different unknown transformation (g in Lorentz’s notation) for each continuous function to be represented, while specifying an exact upper limit to the number of intermediate units needed for the representation.
+  2. Anyway, this paper prove multilayer feedforward networks is a class of universal approximators.
+
+
+------
