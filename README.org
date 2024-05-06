@@ -133,8 +133,6 @@ efficiently, even when available information is incomplete is a prerequisite to 
 - paper: KAN: Kolmogorov–Arnold Networks
 - links: https://arxiv.org/pdf/2404.19756
 - ideas
-
-:
   1. claim1: Kolmogorov-Arnold representation theorem
      *What is Kolmogorov-Arnold representation theorem? Why it can represented any function like Universal Approximation Theorem?* 
   2. claim2: MLP: learnable weights on edges, KAN learnable activation functions on edges.
@@ -143,7 +141,6 @@ efficiently, even when available information is incomplete is a prerequisite to 
   4. claim4:  KANs are nothing more than combinations of splines
      *What is splines?*
   5. claim5: Currently, the biggest bottleneck of KANs lies in its slow training. KANs are usually 10x slower than MLPs, given the same number of parameters. We should be honest that we did not try hard to optimize KANs’ efficiency though, so we deem KANs’ slow training more as an engineering problem to be improved in the future rather than a fundamental limitation. If one wants to train a model fast, one should use MLPs. In other cases, however, KANs should be comparable or better than MLPs, which makes them worth trying.  
-
 ------
 ------
 ** 20240503
@@ -163,7 +160,7 @@ efficiently, even when available information is incomplete is a prerequisite to 
   1. claim1:  DNNs can only be applied to problems whose inputs and targets can be sensibly encoded with vectors of fixed dimensionality.
   2. claim2:  network architecture,  one LSTM for encoder and another LSTM for decoder.
      *What is the encoder and the decoder has different network structure?*
-
+------
 
 ** 20240505
 - paper: Translating Videos to Natural Language Using Deep Recurrent Neural Networks 
