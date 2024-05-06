@@ -22,6 +22,10 @@
 | [[20240501]] | The Bitter Lesson                                                                |
 | [[20240502]] | KAN: Kolmogorov–Arnold Networks                                                  |
 | [[20240503]] | Multilayer feedforward networks are universal approximators                      |
+| [[20240504]] | Sequence to Sequence Learning with Neural Networks                               |
+| [[20240505]] | Translating Videos to Natural Language Using Deep Recurrent Neural Networks      |
+|          |                                                                                  |
+|          |                                                                                  |
 |          |                                                                                  |
 |          |                                                                                  |
 
@@ -128,7 +132,9 @@ efficiently, even when available information is incomplete is a prerequisite to 
 ** 20240502
 - paper: KAN: Kolmogorov–Arnold Networks
 - links: https://arxiv.org/pdf/2404.19756
-- ideas:
+- ideas
+
+:
   1. claim1: Kolmogorov-Arnold representation theorem
      *What is Kolmogorov-Arnold representation theorem? Why it can represented any function like Universal Approximation Theorem?* 
   2. claim2: MLP: learnable weights on edges, KAN learnable activation functions on edges.
@@ -146,6 +152,27 @@ efficiently, even when available information is incomplete is a prerequisite to 
 - ideas:
   1. claim1: Advocates of the virtues of multilayer feedfor- ward networks (e.g., Hecht-Nielsen, 1987) often cite /Kolmogorov’s/ (1957) superposition theorem or its more recent improvements (e.g.. Lorentz, 1976) in support of their capabilities. However, these results require a different unknown transformation (g in Lorentz’s notation) for each continuous function to be represented, while specifying an exact upper limit to the number of intermediate units needed for the representation.
   2. Anyway, this paper prove multilayer feedforward networks is a class of universal approximators.
+     *While reading this paper, i am wondering why encoder-decoder structure network work? who proposed that? This is tomorrow topic.*
 
 
+------
+** 20240504
+- paper: Sequence to Sequence Learning with Neural Networks 
+- links: https://arxiv.org/pdf/1409.3215
+- ideas:
+  1. claim1:  DNNs can only be applied to problems whose inputs and targets can be sensibly encoded with vectors of fixed dimensionality.
+  2. claim2:  network architecture,  one LSTM for encoder and another LSTM for decoder.
+     *What is the encoder and the decoder has different network structure?*
+
+
+** 20240505
+- paper: Translating Videos to Natural Language Using Deep Recurrent Neural Networks 
+- links: https://arxiv.org/pdf/1412.4729
+- ideas:
+  1. claim1: 
+     ```
+     video -> cnn -> lstm -> label
+     ```
+
+     *It seems like features extraction network is a kind of encoder-decoder structure networks.*
 ------
