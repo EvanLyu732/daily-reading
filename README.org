@@ -10,25 +10,26 @@
 
 * Content
 
-| Date     | *Paper*                                                                          |
-| [[20240423]] | A Survey of Embodied AI: From Simulators to Research Tasks                       |
-| [[20240424]] | Why Functional Programming Matters                                               |
-| [[20240425]] | Recurrent Neural Networks (RNNs): A gentle Introduction and Overview             |
-| [[20240426]] | Neural Machine Translation by Jointly Learning to Align and Translate            |
-| [[20240427]] | A General Survey on Attention Mechanisms in Deep Learning                        |
-| [[20240428]] | MEGALODON: Efficient LLM Pretraining and Inference with Unlimited Context Length |
-| [[20240429]] | Mega: Moving Average Equipped Gated Attention                                    |
-| [[20240430]] | The Next Decade in AI                                                            |
-| [[20240501]] | The Bitter Lesson                                                                |
-| [[20240502]] | KAN: Kolmogorov–Arnold Networks                                                  |
-| [[20240503]] | Multilayer feedforward networks are universal approximators                      |
-| [[20240504]] | Sequence to Sequence Learning with Neural Networks                               |
-| [[20240505]] | Translating Videos to Natural Language Using Deep Recurrent Neural Networks      |
-| [[20240506]] | Summarizing Source Code using a Neural Attention Model                           |
-|          |                                                                                  |
-|          |                                                                                  |
-|          |                                                                                  |
-|          |                                                                                  |
+| Date     | *Paper*                                                                                |
+| [[20240423]] | A Survey of Embodied AI: From Simulators to Research Tasks                             |
+| [[20240424]] | Why Functional Programming Matters                                                     |
+| [[20240425]] | Recurrent Neural Networks (RNNs): A gentle Introduction and Overview                   |
+| [[20240426]] | Neural Machine Translation by Jointly Learning to Align and Translate                  |
+| [[20240427]] | A General Survey on Attention Mechanisms in Deep Learning                              |
+| [[20240428]] | MEGALODON: Efficient LLM Pretraining and Inference with Unlimited Context Length       |
+| [[20240429]] | Mega: Moving Average Equipped Gated Attention                                          |
+| [[20240430]] | The Next Decade in AI                                                                  |
+| [[20240501]] | The Bitter Lesson                                                                      |
+| [[20240502]] | KAN: Kolmogorov–Arnold Networks                                                        |
+| [[20240503]] | Multilayer feedforward networks are universal approximators                            |
+| [[20240504]] | Sequence to Sequence Learning with Neural Networks                                     |
+| [[20240505]] | Translating Videos to Natural Language Using Deep Recurrent Neural Networks            |
+| [[20240506]] | Summarizing Source Code using a Neural Attention Model                                 |
+| [[20240507]] | Learning to Control Fast-Weight Memories: An Alternative to Dynamic Recurrent Networks |
+|          |                                                                                        |
+|          |                                                                                        |
+|          |                                                                                        |
+|          |                                                                                        |
 
 
 -----
@@ -184,3 +185,11 @@ efficiently, even when available information is incomplete is a prerequisite to 
        model: LSTM 
 
   *Today paper is about llm in code generation, i chose this paper from this slides https://webstanford.edu/class/cs224g/slides/Code%20Generation%20with%20LLMs.pdf and i discover ==Standford CS 224G=.= Great Resources for keeping track to frontier llm application.*
+
+
+** 20240507
+- paper: Learning to Control Fast-Weight Memories: An Alternative to Dynamic Recurrent Networks
+- links: https://ieeexplore.ieee.org/document/6796337
+- ideas:
+  1. two feedword networks. first network produce "fast-weight" as short-term memory, memory controller 
+     *Well, This URL is worth a look. https://people.idsia.ch//~juergen/most-cited-neural-nets.html*
