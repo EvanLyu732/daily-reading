@@ -26,6 +26,7 @@
 | [[20240505]] | Translating Videos to Natural Language Using Deep Recurrent Neural Networks            |
 | [[20240506]] | Summarizing Source Code using a Neural Attention Model                                 |
 | [[20240507]] | Learning to Control Fast-Weight Memories: An Alternative to Dynamic Recurrent Networks |
+| [[20240508]] | Transformers are RNNs: Fast Autoregressive Transformers with Linear Attention          |
 |          |                                                                                        |
 |          |                                                                                        |
 |          |                                                                                        |
@@ -193,3 +194,16 @@ efficiently, even when available information is incomplete is a prerequisite to 
 - ideas:
   1. two feedword networks. first network produce "fast-weight" as short-term memory, memory controller 
      *Well, This URL is worth a look. https://people.idsia.ch//~juergen/most-cited-neural-nets.html*
+
+
+** 20240508
+- paper: Transformers are RNNs: Fast Autoregressive Transformers with Linear Attention 
+- links: https://arxiv.org/pdf/2006.16236
+- ideas:
+  1. claim1: tranditional transformers require quadratics memories, such as for $N$ input. The time complexity is $O(N_2)$. This paper propose linear transformation.
+     *What's the difference between attention layer and self-attention layer?*
+     #+begin_quote
+every transformer can be seen as a recurrent neural network
+#+end_quote
+
+
