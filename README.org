@@ -27,6 +27,7 @@
 | [[20240506]] | Summarizing Source Code using a Neural Attention Model                                 |
 | [[20240507]] | Learning to Control Fast-Weight Memories: An Alternative to Dynamic Recurrent Networks |
 | [[20240508]] | Transformers are RNNs: Fast Autoregressive Transformers with Linear Attention          |
+| [[20240509]] | BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding       |
 |          |                                                                                        |
 |          |                                                                                        |
 |          |                                                                                        |
@@ -206,4 +207,13 @@ efficiently, even when available information is incomplete is a prerequisite to 
 every transformer can be seen as a recurrent neural network
 #+end_quote
 
+
+
+
+** 20240509
+- paper: BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
+- links: https://arxiv.org/pdf/1810.04805 
+- ideas:
+  1. claim1: two methods for apply pre-trained language models to downstream tasks( feature-based and find-tuning)
+     
 
