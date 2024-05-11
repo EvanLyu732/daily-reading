@@ -28,6 +28,8 @@
 | [[20240507]] | Learning to Control Fast-Weight Memories: An Alternative to Dynamic Recurrent Networks |
 | [[20240508]] | Transformers are RNNs: Fast Autoregressive Transformers with Linear Attention          |
 | [[20240509]] | BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding       |
+| [[20240510]] | Language Models are Unsupervised Multitask Learners                                    |
+| [[20240511]] | Improving Language Understanding by Generative Pre-Training                            |
 |          |                                                                                        |
 |          |                                                                                        |
 |          |                                                                                        |
@@ -217,3 +219,21 @@ every transformer can be seen as a recurrent neural network
   1. claim1: two methods for apply pre-trained language models to downstream tasks( feature-based and find-tuning)
      
 
+
+** 20240510
+- paper: Language Models are Unsupervised Multitask Learners
+- links: https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf
+- ideas:
+  1. dataset WebText (millions of webpage)
+  2. language modeling (unsupervised distribution estimation of examples, each example contains a length of symbols.)
+        https://github.com/codelucas/newspaper
+     
+
+
+** 20240511
+- paper: Improving Language Understanding by Generative Pre-Training
+- links: https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf
+- ideas:
+  1. By pre-training on a diverse corpus with long stretches of contiguous text our model acquires significant world knowledge and ability to process long-range dependencies which are then successfully transferred to solving discriminative tasks such as question answering, semantic similarity assessment, entailmentdetermination, and text classification, improving the state of the art on 9 of the 12 datasets we study.
+
+     *What sources of corpus is suitable for pre training?*
