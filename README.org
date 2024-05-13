@@ -30,6 +30,8 @@
 | [[20240509]] | BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding       |
 | [[20240510]] | Language Models are Unsupervised Multitask Learners                                    |
 | [[20240511]] | Improving Language Understanding by Generative Pre-Training                            |
+| [[20240512]] | Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond               |
+| [[20240513]] | Cramming: Training a Language Model on a Single GPU in One Day                         |
 |          |                                                                                        |
 |          |                                                                                        |
 |          |                                                                                        |
@@ -237,3 +239,24 @@ every transformer can be seen as a recurrent neural network
   1. By pre-training on a diverse corpus with long stretches of contiguous text our model acquires significant world knowledge and ability to process long-range dependencies which are then successfully transferred to solving discriminative tasks such as question answering, semantic similarity assessment, entailmentdetermination, and text classification, improving the state of the art on 9 of the 12 datasets we study.
 
      *What sources of corpus is suitable for pre training?*
+
+
+
+** 20240512
+- paper: Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond
+- links: https://arxiv.org/pdf/2304.13712
+- ideas:
+  *What's the difference between encoder-decoder structure with decoder only model?*
+  1. decoder-only model
+  2. nlu task: text classification, named entity recognition (NER),
+entailment prediction, and so on. 
+  3. nlg task: Natural Language Generation broadly encompasses two major categories of tasks, with the goal of creating coherent, meaningful, and contextually appropriate sequences of symbols. 
+ 
+
+
+** 20240513
+- paper: Cramming: Training a Language Model on a Single GPU in One Day
+- links: https://arxiv.org/pdf/2212.14034
+- ideas:
+  no ideas here, i follow this https://magazine.sebastianraschka.com/p/understanding-large-language-models to read paper. But maybe one day this paper would be a good start for implementing BERT in consumer compute. I'm not sure if i will do this experiment. 
+
