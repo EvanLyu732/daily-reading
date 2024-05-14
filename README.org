@@ -32,6 +32,7 @@
 | [[20240511]] | Improving Language Understanding by Generative Pre-Training                            |
 | [[20240512]] | Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond               |
 | [[20240513]] | Cramming: Training a Language Model on a Single GPU in One Day                         |
+| [[20240514]] | Autonomous LLM-driven research from data to human-verifiable research papers           |
 |          |                                                                                        |
 |          |                                                                                        |
 |          |                                                                                        |
@@ -253,10 +254,34 @@ entailment prediction, and so on.
   3. nlg task: Natural Language Generation broadly encompasses two major categories of tasks, with the goal of creating coherent, meaningful, and contextually appropriate sequences of symbols. 
  
 
-
+-------------
 ** 20240513
 - paper: Cramming: Training a Language Model on a Single GPU in One Day
 - links: https://arxiv.org/pdf/2212.14034
 - ideas:
   no ideas here, i follow this https://magazine.sebastianraschka.com/p/understanding-large-language-models to read paper. But maybe one day this paper would be a good start for implementing BERT in consumer compute. I'm not sure if i will do this experiment. 
 
+
+-------------
+** 20240514
+- paper: Autonomous LLM-driven research from data to human-verifiable research papers
+- links: https://arxiv.org/pdf/2404.17605
+- ideas:
+  1. this paper propose data to paper. crazy idea...
+  2. 
+#+begin_quote
+Starting with a human-provided dataset.the process is designed to raise hypotheses, write, debug and execute code to analyze the
+data and perform statistical tests, interpret the results and write well-structured scientific
+papers which not only describe results and conclusions but also transparently delineate the
+research methodologies, allowing human scientists to understand, repeat and verify the
+analysis. The discussion on emerging guidelines for AI-driven science (22) have served as a
+design framework for data-to-paper, yielding a fully transparent, traceable and verifiable
+workflow, and algorithmic \u201cchaining\u201d of data, methodology and result allowing to trace
+downstream results back to the part of code which generated them. The system can run with
+or without a predefined research goal (fixed/open-goal modalities) and with or without human
+interactions and feedback (copilot/autopilot modes). We performed two open-goal and two
+fixed-goal case studies on different public datasets (24\u201327) and evaluated the AI-driven
+research process as well as the novelty and accuracy of created scientific papers. We show
+that, running fully autonomously (autopilot), data-to-paper can perform complete and correct
+run cycles for simple goals, while for complex goals, human co-piloting becomes critical.  
+#+end_quote
