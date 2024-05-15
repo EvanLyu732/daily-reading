@@ -33,6 +33,7 @@
 | [[20240512]] | Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond               |
 | [[20240513]] | Cramming: Training a Language Model on a Single GPU in One Day                         |
 | [[20240514]] | Autonomous LLM-driven research from data to human-verifiable research papers           |
+| [[20240515]] | LoRA: Low-Rank Adaptation of Large Language Models                                     |
 |          |                                                                                        |
 |          |                                                                                        |
 |          |                                                                                        |
@@ -285,3 +286,10 @@ research process as well as the novelty and accuracy of created scientific paper
 that, running fully autonomously (autopilot), data-to-paper can perform complete and correct
 run cycles for simple goals, while for complex goals, human co-piloting becomes critical.  
 #+end_quote
+
+-------------
+** 20240515
+- paper: LoRA: Low-Rank Adaptation of Large Language Models
+- links: https://arxiv.org/pdf/2106.09685
+- ideas:
+  1. claim1: LoRA: which freezes the pre- trained model weights and injects trainable rank decomposition matrices into each layer of the Transformer architecture, greatly reducing the number of trainable pa-rameters for downstream tasks
