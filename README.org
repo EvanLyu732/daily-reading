@@ -34,6 +34,8 @@
 | [[20240513]] | Cramming: Training a Language Model on a Single GPU in One Day                         |
 | [[20240514]] | Autonomous LLM-driven research from data to human-verifiable research papers           |
 | [[20240515]] | LoRA: Low-Rank Adaptation of Large Language Models                                     |
+| [[20240516]] | When to Retrieve: Teaching LLMs to Utilize Information Retrieval Effectively           |
+| [[20240517]] | A PRIMER ON THE INNER WORKINGS OF TRANSFORMER-BASED LANGUAGE MODELS                    |
 |          |                                                                                        |
 |          |                                                                                        |
 |          |                                                                                        |
@@ -292,4 +294,21 @@ run cycles for simple goals, while for complex goals, human co-piloting becomes 
 - paper: LoRA: Low-Rank Adaptation of Large Language Models
 - links: https://arxiv.org/pdf/2106.09685
 - ideas:
-  1. claim1: LoRA: which freezes the pre- trained model weights and injects trainable rank decomposition matrices into each layer of the Transformer architecture, greatly reducing the number of trainable pa-rameters for downstream tasks
+  1. claim1: LoRA: which freezes the pre-trained model weights and injects trainable rank decomposition matrices into each layer of the Transformer architecture, greatly reducing the number of trainable pa-rameters for downstream tasks
+
+
+-------------
+** 20240516
+- paper: When to Retrieve: Teaching LLMs to Utilize Information Retrieval Effectively
+- links: https://arxiv.org/pdf/2404.19705
+- ideas:
+  1. claim1: this paper propose a method that when LLM generate token by <RET>, it use ir system for retrieve outer sources.
+
+
+-------------
+** 20240517
+- paper: A PRIMER ON THE INNER WORKINGS OF TRANSFORMER-BASED LANGUAGE MODELS
+- links: https://arxiv.org/pdf/2405.00208
+- ideas:
+  1. claim1: layer normalization is a common operation used to stabilize the training process of deep neural networks
+     *This paper is too long for me to digest. Maybe one day i'll come to visit when i project transfromer architecture*
