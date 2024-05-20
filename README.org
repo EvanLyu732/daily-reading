@@ -36,6 +36,9 @@
 | [[20240515]] | LoRA: Low-Rank Adaptation of Large Language Models                                     |
 | [[20240516]] | When to Retrieve: Teaching LLMs to Utilize Information Retrieval Effectively           |
 | [[20240517]] | A PRIMER ON THE INNER WORKINGS OF TRANSFORMER-BASED LANGUAGE MODELS                    |
+| [[20240518]] | Is artificial consciousness achievable? Lessons from the human brain                   |
+| [[20240519]] | Teaching Algorithm Design: A Literature Review                                         |
+| [[20240520]] | How Good Are Low-bit Quantized LLAMA3 Models? An Empirical Study                       |
 |          |                                                                                        |
 |          |                                                                                        |
 |          |                                                                                        |
@@ -312,3 +315,43 @@ run cycles for simple goals, while for complex goals, human co-piloting becomes 
 - ideas:
   1. claim1: layer normalization is a common operation used to stabilize the training process of deep neural networks
      *This paper is too long for me to digest. Maybe one day i'll come to visit when i project transfromer architecture*
+
+-------------
+** 20240518
+- paper: Is artificial consciousness achievable? Lessons from the
+human brain
+- links: https://arxiv.org/pdf/2405.04540
+- ideas:
+  1. claim1:
+     #+begin_quote
+Given this uncertainty, we recommend not to use the same general term (i.e., consciousness) for both humans and artificial systems; to clearly specify the key differences between them; and, last but not least, to be very clear about which dimension and level of consciousness the artificial system may possibly be capable of displaying.
+#+end_quote
+
+-------------
+** 20240519
+- paper: Teaching Algorithm Design: A Literature Review
+- links: https://arxiv.org/pdf/2405.00832
+- ideas:
+  1. claim: *Systematic literature reviews*
+     * Research Question
+     * Protocol Development
+     * Search Databases
+     * Screen Studies
+     * Extract Data
+     * Assess Quality
+     * Synthesize Data
+     * Report Findings
+
+
+-------------
+** 20240520
+- paper: How Good Are Low-bit Quantized LLAMA3 Models? An Empirical Study
+- links: https://arxiv.org/pdf/2404.14047
+- ideas:
+  1. /Round-To-Nearest(RTN)/ rounding quantization method.
+  2. /LORA/ find tuning quantization
+     *What's the difference between Post-Training Quantization and LORA find-tuning?*
+
+
+
+      
