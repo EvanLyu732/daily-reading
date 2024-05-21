@@ -39,6 +39,7 @@
 | [[20240518]] | Is artificial consciousness achievable? Lessons from the human brain                   |
 | [[20240519]] | Teaching Algorithm Design: A Literature Review                                         |
 | [[20240520]] | How Good Are Low-bit Quantized LLAMA3 Models? An Empirical Study                       |
+| [[20240521]] | A Survey on Retrieval-Augmented Text Generation for Large Language Models              |
 |          |                                                                                        |
 |          |                                                                                        |
 |          |                                                                                        |
@@ -351,6 +352,15 @@ Given this uncertainty, we recommend not to use the same general term (i.e., con
   1. /Round-To-Nearest(RTN)/ rounding quantization method.
   2. /LORA/ find tuning quantization
      *What's the difference between Post-Training Quantization and LORA find-tuning?*
+
+      
+
+-------------
+** 20240521
+- paper: A Survey on Retrieval-Augmented Text Generation for Large Language Models
+- links: https://arxiv.org/pdf/2404.10981
+- ideas:
+  1.  the /RAG paradigm/ into four categories: pre-retrieval, retrieval, post-retrieval, and generation
 
 
 
