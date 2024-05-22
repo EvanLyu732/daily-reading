@@ -40,6 +40,7 @@
 | [[20240519]] | Teaching Algorithm Design: A Literature Review                                         |
 | [[20240520]] | How Good Are Low-bit Quantized LLAMA3 Models? An Empirical Study                       |
 | [[20240521]] | A Survey on Retrieval-Augmented Text Generation for Large Language Models              |
+| [[20240522]] | Best Practices and Lessons Learned on Synthetic Data for Language Models               |
 |          |                                                                                        |
 |          |                                                                                        |
 |          |                                                                                        |
@@ -361,6 +362,15 @@ Given this uncertainty, we recommend not to use the same general term (i.e., con
 - links: https://arxiv.org/pdf/2404.10981
 - ideas:
   1.  the /RAG paradigm/ into four categories: pre-retrieval, retrieval, post-retrieval, and generation
+
+
+
+-------------
+** 20240522
+- paper: Best Practices and Lessons Learned on Synthetic Data for Language Models
+- links: https://arxiv.org/pdf/2404.07503
+- ideas:
+  1.  Training with synthetic data makes evaluation decontamination harder.
 
 
 
