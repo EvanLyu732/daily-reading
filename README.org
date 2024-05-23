@@ -41,6 +41,7 @@
 | [[20240520]] | How Good Are Low-bit Quantized LLAMA3 Models? An Empirical Study                       |
 | [[20240521]] | A Survey on Retrieval-Augmented Text Generation for Large Language Models              |
 | [[20240522]] | Best Practices and Lessons Learned on Synthetic Data for Language Models               |
+| [[20240523]] | Exploring the Limits of Language Modeling                                              |
 |          |                                                                                        |
 |          |                                                                                        |
 |          |                                                                                        |
@@ -371,6 +372,16 @@ Given this uncertainty, we recommend not to use the same general term (i.e., con
 - links: https://arxiv.org/pdf/2404.07503
 - ideas:
   1.  Training with synthetic data makes evaluation decontamination harder.
+
+      
+
+
+-------------
+** 20240523
+- paper: Exploring the Limits of Language Modeling
+- links: https://arxiv.org/pdf/1602.02410
+- ideas:
+  1. The goal of LM is to learn a probability distribution over sequences of symbols pertaining to a language
 
 
 
