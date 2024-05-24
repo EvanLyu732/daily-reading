@@ -385,4 +385,22 @@ Given this uncertainty, we recommend not to use the same general term (i.e., con
 
 
 
+* 20240524: start to follow [[https://x.com/keshavchan/status/1787861946173186062][llya-30]], Well-Written Blog are considered as paper as well.
+
+-------------
+** 20240524
+- paper: The First Law of Complexodynamics
+- links: https://scottaaronson.blog/?p=762
+- ideas:
+  1. quote1: /why does “complexity” or “interestingness” of physical systems seem to increase with time and then hit a maximum and decrease, in contrast to the entropy, which of course increases monotonically?/
+  *Question: What's the difference between entropy in physics and information theory?*
+  2. suppose: /Kolmogorov complexity/ to define /entropy./
+  3. quote2: First Law of Complexodynamics,” exhibiting exactly the behavior that Sean wants: small for the initial state, large for intermediate states, then small again once the mixing has finished.
+  
+    
+
+
+
+
+      
       
