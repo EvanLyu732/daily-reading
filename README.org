@@ -42,6 +42,10 @@
 | [[20240521]] | A Survey on Retrieval-Augmented Text Generation for Large Language Models              |
 | [[20240522]] | Best Practices and Lessons Learned on Synthetic Data for Language Models               |
 | [[20240523]] | Exploring the Limits of Language Modeling                                              |
+| [[20240524]] | The First Law of Complexodynamics                                                      |
+| [[20240525]] | The Unreasonable Effectiveness of Recurrent Neural Networks                            |
+| [[20240526]] | Recurrent Models of Visual Attention                                                   |
+| [[20240527]] | Neural Turing Machines                                                                 |
 |          |                                                                                        |
 |          |                                                                                        |
 |          |                                                                                        |
@@ -397,10 +401,48 @@ Given this uncertainty, we recommend not to use the same general term (i.e., con
   2. suppose: /Kolmogorov complexity/ to define /entropy./
   3. quote2: First Law of Complexodynamics,” exhibiting exactly the behavior that Sean wants: small for the initial state, large for intermediate states, then small again once the mixing has finished.
   
-    
+
+--------
+** 20240525
+- paper: The Unreasonable Effectiveness of Recurrent Neural Networks
+- links: https://arc.net/folder/D0472A20-9C20-4D3F-B145-D2865C0A9FEE
+- ideas:
+  1. quote1: If training vanilla neural nets is optimization over functions, training recurrent nets is optimization over programs.
+    *Good Resources For Learning RNN*: 
+      * [[https://towardsdatascience.com/recurrent-neural-networks-rnns-3f06d7653a85]]
+      * [[https://github.com/karpathy/char-rnn]]
 
 
+--------
+** 20240526
+- paper: Recurrent Models of Visual Attention
+- links: https://arc.net/folder/D0472A20-9C20-4D3F-B145-D2865C0A9FEE
+- ideas:
+  1. quote1: /The model is a recurrent neural network (RNN) which processes inputs sequentially, attending to different locations within the images (or video frames) one at a time, and incrementally combines information from these fixations to build up a dynamic internal representation of the scene or environment./
+  2.  Partially Observable Markov Decision Process (POMDP). 
+--------
+
+------
+** 20240527
+- paper: Neural Turing Machines
+- links: https://arxiv.org/pdf/1410.5401
+- ideas:
+  1. quote1: /Fodor and Pylyshyn (Fodor and Pylyshyn, 1988) famously made two barbed claims about the limitations of neural networks for cognitive modeling. They first objected that connectionist theories were incapable of variable-binding, or the assignment of a particular datum to a particular slot in a data structure./
 
 
+     #+begin_src txt
+Neural Turing Machine:
+
+                      External Input          External Output
+                             \                  /
+                              \                /
+                             +------------+
+                             | Controller |
+                             +------------+
+                               /      \
+                              /        \
+                       +-----------+   +-----------+
+                       | Read Heads|   | Write Heads|
+                       +-----------+   +------------+
       
-      
+#+end_src
