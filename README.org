@@ -46,6 +46,7 @@
 | [[20240525]] | The Unreasonable Effectiveness of Recurrent Neural Networks                            |
 | [[20240526]] | Recurrent Models of Visual Attention                                                   |
 | [[20240527]] | Neural Turing Machines                                                                 |
+| [[20240528]] |                                                                                        |
 |          |                                                                                        |
 |          |                                                                                        |
 |          |                                                                                        |
@@ -389,7 +390,7 @@ Given this uncertainty, we recommend not to use the same general term (i.e., con
 
 
 
-* 20240524: start to follow [[https://x.com/keshavchan/status/1787861946173186062][llya-30]], Well-Written Blog are considered as paper as well.
+* 20240524: start to follow [[https://x.com/keshavchan/status/1787861946173186062][llya-30]], well-written Blog are considered as paper as well.
 
 -------------
 ** 20240524
@@ -446,3 +447,85 @@ Neural Turing Machine:
                        +-----------+   +------------+
       
 #+end_src
+
+
+------
+** 20240528
+- paper: Relational recurrent neural networks
+- links: https://arxiv.org/pdf/1806.01822
+- ideas:
+  1. claim1: /Relational Memory Core (RMC)/ – which employs multi-head dot product attention to allow memories to
+    interact
+
+     #+begin_src txt
+
+                        CORE
+
+                    Prev. Memory
+                         |
+                         v
+     +-------------------+------------------+
+     |                   A                  |
+     |               +----+----+            |
+     |               |    |    |            |
+     |               |  Residual            |
+     |               +----+----+            |
+     |                    |                 |
+     |                    v                 |
+     |                  +----+              |
+     |                  | MLP |             |
+     |                  +----+              |
+     |                    |                 |
+     |                Residual              |
+     |                    |                 |
+     +-------------------+------------------+
+                         |
+                         v
+                       Output
+
+
+         MULTI-HEAD DOT PRODUCT ATTENTION
+
+          Memory
+            |
+            v
+     +-------------------------+
+     |    W_q   W_k   W_v      |
+     |     |     |     |       |
+     | query key value         |
+     | (q1)  (k1)  (v1)        |
+     |     \   |   /           |
+     |      \  |  /            |
+     |       softmax(QK^T)V    |
+     |            |            |
+     |            v            |
+     |      Updated Memory     |
+     +-------------------------+
+
+Compute attention weights
+Queries (Q)            Keys (K)               Weights
++---+---+---+         +---+---+---+         +---+---+---+
+|q1 |q2 |...|         |k1 |k2 |...|         |w1 |w2 |...|
++---+---+---+         +---+---+---+         +---+---+---+
+
+Normalize weights with row-wise softmax
+Normalized Weights
++---+---+---+
+| w1,1 w1,2...|
+| w2,1 w2,2...|
+| ...         |
++---+---+---+
+
+Compute weighted average of values
+Values (V)                Weighted Values
++---+---+---+         +---+---+---+
+|v1 |v2 |...|         |wv1|wv2|...|
++---+---+---+         +---+---+---+
+
+Return updated memory
+Updated Memory
++---+---+---+
+| M1 | M2 |...|
++---+---+---+
+#+end_src
+
