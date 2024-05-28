@@ -46,7 +46,7 @@
 | [[20240525]] | The Unreasonable Effectiveness of Recurrent Neural Networks                            |
 | [[20240526]] | Recurrent Models of Visual Attention                                                   |
 | [[20240527]] | Neural Turing Machines                                                                 |
-| [[20240528]] |                                                                                        |
+| [[20240528]] | Relational recurrent neural networks                                                   |
 |          |                                                                                        |
 |          |                                                                                        |
 |          |                                                                                        |
