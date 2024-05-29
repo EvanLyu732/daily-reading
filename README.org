@@ -47,6 +47,7 @@
 | [[20240526]] | Recurrent Models of Visual Attention                                                   |
 | [[20240527]] | Neural Turing Machines                                                                 |
 | [[20240528]] | Relational recurrent neural networks                                                   |
+| [[20240529]] |                                                                                        |
 |          |                                                                                        |
 |          |                                                                                        |
 |          |                                                                                        |
@@ -529,3 +530,11 @@ Updated Memory
 +---+---+---+
 #+end_src
 
+
+
+------
+** 20240529
+- paper: Keeping Neural Networks Simple by Minimizing the Description Length of the Weights
+- links: https://www.cs.toronto.edu/~hinton/absps/colt93.pdf
+- ideas:
+  1. quote1: The Minimum Description Length Principle (Rissanen, 1986) asserts that the best model of some data is the one that minimizes the combined cost of describing the model and describing the misfit between the model and the data. 
