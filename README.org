@@ -47,7 +47,7 @@
 | [[20240526]] | Recurrent Models of Visual Attention                                                   |
 | [[20240527]] | Neural Turing Machines                                                                 |
 | [[20240528]] | Relational recurrent neural networks                                                   |
-| [[20240529]] |                                                                                        |
+| [[20240529]] | Keeping Neural Networks Simple by Minimizing the Description Length of the Weights     |
 |          |                                                                                        |
 |          |                                                                                        |
 |          |                                                                                        |
