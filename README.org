@@ -48,6 +48,7 @@
 | [[20240527]] | Neural Turing Machines                                                                 |
 | [[20240528]] | Relational recurrent neural networks                                                   |
 | [[20240529]] | Keeping Neural Networks Simple by Minimizing the Description Length of the Weights     |
+| [[20240530]] | RECURRENT NEURAL NETWORK REGULARIZATION                                                |
 |          |                                                                                        |
 |          |                                                                                        |
 |          |                                                                                        |
@@ -538,3 +539,11 @@ Updated Memory
 - links: https://www.cs.toronto.edu/~hinton/absps/colt93.pdf
 - ideas:
   1. quote1: The Minimum Description Length Principle (Rissanen, 1986) asserts that the best model of some data is the one that minimizes the combined cost of describing the model and describing the misfit between the model and the data. 
+
+
+------
+** 20240530
+- paper: RECURRENT NEURAL NETWORK REGULARIZATION
+- links: https://arxiv.org/pdf/1409.2329
+- ideas:
+  1. claim1:  The main contribution of this paper is a recipe for applying dropout to LSTMs in a way that successfully reduces overfitting
