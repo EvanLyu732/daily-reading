@@ -561,3 +561,16 @@ Updated Memory
   3. claim3:  Layer normalization does not have such problem because its normalization terms depend only on the summed inputs to a layer at the current time-step.
 
      *Well, here is a question /what is Internal Covariate Shift/, /why Internal Covariate Shift becomes a problem/ ?*
+
+     Answer by kimi:
+     #+begin_quote
+
+Imagine you're playing a game where you have to sort different colored balls into different baskets. Each basket is for a different color, like a basket for red balls, a basket for blue balls, and so on.
+
+Now, suppose at the start you only have a few balls, and they're not evenly spread out in terms of color. Some baskets have more red balls, some have more blue balls. When you start sorting, you learn how to tell the colors apart based on these limited balls. But if the rules of your game suddenly change, like if you get a lot more balls, or the colors of the balls change, then the way you learned to sort them might not be so accurate anymore.
+
+In machine learning, "Internal Covariate Shift" is a bit like that situation. When we train a machine learning model, we usually use a lot of data to teach it. *But if we change the distribution of the data during training, or if we don't have enough data to represent all the possible situations, then what the model learned might change, too. That's what we call "Internal Covariate Shift."*
+
+Just like how the way you learned to sort the balls at the start of the game might not be accurate if the game's rules change, the machine learning model might need to adjust if the data distribution changes to keep being accurate.
+
+#+end_quote
