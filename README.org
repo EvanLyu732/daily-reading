@@ -50,6 +50,9 @@
 | [[20240529]] | Keeping Neural Networks Simple by Minimizing the Description Length of the Weights     |
 | [[20240530]] | RECURRENT NEURAL NETWORK REGULARIZATION                                                |
 | [[20240531]] | Layer Normalization                                                                    |
+| [[20240601]] | Scaling Laws for Neural Language Models                                                |
+| [[20240602]] | Deep Speech 2: End-to-End Speech Recognition in English and Mandarin                   |
+| [[20240603]] | A Tutorial Introduction to the Minimum Description Length Principle                    |
 |          |                                                                                        |
 |          |                                                                                        |
 |          |                                                                                        |
@@ -574,3 +577,75 @@ In machine learning, "Internal Covariate Shift" is a bit like that situation. Wh
 Just like how the way you learned to sort the balls at the start of the game might not be accurate if the game's rules change, the machine learning model might need to adjust if the data distribution changes to keep being accurate.
 
 #+end_quote
+
+------
+** 20240601
+- paper: Scaling Laws for Neural Language Models
+- links: https://arxiv.org/pdf/2001.08361
+- ideas:
+  1. claim1:  Larger models require /fewer samples/ to reach the same performance
+     * Performance depends strongly on scale, weakly on model shape
+       #+begin_quote
+Simple equations govern the dependence of overfitting on model/dataset size and the
+dependence of training speed on model size. These relationships allow us to determine the
+optimal allocation of a fixed compute budget.
+#+end_quote
+
+------
+** 20240602
+- paper: Deep Speech 2: End-to-End Speech Recognition in English and Mandarin
+- links: https://arxiv.org/pdf/1512.02595
+- ideas:
+  1. claim1:  
+     #+begin_quote
+To achieve these results, we have explored various network architectures, finding several effective
+techniques: enhancements to numerical optimization through SortaGrad and Batch Normalization,
+evaluation of RNNs with larger strides with bigram outputs for English, searching through both
+bidirectional and unidirectional models. This exploration was powered by a well optimized, High
+Performance Computing inspired training system that allows us to train new, full-scale models on
+our large datasets in just a few days.
+#+end_quote
+
+*This paper focuses more on the engineering aspects of the topic.*
+
+
+------
+** 20240603
+- paper: A Tutorial Introduction to the Minimum Description Length Principle
+- links: https://arxiv.org/pdf/math/0406077
+- ideas:
+  1. claim1:  we can therefore say that the more we are able to compress the data, the more we have learned about the data.
+  2. claim2:  The Fundamental Idea: Learning as Data Compression
+  3. claim3:
+     #+begin_quote
+To formalize our ideas, we need to decide on a description method, that is, a formal
+language in which to express properties of the data. The most general choice is a
+general-purpose2 computer language such as C or Pascal. This choice leads to the
+definition of the Kolmogorov Complexity [Li and Vit´anyi 1997] of a sequence as the
+length of the shortest program that prints the sequence and then halts. The lower
+the Kolmogorov complexity of a sequence, the more regular it is. 
+#+end_quote
+
+#+begin_quote
+However, it turns
+out that for every two general-purpose programming languages A and B and every
+data sequence D, the length of the shortest program for D written in language A and
+the length of the shortest program for D written in language B differ by no more
+than a constant c, which does not depend on the length of D. This so-called invari-
+ance theorem says that, as long as the sequence D is long enough, it is not essential
+which computer language one chooses, as long as it is general-purpose.
+
+#+end_quote
+
+#+begin_quote
+*MDL: The Basic Idea*
+The goal of statistical inference may be cast as trying to /find regularity in the data/.
+‘Regularity’ may be identified with ‘/ability to compress/’. MDL combines these two
+insights by viewing learning as data compression: it tells us that, for a given set of
+hypotheses /H/ and data set /D/, we should try to find the hypothesis or combination
+of hypotheses in /H/ that compresses /D/ most.
+#+end_quote
+.... (have not finished yet.)
+
+*This book delves into the fundamental building blocks of current deep learning systems, but it requires a solid background in information theory to fully grasp the underlying concepts.*
+
