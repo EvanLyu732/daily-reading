@@ -56,6 +56,7 @@
 | [[20240604]] | ORDER MATTERS: SEQUENCE TO SEQUENCE FOR SETS                                           |
 | [[20240605]] | Pointer Networks                                                                       |
 | [[20240606]] | Deep Residual Learning for Image Recognition                                           |
+| [[20240607]] | The Shattered Gradients Problem: If resnets are the answer, then what is the question? |
 |          |                                                                                        |
 |          |                                                                                        |
 |          |                                                                                        |
@@ -670,3 +671,10 @@ that, instead of using attention to blend hidden units of an encoder to a contex
   1. claim1: Deep networks naturally integrate low/mid/highlevel features
   2. claim2: When deeper networks are able to start converging, a degradation problem has been exposed: with the network depth increasing, accuracy gets saturated (which might be
 unsurprising and then degrades rapidly. Unexpectedly, such degradation is not caused by overfitting, and adding more layers to a suitably deep model leads to higher training error.
+  *What problems does residual learning actually solved?*
+
+------
+** 20240607
+- paper: The Shattered Gradients Problem: If resnets are the answer, then what is the question?
+- links: https://arxiv.org/pdf/1702.08591 
+- ideas:
