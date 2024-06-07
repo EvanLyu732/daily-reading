@@ -678,3 +678,11 @@ unsurprising and then degrades rapidly. Unexpectedly, such degradation is not ca
 - paper: The Shattered Gradients Problem: If resnets are the answer, then what is the question?
 - links: https://arxiv.org/pdf/1702.08591 
 - ideas:
+  1. claim1: If resnets are the solution, then what is the problem?
+  2. claim2: a previously unnoticed difficulty with gradients in deep rectifier networks that is orthogonal to vanishing and exploding gradients. The shattering gradients problem
+is that, as depth increases, gradients in standard feedforward networks increasingly resemble white noise.
+  1. claim3: The shattered gradient problem is that the spatial structure of gradients is progressively obliterated as neural nets deepen.
+  2. claim4: Introducing skip-connections allows much deeper networks to be trained (Srivastava et al., 2015; He et al., 2016b;a; Greff et al., 2017). Skip-connections signif- icantly change the correlation structure of gradients
+  3. claim5: Batch normalization was introduced to reduce covariate shift (Ioffe & Szegedy, 2015). However, it has other effects that are less well-known – and directly impact the correlation structure of gradients.
+     *Maybe to really understand reset-net and shattered reqiure coding something.*
+
