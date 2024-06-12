@@ -57,6 +57,8 @@
 | [[20240605]] | Pointer Networks                                                                       |
 | [[20240606]] | Deep Residual Learning for Image Recognition                                           |
 | [[20240607]] | The Shattered Gradients Problem: If resnets are the answer, then what is the question? |
+| [[20240608]] | Scaling and evaluating sparse autoencoders                                             |
+| [[20240612]] | Identity Mappings in Deep Residual Networks                                            |
 |          |                                                                                        |
 |          |                                                                                        |
 |          |                                                                                        |
@@ -686,3 +688,22 @@ is that, as depth increases, gradients in standard feedforward networks increasi
   3. claim5: Batch normalization was introduced to reduce covariate shift (Ioffe & Szegedy, 2015). However, it has other effects that are less well-known – and directly impact the correlation structure of gradients.
      *Maybe to really understand reset-net and shattered reqiure coding something.*
 
+------
+** 20240608
+*OpenAI new paper about using top-k sparse autoencoder for neural network explaination*
+- paper: Scaling and evaluating sparse autoencoders
+- links:https://cdn.openai.com/papers/sparse-autoencoders.pdf 
+- ideas:
+  1. I write a chinese blog about this paper, check this [[https://evanlyu732.github.io/blog10/][link]]
+
+
+------
+** 20240612
+*Continue llya-30* 
+- paper: Identity Mappings in Deep Residual Networks
+- links: https://arxiv.org/pdf/1603.05027
+- ideas:
+  1. claim1: This paper investigates the propagation formulations behind the connection
+mechanisms of deep residual networks. Our derivations imply that identity short-
+cut connections and identity after-addition activation are essential for making
+information propagation smooth.
