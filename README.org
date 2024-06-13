@@ -59,6 +59,7 @@
 | [[20240607]] | The Shattered Gradients Problem: If resnets are the answer, then what is the question? |
 | [[20240608]] | Scaling and evaluating sparse autoencoders                                             |
 | [[20240612]] | Identity Mappings in Deep Residual Networks                                            |
+| [[20240613]] | Quantifying the Rise and Fall of Complexity in Closed Systems: The Coffee Automaton    |
 |          |                                                                                        |
 |          |                                                                                        |
 |          |                                                                                        |
@@ -707,3 +708,29 @@ is that, as depth increases, gradients in standard feedforward networks increasi
 mechanisms of deep residual networks. Our derivations imply that identity short-
 cut connections and identity after-addition activation are essential for making
 information propagation smooth.
+
+------
+** 20240613
+- paper: Quantifying the Rise and Fall of Complexity in Closed Systems: The Coffee Automaton
+- links: https://arxiv.org/pdf/1405.6903
+- ideas:
+  1. claim1: Just as we can reason about the disorder of the coffee cup system, we can also consider its
+“complexity.” Informally, by complexity we mean the /amount of information/ needed to describe
+everything “interesting” about the system. 
+
+*I don't know why paper have relation to deep learning, so i ask GPT4 and here is the answers may help you:*
+
+#+begin_quote
+The paper "Quantifying the Rise and Fall of Complexity in Closed Systems: The Coffee Automaton" relates to deep learning in several ways:
+
+1. **Optimization and Convergence**: The process of complexity rising and falling in a closed system is similar to the optimization and convergence of neural networks during training. As a model learns, its complexity increases, reaches a peak, and then stabilizes as it approaches an optimal solution.
+
+2. **Dynamic Systems**: Both the Coffee Automaton and deep learning models are dynamic systems that evolve over time. Understanding how complexity changes in these systems can provide insights into the behavior and stability of neural networks.
+
+3. **Pattern Recognition**: The study of how patterns emerge and disappear in the automaton parallels how deep learning models recognize and simplify patterns in data. This understanding can help improve model design and efficiency.
+
+4. **Entropy and Information Theory**: The concepts of entropy and information theory used to quantify complexity in the paper are also fundamental to understanding the information processing capabilities of deep learning models.
+
+These parallels highlight the broader applicability of principles from the study of physical systems to the field of deep learning, providing valuable insights into the dynamics and optimization of neural networks.
+#+end_quote
+
