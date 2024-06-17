@@ -61,6 +61,7 @@
 | [[20240612]] | Identity Mappings in Deep Residual Networks                                            |
 | [[20240613]] | Quantifying the Rise and Fall of Complexity in Closed Systems: The Coffee Automaton    |
 | [[20240614]] | VARIATIONAL LOSSY AUTOENCODER                                                          |
+| [[20240617]] | A simple neural network module for relational reasoning                                |
 |          |                                                                                        |
 |          |                                                                                        |
 |          |                                                                                        |
@@ -775,13 +776,13 @@ However, earlier attempts at combining these two kinds of models have run into t
 
   ** My quesiton where does maximum likelihood comes from ? **
 
-   * second pass:
+---------
+** 20240617
+- paper: A simple neural network module for relational reasoning
+- links: https://arxiv.org/pdf/1706.01427
+- ideas:
+    * first-pass:
 
-        Q: 
-        A: 
-
-        Q: 
-        A: 
-
-        Q: 
-        A: 
+        Q: what is paper about? 
+        A: the paper proposed a network called "Relational Network " as a module that can be plugged into the network, which can improve the reason ability of the networks.
+           
