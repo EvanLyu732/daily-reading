@@ -62,6 +62,7 @@
 | [[20240613]] | Quantifying the Rise and Fall of Complexity in Closed Systems: The Coffee Automaton    |
 | [[20240614]] | VARIATIONAL LOSSY AUTOENCODER                                                          |
 | [[20240617]] | A simple neural network module for relational reasoning                                |
+| [[20240619]] | The Dawning of a New Era in Applied Mathematics                                        |
 |          |                                                                                        |
 |          |                                                                                        |
 |          |                                                                                        |
@@ -694,15 +695,7 @@ is that, as depth increases, gradients in standard feedforward networks increasi
 ------
 ** 20240608
 *OpenAI new paper about using top-k sparse autoencoder for neural network explaination*
-- paper: Scaling and evaluating sparse autoencoders
-- links:https://cdn.openai.com/papers/sparse-autoencoders.pdf 
-- ideas:
-  1. I write a chinese blog about this paper, check this [[https://evanlyu732.github.io/blog10/][link]]
-
-
-------
-** 20240612
-*Continue llya-30* 
+- p
 - paper: Identity Mappings in Deep Residual Networks
 - links: https://arxiv.org/pdf/1603.05027
 - ideas:
@@ -786,3 +779,21 @@ However, earlier attempts at combining these two kinds of models have run into t
         Q: what is paper about? 
         A: the paper proposed a network called "Relational Network " as a module that can be plugged into the network, which can improve the reason ability of the networks.
            
+
+---------
+** 20240619
+*This paper is more like educational paper, so there is no pass.*
+- paper: The Dawning of a New Era in Applied Mathematics
+- links: https://www.ams.org/journals/notices/202104/rnoti-p565.pdf
+- ideas:
+  * In the =Keplerian paradigm=, or the =data-driven approach=, =one extracts scientific discoveries through the analysis of data=. The classical example is Kepler’s laws of planetary motion. Bioinformatics provides a compelling illustration of the success of the Keplerian paradigm in modern times
+  * In the =Newtonian paradigm=, or the =first-principle-based approach=, =the objective is to discover the fundamental principles that govern the world around us or the things we are interested in=
+
+    The data-driven approach has become a very powerful tool with the advance of statistical methods and machine learning. It is very effective for finding the facts, but less
+effective for helping us to find the reasons behind the facts.
+
+    The first-principle-based approach aims at understand ing at the most fundamental level. Physics, in particular, is driven by the pursuit of such first principles. A turn-
+ing point was in 1929 with the establishment of quantum mechanics: as was declared by Dirac [2], with quantum
+           
+
+    This is the dilemma we often face in the first principle-based approach: it is fundamental but not very practical.
