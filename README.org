@@ -63,6 +63,7 @@
 | [[20240614]] | VARIATIONAL LOSSY AUTOENCODER                                                          |
 | [[20240617]] | A simple neural network module for relational reasoning                                |
 | [[20240619]] | The Dawning of a New Era in Applied Mathematics                                        |
+| [[20240620]] | LANGUAGE MODELING IS COMPRESSION                                                       |
 |          |                                                                                        |
 |          |                                                                                        |
 |          |                                                                                        |
@@ -797,3 +798,28 @@ ing point was in 1929 with the establishment of quantum mechanics: as was declar
            
 
     This is the dilemma we often face in the first principle-based approach: it is fundamental but not very practical.
+
+
+---------
+** 20240620
+- paper: LANGUAGE MODELING IS COMPRESSION
+- links: https://arxiv.org/pdf/2309.10668v2
+- ideas:
+    * first-pass:
+
+        Q: what is paper about? 
+        A:  prediction-compression equivalence allows us to use any compressor (like gzip) to build a conditional generative mode
+
+        Q: what is the hypnosis? 
+        A:  Arithmetic coding transforms a sequence model into a compressor, and, conversely, a compressor can be
+transformed into a predictor using its coding lengths to construct probability distributions following
+Shannon’s entropy principle. 
+
+
+Question: It has long been established that predictive models can be transformed into lossless
+compressors and vice versa. Why?
+
+A: 
+   
+
+   *This paper worth digging*.
