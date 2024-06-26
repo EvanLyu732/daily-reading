@@ -64,6 +64,8 @@
 | [[20240617]] | A simple neural network module for relational reasoning                                |
 | [[20240619]] | The Dawning of a New Era in Applied Mathematics                                        |
 | [[20240620]] | LANGUAGE MODELING IS COMPRESSION                                                       |
+| [[20240625]] | Large Language Model Evaluation via Matrix Entropy                                     |
+| [[20240626]] | The Platonic Representation Hypothesis                                                 |
 |          |                                                                                        |
 |          |                                                                                        |
 |          |                                                                                        |
@@ -808,10 +810,10 @@ ing point was in 1929 with the establishment of quantum mechanics: as was declar
     * first-pass:
 
         Q: what is paper about? 
-        A:  prediction-compression equivalence allows us to use any compressor (like gzip) to build a conditional generative mode
+        A: prediction-compression equivalence allows us to use any compressor (like gzip) to build a conditional generative mode
 
         Q: what is the hypnosis? 
-        A:  Arithmetic coding transforms a sequence model into a compressor, and, conversely, a compressor can be
+        A: Arithmetic coding transforms a sequence model into a compressor, and, conversely, a compressor can be
 transformed into a predictor using its coding lengths to construct probability distributions following
 Shannon’s entropy principle. 
 
@@ -823,3 +825,46 @@ A:
    
 
    *This paper worth digging*.
+
+
+---------
+** 20240625
+- paper: Large Language Model Evaluation via Matrix Entropy
+- links: https://arxiv.org/pdf/2401.17139
+- ideas:
+    * first-pass:
+
+       Q: what is paper about?
+       A: this paper introduce matrix entropy. This compression process enables the model to learn and understand the shared structure of data
+
+        core idea: We introduce matrix entropy, a new intrinsic metric that reflects the extent to which a language model
+        “compresses” the common knowledge in the data.
+
+  *Probably try it out in someday.*
+
+
+---------
+** 20240626
+- paper: The Platonic Representation Hypothesis
+- links: https://arxiv.org/pdf/2405.07987
+- ideas:
+    * first-pass:
+       Q: what is paper about?
+       A: representations in AI models, par-
+ticularly deep networks, are converging. First, we
+survey many examples of convergence in the lit-
+erature: over time and across multiple domains,
+the ways by which different neural networks rep-
+resent data are becoming more aligned. Next, we
+demonstrate convergence across data modalities:
+as vision models and language models get larger,
+they measure distance between datapoints in a
+more and more alike way. We hypothesize that
+this convergence is driving toward a shared sta-
+tistical model of reality, akin to Plato’s concept
+of an ideal reality. 
+
+*The Platonic Representation Hypothesis*: Neural networks, trained with different objectives on different data and modalities, are converging to a shared statistical model of reality in their representation spaces.
+
+Models are increasingly aligning to brains.
+
