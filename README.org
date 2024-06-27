@@ -66,6 +66,7 @@
 | [[20240620]] | LANGUAGE MODELING IS COMPRESSION                                                       |
 | [[20240625]] | Large Language Model Evaluation via Matrix Entropy                                     |
 | [[20240626]] | The Platonic Representation Hypothesis                                                 |
+| [[20240627]] | Superlinear Returns                                                                    |
 |          |                                                                                        |
 |          |                                                                                        |
 |          |                                                                                        |
@@ -867,4 +868,25 @@ of an ideal reality.
 *The Platonic Representation Hypothesis*: Neural networks, trained with different objectives on different data and modalities, are converging to a shared statistical model of reality in their representation spaces.
 
 Models are increasingly aligning to brains.
+
+
+--------
+** 20240627
+- paper: Superlinear Returns
+- links: https://paulgraham.com/superlinear.html
+- takeaway:
+  * If your product is only half as good as your competitor's, you don't get half as many customers. You get no customers, and you go out of business.
+  * the companies with high growth rates tend to become immensely valuable, while the ones with lower growth rates may not even survive.
+  * Y Combinator encourages founders to focus on growth rate rather than absolute numbers.
+  * The most common case of exponential growth in preindustrial times was probably scholarship. The more you know, the easier it is to learn new things.
+  * Knowledge grows exponentially, but there are also thresholds in it. Learning to ride a bicycle, for example. Some of these thresholds are akin to machine tools.
+  * There are two ways work can compound. It can compound directly, in the sense that doing well in one cycle causes you to do better in the next. That happens for example when you're building infrastructure, or growing an audience or brand. Or work can compound by teaching you, since learning compounds. This second case is an interesting one because you may feel you're doing badly as it's happening.
+  * This is one reason Silicon Valley is so tolerant of failure. =People in Silicon Valley aren't blindly tolerant of failure. They'll only continue to bet on you if you're learning from your failures.= But if you are, you are in fact a good bet: maybe your company didn't grow the way you wanted, but you yourself have, and that should yield results eventually.
+  * Which yields another heuristic: always be learning. If you're not learning, you're probably not on a path that leads to superlinear returns.
+  * =But don't overoptimize what you're learning. Don't limit yourself to learning things that are already known to be valuable. You're learning; you don't know for sure yet what's going to be valuable, and if you're too strict you'll lop off the outliers.=
+  * A principle for taking advantage of thresholds has to include a test to ensure the game is worth playing. Here's one that does: if you come across something that's mediocre yet still popular, it could be a good idea to replace it. For example, if a company makes a product that people dislike yet still buy, then presumably they'd buy a better alternative if you made one.
+  * So one heuristic here is to be driven by curiosity rather than careerism — to give free rein to your curiosity instead of working on what you're supposed to.
+
+    *Pg's essay are really good. It's worthing to categorize all his papers into different category.*
+
 
