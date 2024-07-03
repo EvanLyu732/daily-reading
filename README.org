@@ -68,6 +68,7 @@
 | [[20240626]] | The Platonic Representation Hypothesis                                                 |
 | [[20240627]] | Superlinear Returns                                                                    |
 | [[20240628]] | How to Do Great Work                                                                   |
+| [[20240703]] | The Best Essay                                                                         |
 |          |                                                                                        |
 |          |                                                                                        |
 |          |                                                                                        |
@@ -970,4 +971,34 @@ Use the advantages of youth when you have them, and the advantages of age once y
 
 
 
+--------
+** 20240703
+- paper: The Best Essay
+- links: https://paulgraham.com/best.html
+- takeaway:
+  * How do you get this initial question? It probably won't work to choose some important-sounding topic at random and go at it.
+    =Professional traders won't even trade unless they have what they call an edge — a convincing story about why in some class of trades they'll win more than they lose.
+    Similarly, you shouldn't attack a topic unless you have a way in — some new insight about it or way of approaching it.=
+  * Perhaps beginning writers are alarmed at the thought of starting with something mistaken or incomplete, but you shouldn't be, because this is why essay writing works. Forcing yourself to commit to some specific string of words gives you a starting point, and if it's wrong, you'll see that when you reread it. At least half of essay writing is rereading what you've written and asking is this correct and complete? You have to be very strict when rereading, not just because you want to keep yourself honest, but because a gap between your response and the truth is often a sign of new ideas to be discovered.
+  * =Ideally the response to a question is two things: the first step in a process that converges on the truth, and a source of additional questions (in my very general sense of the word). So the process continues recursively, as response spurs response. [4]=
+  * It would be a mistake to let this make you too conservative though, because you can't predict where a question will lead. Not if you're doing things right, because doing things right means making discoveries, and by definition you can't predict those. So the way to respond to this situation is not to be cautious about which initial question you choose, but to write a lot of essays. Essays are for taking risks.
+  * =Almost any question can get you a good essay.= Indeed, it took some effort to think of a sufficiently unpromising topic in the third paragraph, because any essayist's first impulse on hearing that the best essay couldn't be about x would be to try to write it. But if most questions yield good essays, only some yield great ones.
+  * This essay is an example. Writing about the best essay implies there is such a thing, which pseudo-intellectuals will dismiss as reductive, though it follows necessarily from the possibility of one essay being better than another. And thinking about how to do something so ambitious is close enough to doing it that it holds your attention.
+  * I like to start an essay with a gleam in my eye. This could be just a taste of mine, but there's one aspect of it that probably isn't: to write a really good essay on some topic, you have to be interested in it. A good writer can write well about anything, but to stretch for the novel insights that are the raison d'etre of the essay, you have to care.
+  * What other qualities would a great initial question have? It's probably good if it has implications in a lot of different areas. And I find it's a good sign if it's one that people think has already been thoroughly explored. =But the truth is that I've barely thought about how to choose initial questions, because I rarely do it. I rarely choose what to write about; I just start thinking about something, and sometimes it turns into an essay.=
+  * Perhaps the answer is to go one step earlier: to write about whatever pops into your head, but try to ensure that what pops into your head is good. Indeed, now that I think about it, this has to be the answer, because a mere list of topics wouldn't be any use if you didn't have edge with any of them. To start writing an essay, you need a topic plus some initial insight about it, and you can't generate those systematically. If only. [9]
+  * You can probably cause yourself to have more of them, though. The quality of the ideas that come out of your head depends on what goes in, and you can improve that in two dimensions, =breadth and depth.=
+  * You can't learn everything, so getting breadth implies learning about topics that are very different from one another. When I tell people about my book-buying trips to Hay and they ask what I buy books about, I usually feel a bit sheepish answering, because the topics seem like a laundry list of unrelated subjects. But perhaps that's actually optimal in this business.
+  * You can also get ideas by talking to people, by doing and building things, and by going places and seeing things. I don't think it's important to talk to new people so much as the sort of people who make you have new ideas. I get more new ideas after talking for an afternoon with Robert Morris than from talking to 20 new smart people. I know because that's what a block of office hours at Y Combinator consists of.
+  * =While breadth comes from reading and talking and seeing, depth comes from doing.=  *The way to really learn about some domain is to have to solve problems in it.* Though this could take the form of writing, I suspect that to be a good essayist you also have to do, or have done, some other kind of work. That may not be true for most other fields, but essay writing is different. You could spend half your time working on something else and be net ahead, so long as it was hard.
+  * That's the ultimate source of drag on the connectedness of ideas: the discoveries you make along the way. If you discover enough starting from question A, you'll never make it to question B. Though if you keep writing essays you'll gradually fix this problem by burning off such discoveries. So bizarrely enough, writing lots of essays makes it as if the space of ideas were more highly connected.
+  * =There are two senses in which an essay can be timeless: to be about a matter of permanent importance, and always to have the same effect on readers.= With art these two senses blend together. Art that looked beautiful to the ancient Greeks still looks beautiful to us. But with essays the two senses diverge, because essays teach, and you can't teach people something they already know. Natural selection is certainly a matter of permanent importance, but an essay explaining it couldn't have the same effect on us that it would have had on Darwin's contemporaries, precisely because his ideas were so successful that everyone already knows about them.
+  * If you want to surprise readers not just now but in the future as well, you have to write essays that won't stick — essays that, no matter how good they are, won't become part of what people in the future learn before they read them.
+  * But although I wish I could say that writing great essays depends mostly on effort, in the limit case it's inspiration that makes the difference. In the limit case, the questions are the harder thing to get. That pool has no bottom.
+
+    How to get more questions? That is the most important question of all.
+
+
+    
+ 
 
