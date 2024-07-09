@@ -72,6 +72,7 @@
 | [[20240704]] | Life is Short                                                                          |
 | [[20240705]] | Putting Ideas into Words                                                               |
 | [[20240708]] | How to think in writing                                                                |
+| [[20240709]] | C++ design patterns for low-latency applications including high-frequency trading      |
 |          |                                                                                        |
 |          |                                                                                        |
 |          |                                                                                        |
@@ -1048,3 +1049,138 @@ Use the advantages of youth when you have them, and the advantages of age once y
   * By doing this, I try to =continually focus my reading on the goal of forming a bottom-line view, rather than just “gathering information.”= I think this makes my investigations more focused and directed, and the results easier to retain. I consider this approach to be =probably the single biggest difference-maker between "reading a ton about lots of things, but retaining little" and "efficiently developing a set of views on key topics and retaining the reasoning behind them."=
 
 
+
+-------
+** 20240709
+- paper: C++ design patterns for low-latency applications including high-frequency trading
+- links: https://arxiv.org/pdf/2309.04259
+- takeaway:
+  Optimization in C++ 
+  * Cache Warming:
+  * Compile-time dispatch:
+  * Constexpr:
+  * Loop Unrolling:
+  * Short-circuiting:
+  * Signed vs Unsigned Comparsions:
+  * Avoid Mixing Float and Doubles
+  * Branch Prediction/Reduction:
+  * Slowpath Removal:
+  * SIMD:
+  * Prefetching:
+  * Lock-free Programming: 
+  * Inlining: 
+   
+
+ _ring buffer_: lock-free programming
+
+ #+begin_src 
+        +--------------------+
+        |   Memory request   |
+        +--------------------+
+                  |
+                  v
+        +--------------------+
+        |    Request type    |
+        +--------------------+
+        /                    \
+       /                      \
+      v                        v
+  +-------+                +-------+
+  |  Read |                | Write |
+  +-------+                +-------+
+      |                        |
+      v                        v
++------------+            +------------+
+| Cache hit? |            | Cache hit? |
++------------+            +------------+
+      |                        |
+  No  | Yes                No  | Yes
+      |                        |
++------------------+      +------------------+
+| Locate a cache   |      | Write data into  |
+| block to use     |      | cache block      |
++------------------+      +------------------+
+      |                        |
+      v                        v
++----------------------------+ |
+| Read data from lower       | |
+| memory into the cache block| |
++----------------------------+ |
+      |                        |
+      v                        v
++------------------+    +------------------+
+|  Return data     |    | Write data into  |
++------------------+    | lower memory     |
+      |                 +------------------+
+      v                        |
++--------------------+         v
+|        Done        |<-------/
++--------------------+
+ #+end_src
+
+
+Beyond networking protocols and physical infrastructure, HFT firms invest in specialized hardware. Field-Programmable Gate Arrays (FPGAs) and Application-Specific
+Integrated Circuits (ASICs) are common choices, as they can execute trading algorithms more efficiently than general-purpose processors
+
+Runtime dispatch, also known as dynamic dispatch, resolves function calls at runtime. This method is primarily associated with inheritance and virtual func-
+tions [13]. In such cases, the function that gets executed relies on the object’s type at runtime. Conversely, compile-time dispatch determines the function call during the compilation phase and is frequently used in conjunction with templates and function overloading.
+
+#+begin_src 
+
+Bad design:                                                
+
+if (checkForErrorA())
+    handleErrorA();
+else if (checkForErrorB())
+    handleErrorB();
+else if (checkForErrorC())
+    handleErrorC();
+else
+    executeHotpath();
+
+
+Good design:
+
+uint32_t errorFlags;
+...
+if (errorFlags)
+    HandleError(errorFlags);
+else
+{
+    ... hotpath
+}
+
+#+end_src
+
+** SIMD Array Addition:
+    ArrayAddition: Takes approximately 20,000 ns.
+    ArrayAddition_SIMD: Takes approximately 12,000 ns, showing improved performance compared to regular array addition.
+** Lock-Free Programming:
+    Mutex: Takes approximately 175,000 ns.
+    Atomic: Takes approximately 75,000 ns, demonstrating better performance compared to using mutex.
+    
+
+kernel bypass: =Kernel bypass mitigates these latency issues by facilitating direct communication between user applications
+and the network interface card (NIC).=
+
+
+#+begin_src 
+Speed Improvement by Optimisation Technique
+-------------------------------------------------------------
+| Technique                  | Speed Improvement (%)        |
+-------------------------------------------------------------
+| Cache Warming              | ############################ 90.00% |
+| Constexpr                  | ############################ 90.88% |
+| Loop unrolling             | ####################### 72.00%      |
+| Lock-Free Programming      | ################### 63.00%          |
+| Mixing data types          | ################## 52.00%           |
+| Short-circuiting           | ################## 50.00%           |
+| SIMD Instructions          | ################## 49.00%           |
+| Branch reduction           | ########### 36.00%                  |
+| Compile-time dispatch      | ########### 26.00%                  |
+| Prefetching                | ######## 23.50%                     |
+| Inlining                   | ####### 20.50%                      |
+| Signed vs unsigned         | #### 12.15%                         |
+| Slowpath removal           | #### 12.00%                         |
+-------------------------------------------------------------
+#+end_src
