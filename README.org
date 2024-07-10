@@ -73,6 +73,7 @@
 | [[20240705]] | Putting Ideas into Words                                                               |
 | [[20240708]] | How to think in writing                                                                |
 | [[20240709]] | C++ design patterns for low-latency applications including high-frequency trading      |
+| [[20240710]] | An Introduction to Vision-Language Modeling                                            |
 |          |                                                                                        |
 |          |                                                                                        |
 |          |                                                                                        |
@@ -1184,3 +1185,12 @@ Speed Improvement by Optimisation Technique
 | Slowpath removal           | #### 12.00%                         |
 -------------------------------------------------------------
 #+end_src
+
+-------
+** 20240710
+- paper: An Introduction to Vision-Language Modeling
+- links: https://arxiv.org/pdf/2405.17247
+- takeaway:
+#+CAPTION: An Introduction to VLM
+#+NAME:   fig:SED-HR4049
+[[./static/vlm.png]]
