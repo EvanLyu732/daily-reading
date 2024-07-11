@@ -74,6 +74,7 @@
 | [[20240708]] | How to think in writing                                                                |
 | [[20240709]] | C++ design patterns for low-latency applications including high-frequency trading      |
 | [[20240710]] | An Introduction to Vision-Language Modeling                                            |
+| [[20240711]] | Being a Noob                                                                           |
 |          |                                                                                        |
 |          |                                                                                        |
 |          |                                                                                        |
@@ -1194,3 +1195,14 @@ Speed Improvement by Optimisation Technique
 #+CAPTION: An Introduction to VLM
 #+NAME:   fig:SED-HR4049
 [[./static/vlm.png]]
+
+-------
+** 20240711
+- paper: Being a Noob
+- links: https://www.paulgraham.com/noob.html
+- takeaway:
+  * It's not pleasant to feel like a noob. And the word "noob" is certainly not a compliment. And yet today I realized something encouraging about being a noob: the more of a noob you are locally, the less of a noob you are globally.
+  * Though it feels unpleasant, and people will sometimes ridicule you for it, the more you feel like a noob, the better.
+
+
+
