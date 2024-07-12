@@ -1232,7 +1232,7 @@ Speed Improvement by Optimisation Technique
     A: this paper propose a method called robotics transformers which aims to solve general robotics problems.
 
 Architecture: 
-#+CAPTION: An Introduction to VLM
+#+CAPTION: Robot Transformer Architecture
 #+NAME:   fig:SED-HR4049
 [[./static/robot-transformer.png]]
 
