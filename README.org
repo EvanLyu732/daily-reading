@@ -75,6 +75,7 @@
 | [[20240709]] | C++ design patterns for low-latency applications including high-frequency trading      |
 | [[20240710]] | An Introduction to Vision-Language Modeling                                            |
 | [[20240711]] | Being a Noob                                                                           |
+| [[20240712]] | How to Start Google                                                                    |
 |          |                                                                                        |
 |          |                                                                                        |
 |          |                                                                                        |
@@ -1203,6 +1204,23 @@ Speed Improvement by Optimisation Technique
 - takeaway:
   * It's not pleasant to feel like a noob. And the word "noob" is certainly not a compliment. And yet today I realized something encouraging about being a noob: the more of a noob you are locally, the less of a noob you are globally.
   * Though it feels unpleasant, and people will sometimes ridicule you for it, the more you feel like a noob, the better.
+
+
+-------
+** 20240712
+- paper: How to Start Google
+- links: https://www.paulgraham.com/google.html
+- takeaway:
+  * The trick is to start your own company. So it's not a trick for avoiding work, because if you start your own company you'll work harder than you would if you had an ordinary job. But you will avoid many of the annoying things that come with a job, including a boss telling you what to do
+  * All you can know when you start working on a startup is that it seems worth pursuing. You can't know whether it will turn into a company worth billions or one that goes out of business. So when I say I'm going to tell you how to start Google, I mean I'm going to tell you how to get to the point where you can start a company that has as much chance of being Google as Google had of being Google.
+  * You need to be good at some kind of technology, you need an idea for what you're going to build, and you need cofounders to start the company with.
+  * Just work on whatever interests you the most. You'll work much harder on something you're interested in than something you're doing because you think you're supposed to.
+  * Those of you who are taking computer science classes in school may at this point be thinking, ok, we've got this sorted. We're already being taught all about programming. But sorry, this is not enough. You have to be working on your own projects, not just learning stuff in classes. You can do well in computer science classes without ever really learning to program. In fact you can graduate with a degree in computer science from a top university and still not be any good at programming. That's why tech companies all make you take a coding test before they'll hire you, regardless of where you went to university or how well you did there. They know grades and exam results prove nothing.
+  * =Actually it's easy to get startup ideas once you're good at technology. Once you're good at some technology, when you look at the world you see dotted outlines around the things that are missing. You start to be able to see both the things that are missing from the technology itself, and all the broken things that could be fixed using it, and each one of these is a potential startup.=
+  * So the list of what you need to do to get from here to starting a startup is quite short. You need to get good at technology, and the way to do that is to work on your own projects. And you need to do as well in school as you can, so you can get into a good university, because that's where the cofounders and the ideas are.
+    That's it, just two things, build stuff and do well in school.
+
+
 
 
 
