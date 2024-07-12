@@ -76,6 +76,7 @@
 | [[20240710]] | An Introduction to Vision-Language Modeling                                            |
 | [[20240711]] | Being a Noob                                                                           |
 | [[20240712]] | How to Start Google                                                                    |
+| [[20240713]] | RT-1: ROBOTICS TRANSFORMER FOR REAL-WORLD CONTROL AT SCALE                             |
 |          |                                                                                        |
 |          |                                                                                        |
 |          |                                                                                        |
@@ -1221,6 +1222,18 @@ Speed Improvement by Optimisation Technique
     That's it, just two things, build stuff and do well in school.
 
 
+-------
+** 20240713
+- paper: RT-1: ROBOTICS TRANSFORMER FOR REAL-WORLD CONTROL AT SCALE
+- links: https://robotics-transformer1.github.io/assets/rt1.pdf
+- takeaway:
+  * first-pass:
+    Q: what's this paper is about?
+    A: this paper propose a method called robotics transformers which aims to solve general robotics problems.
 
+Architecture: 
+#+CAPTION: An Introduction to VLM
+#+NAME:   fig:SED-HR4049
+[[./static/robot-transformer.png]]
 
 
