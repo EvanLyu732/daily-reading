@@ -77,6 +77,7 @@
 | [[20240711]] | Being a Noob                                                                           |
 | [[20240712]] | How to Start Google                                                                    |
 | [[20240713]] | RT-1: ROBOTICS TRANSFORMER FOR REAL-WORLD CONTROL AT SCALE                             |
+| [[20240715]] |                                                                                        |
 |          |                                                                                        |
 |          |                                                                                        |
 |          |                                                                                        |
@@ -1237,3 +1238,20 @@ Architecture:
 [[./static/robot-transformer.png]]
 
 
+
+-------
+** 20240715
+- paper: RT-2: Vision-Language-Action Models Transfer
+Web Knowledge to Robotic Control
+- links: https://arxiv.org/pdf/2307.15818
+- takeaway:
+  * first-pass:
+    Q: what's this paper is about?
+    A: Key method: tokenizing the actions into text tokens and creating “multimodal
+sentences” (Driess et al., 2023) that “respond” to robotic instructions paired with camera observations
+by producing corresponding actions.
+
+Architecture: 
+#+CAPTION: Robot Transformer Architecture
+#+NAME:   fig:SED-HR4049
+[[./static/vlm2.png]]
