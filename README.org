@@ -77,7 +77,8 @@
 | [[20240711]] | Being a Noob                                                                           |
 | [[20240712]] | How to Start Google                                                                    |
 | [[20240713]] | RT-1: ROBOTICS TRANSFORMER FOR REAL-WORLD CONTROL AT SCALE                             |
-| [[20240715]] |                                                                                        |
+| [[20240715]] | RT-2: Vision-Language-Action Models Transfer                                           |
+| [[20240716]] | A Survey on Efficient Inference for Large Language Models                              |
 |          |                                                                                        |
 |          |                                                                                        |
 |          |                                                                                        |
@@ -1255,3 +1256,66 @@ Architecture:
 #+CAPTION: Robot Transformer Architecture
 #+NAME:   fig:SED-HR4049
 [[./static/vlm2.png]]
+
+-------
+** 20240716
+- paper: A Survey on Efficient Inference for Large Language Models
+- links: https://arxiv.org/pdf/2404.14294
+- takeaway:
+    Based on the above methods and
+    techniques, the inference process of LLMs can be divided
+    into two stages:
+
+    • Prefilling Stage: The LLM calculates and stores the KV
+    cache of the initial input tokens, and generates the first
+    output token
+
+    • Decoding Stage: The LLM generates the output tokens
+    one by one with the KV cache, and then updates it with
+    the key (K) and value (V) pairs of the newly generated
+    token
+
+-------
+** 20240717
+- paper: Towards Efficient Generative Large Language Model Serving:
+A Survey from Algorithms to Systems
+- links: https://arxiv.org/pdf/2312.15234
+- takeaway:
+  * first-pass:
+
+Architecture: 
+#+CAPTION: overview llm infer
+#+NAME:   fig:SED-HR4049
+[[./static/llm-infer.png]]
+
+Architecture: 
+#+CAPTION: overview llm infer
+#+NAME:   fig:SED-HR4049
+[[./static/llm-infer2.png]]
+
+Architecture: 
+#+CAPTION: overview llm infer
+#+NAME:   fig:SED-HR4049
+[[./static/llm-infer3.png]]
+
+Architecture: 
+#+CAPTION: overview llm infer
+#+NAME:   fig:SED-HR4049
+[[./static/llm-infer4.png]]
+
+Architecture: 
+#+CAPTION: overview llm infer
+#+NAME:   fig:SED-HR4049
+[[./static/llm-infer5.png]]
+
+
+Architecture: 
+#+CAPTION: overview llm infer
+#+NAME:   fig:SED-HR4049
+[[./static/llm-infer6.png]]
+
+
+Architecture: 
+#+CAPTION: overview llm infer
+#+NAME:   fig:SED-HR4049
+[[./static/llm-infer7.png]]
