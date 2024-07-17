@@ -79,7 +79,9 @@
 | [[20240713]] | RT-1: ROBOTICS TRANSFORMER FOR REAL-WORLD CONTROL AT SCALE                                                           |
 | [[20240715]] | RT-2: Vision-Language-Action Models Transfer                                                                         |
 | [[20240716]] | A Survey on Efficient Inference for Large Language Models                                                            |
-| [[20240717]] | Beyond Euclid: An Illustrated Guide to Modern Machine Learning with Geometric, Topological, and Algebraic Structures |
+| [[20240717]] | Towards Efficient Generative Large Language Model Serving: A Survey from Algorithms to Systems                       |
+| [[20240718]] | Beyond Euclid: An Illustrated Guide to Modern Machine Learning with Geometric, Topological, and Algebraic Structures |
+| [[20240719]] | End-To-End Planning of Autonomous Driving in Industry and Academia: 2022-2023                                        |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
@@ -1345,3 +1347,9 @@ Architecture:
 #+CAPTION: Graph DL 
 #+NAME:   fig:SED-HR4049
 [[./static/graph-dl.png]]
+
+-------
+** 20240719
+- paper: End-To-End Planning of Autonomous Driving in Industry and Academia: 2022-2023 
+- links: https://arxiv.org/pdf/2401.08658 
+- takeaway:
