@@ -10,79 +10,79 @@
 
 * Content
 
-| Date     | *Paper*                                                                                |
-| [[20240423]] | A Survey of Embodied AI: From Simulators to Research Tasks                             |
-| [[20240424]] | Why Functional Programming Matters                                                     |
-| [[20240425]] | Recurrent Neural Networks (RNNs): A gentle Introduction and Overview                   |
-| [[20240426]] | Neural Machine Translation by Jointly Learning to Align and Translate                  |
-| [[20240427]] | A General Survey on Attention Mechanisms in Deep Learning                              |
-| [[20240428]] | MEGALODON: Efficient LLM Pretraining and Inference with Unlimited Context Length       |
-| [[20240429]] | Mega: Moving Average Equipped Gated Attention                                          |
-| [[20240430]] | The Next Decade in AI                                                                  |
-| [[20240501]] | The Bitter Lesson                                                                      |
-| [[20240502]] | KAN: Kolmogorov–Arnold Networks                                                        |
-| [[20240503]] | Multilayer feedforward networks are universal approximators                            |
-| [[20240504]] | Sequence to Sequence Learning with Neural Networks                                     |
-| [[20240505]] | Translating Videos to Natural Language Using Deep Recurrent Neural Networks            |
-| [[20240506]] | Summarizing Source Code using a Neural Attention Model                                 |
-| [[20240507]] | Learning to Control Fast-Weight Memories: An Alternative to Dynamic Recurrent Networks |
-| [[20240508]] | Transformers are RNNs: Fast Autoregressive Transformers with Linear Attention          |
-| [[20240509]] | BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding       |
-| [[20240510]] | Language Models are Unsupervised Multitask Learners                                    |
-| [[20240511]] | Improving Language Understanding by Generative Pre-Training                            |
-| [[20240512]] | Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond               |
-| [[20240513]] | Cramming: Training a Language Model on a Single GPU in One Day                         |
-| [[20240514]] | Autonomous LLM-driven research from data to human-verifiable research papers           |
-| [[20240515]] | LoRA: Low-Rank Adaptation of Large Language Models                                     |
-| [[20240516]] | When to Retrieve: Teaching LLMs to Utilize Information Retrieval Effectively           |
-| [[20240517]] | A PRIMER ON THE INNER WORKINGS OF TRANSFORMER-BASED LANGUAGE MODELS                    |
-| [[20240518]] | Is artificial consciousness achievable? Lessons from the human brain                   |
-| [[20240519]] | Teaching Algorithm Design: A Literature Review                                         |
-| [[20240520]] | How Good Are Low-bit Quantized LLAMA3 Models? An Empirical Study                       |
-| [[20240521]] | A Survey on Retrieval-Augmented Text Generation for Large Language Models              |
-| [[20240522]] | Best Practices and Lessons Learned on Synthetic Data for Language Models               |
-| [[20240523]] | Exploring the Limits of Language Modeling                                              |
-| [[20240524]] | The First Law of Complexodynamics                                                      |
-| [[20240525]] | The Unreasonable Effectiveness of Recurrent Neural Networks                            |
-| [[20240526]] | Recurrent Models of Visual Attention                                                   |
-| [[20240527]] | Neural Turing Machines                                                                 |
-| [[20240528]] | Relational recurrent neural networks                                                   |
-| [[20240529]] | Keeping Neural Networks Simple by Minimizing the Description Length of the Weights     |
-| [[20240530]] | RECURRENT NEURAL NETWORK REGULARIZATION                                                |
-| [[20240531]] | Layer Normalization                                                                    |
-| [[20240601]] | Scaling Laws for Neural Language Models                                                |
-| [[20240602]] | Deep Speech 2: End-to-End Speech Recognition in English and Mandarin                   |
-| [[20240603]] | A Tutorial Introduction to the Minimum Description Length Principle                    |
-| [[20240604]] | ORDER MATTERS: SEQUENCE TO SEQUENCE FOR SETS                                           |
-| [[20240605]] | Pointer Networks                                                                       |
-| [[20240606]] | Deep Residual Learning for Image Recognition                                           |
-| [[20240607]] | The Shattered Gradients Problem: If resnets are the answer, then what is the question? |
-| [[20240608]] | Scaling and evaluating sparse autoencoders                                             |
-| [[20240612]] | Identity Mappings in Deep Residual Networks                                            |
-| [[20240613]] | Quantifying the Rise and Fall of Complexity in Closed Systems: The Coffee Automaton    |
-| [[20240614]] | VARIATIONAL LOSSY AUTOENCODER                                                          |
-| [[20240617]] | A simple neural network module for relational reasoning                                |
-| [[20240619]] | The Dawning of a New Era in Applied Mathematics                                        |
-| [[20240620]] | LANGUAGE MODELING IS COMPRESSION                                                       |
-| [[20240625]] | Large Language Model Evaluation via Matrix Entropy                                     |
-| [[20240626]] | The Platonic Representation Hypothesis                                                 |
-| [[20240627]] | Superlinear Returns                                                                    |
-| [[20240628]] | How to Do Great Work                                                                   |
-| [[20240703]] | The Best Essay                                                                         |
-| [[20240704]] | Life is Short                                                                          |
-| [[20240705]] | Putting Ideas into Words                                                               |
-| [[20240708]] | How to think in writing                                                                |
-| [[20240709]] | C++ design patterns for low-latency applications including high-frequency trading      |
-| [[20240710]] | An Introduction to Vision-Language Modeling                                            |
-| [[20240711]] | Being a Noob                                                                           |
-| [[20240712]] | How to Start Google                                                                    |
-| [[20240713]] | RT-1: ROBOTICS TRANSFORMER FOR REAL-WORLD CONTROL AT SCALE                             |
-| [[20240715]] | RT-2: Vision-Language-Action Models Transfer                                           |
-| [[20240716]] | A Survey on Efficient Inference for Large Language Models                              |
-|          |                                                                                        |
-|          |                                                                                        |
-|          |                                                                                        |
-|          |                                                                                        |
+| Date     | *Paper*                                                                                                              |
+| [[20240423]] | A Survey of Embodied AI: From Simulators to Research Tasks                                                           |
+| [[20240424]] | Why Functional Programming Matters                                                                                   |
+| [[20240425]] | Recurrent Neural Networks (RNNs): A gentle Introduction and Overview                                                 |
+| [[20240426]] | Neural Machine Translation by Jointly Learning to Align and Translate                                                |
+| [[20240427]] | A General Survey on Attention Mechanisms in Deep Learning                                                            |
+| [[20240428]] | MEGALODON: Efficient LLM Pretraining and Inference with Unlimited Context Length                                     |
+| [[20240429]] | Mega: Moving Average Equipped Gated Attention                                                                        |
+| [[20240430]] | The Next Decade in AI                                                                                                |
+| [[20240501]] | The Bitter Lesson                                                                                                    |
+| [[20240502]] | KAN: Kolmogorov–Arnold Networks                                                                                      |
+| [[20240503]] | Multilayer feedforward networks are universal approximators                                                          |
+| [[20240504]] | Sequence to Sequence Learning with Neural Networks                                                                   |
+| [[20240505]] | Translating Videos to Natural Language Using Deep Recurrent Neural Networks                                          |
+| [[20240506]] | Summarizing Source Code using a Neural Attention Model                                                               |
+| [[20240507]] | Learning to Control Fast-Weight Memories: An Alternative to Dynamic Recurrent Networks                               |
+| [[20240508]] | Transformers are RNNs: Fast Autoregressive Transformers with Linear Attention                                        |
+| [[20240509]] | BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding                                     |
+| [[20240510]] | Language Models are Unsupervised Multitask Learners                                                                  |
+| [[20240511]] | Improving Language Understanding by Generative Pre-Training                                                          |
+| [[20240512]] | Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond                                             |
+| [[20240513]] | Cramming: Training a Language Model on a Single GPU in One Day                                                       |
+| [[20240514]] | Autonomous LLM-driven research from data to human-verifiable research papers                                         |
+| [[20240515]] | LoRA: Low-Rank Adaptation of Large Language Models                                                                   |
+| [[20240516]] | When to Retrieve: Teaching LLMs to Utilize Information Retrieval Effectively                                         |
+| [[20240517]] | A PRIMER ON THE INNER WORKINGS OF TRANSFORMER-BASED LANGUAGE MODELS                                                  |
+| [[20240518]] | Is artificial consciousness achievable? Lessons from the human brain                                                 |
+| [[20240519]] | Teaching Algorithm Design: A Literature Review                                                                       |
+| [[20240520]] | How Good Are Low-bit Quantized LLAMA3 Models? An Empirical Study                                                     |
+| [[20240521]] | A Survey on Retrieval-Augmented Text Generation for Large Language Models                                            |
+| [[20240522]] | Best Practices and Lessons Learned on Synthetic Data for Language Models                                             |
+| [[20240523]] | Exploring the Limits of Language Modeling                                                                            |
+| [[20240524]] | The First Law of Complexodynamics                                                                                    |
+| [[20240525]] | The Unreasonable Effectiveness of Recurrent Neural Networks                                                          |
+| [[20240526]] | Recurrent Models of Visual Attention                                                                                 |
+| [[20240527]] | Neural Turing Machines                                                                                               |
+| [[20240528]] | Relational recurrent neural networks                                                                                 |
+| [[20240529]] | Keeping Neural Networks Simple by Minimizing the Description Length of the Weights                                   |
+| [[20240530]] | RECURRENT NEURAL NETWORK REGULARIZATION                                                                              |
+| [[20240531]] | Layer Normalization                                                                                                  |
+| [[20240601]] | Scaling Laws for Neural Language Models                                                                              |
+| [[20240602]] | Deep Speech 2: End-to-End Speech Recognition in English and Mandarin                                                 |
+| [[20240603]] | A Tutorial Introduction to the Minimum Description Length Principle                                                  |
+| [[20240604]] | ORDER MATTERS: SEQUENCE TO SEQUENCE FOR SETS                                                                         |
+| [[20240605]] | Pointer Networks                                                                                                     |
+| [[20240606]] | Deep Residual Learning for Image Recognition                                                                         |
+| [[20240607]] | The Shattered Gradients Problem: If resnets are the answer, then what is the question?                               |
+| [[20240608]] | Scaling and evaluating sparse autoencoders                                                                           |
+| [[20240612]] | Identity Mappings in Deep Residual Networks                                                                          |
+| [[20240613]] | Quantifying the Rise and Fall of Complexity in Closed Systems: The Coffee Automaton                                  |
+| [[20240614]] | VARIATIONAL LOSSY AUTOENCODER                                                                                        |
+| [[20240617]] | A simple neural network module for relational reasoning                                                              |
+| [[20240619]] | The Dawning of a New Era in Applied Mathematics                                                                      |
+| [[20240620]] | LANGUAGE MODELING IS COMPRESSION                                                                                     |
+| [[20240625]] | Large Language Model Evaluation via Matrix Entropy                                                                   |
+| [[20240626]] | The Platonic Representation Hypothesis                                                                               |
+| [[20240627]] | Superlinear Returns                                                                                                  |
+| [[20240628]] | How to Do Great Work                                                                                                 |
+| [[20240703]] | The Best Essay                                                                                                       |
+| [[20240704]] | Life is Short                                                                                                        |
+| [[20240705]] | Putting Ideas into Words                                                                                             |
+| [[20240708]] | How to think in writing                                                                                              |
+| [[20240709]] | C++ design patterns for low-latency applications including high-frequency trading                                    |
+| [[20240710]] | An Introduction to Vision-Language Modeling                                                                          |
+| [[20240711]] | Being a Noob                                                                                                         |
+| [[20240712]] | How to Start Google                                                                                                  |
+| [[20240713]] | RT-1: ROBOTICS TRANSFORMER FOR REAL-WORLD CONTROL AT SCALE                                                           |
+| [[20240715]] | RT-2: Vision-Language-Action Models Transfer                                                                         |
+| [[20240716]] | A Survey on Efficient Inference for Large Language Models                                                            |
+| [[20240717]] | Beyond Euclid: An Illustrated Guide to Modern Machine Learning with Geometric, Topological, and Algebraic Structures |
+|          |                                                                                                                      |
+|          |                                                                                                                      |
+|          |                                                                                                                      |
 
 
 -----
@@ -1319,3 +1319,29 @@ Architecture:
 #+CAPTION: overview llm infer
 #+NAME:   fig:SED-HR4049
 [[./static/llm-infer7.png]]
+
+-------
+** 20240718
+- paper: Beyond Euclid: An Illustrated Guide to Modern Machine Learning with Geometric, Topological, and Algebraic Structures
+- links: https://arxiv.org/pdf/2407.09468
+- takeaway:
+  * As the availability of richly structured, non-Euclidean
+data grows across application domains, there is an
+increasing need for machine learning methods that
+can fully leverage the underlying geometry, topology,
+and symmetries to extract insights. Driven by this
+need, a new paradigm of non-Euclidean machine learn-
+ing is emerging that generalizes classical techniques
+to curved manifolds, topological spaces, and group-
+structured data. This paradigm shift echoes the non-
+Euclidean revolution in mathematics in the 19th cen-
+tury, which radically expanded our notion of geometry
+and catalyzed significant advancements across the nat-
+ural sciences.
+
+> graph machine learning
+
+Architecture: 
+#+CAPTION: Graph DL 
+#+NAME:   fig:SED-HR4049
+[[./static/graph-dl.png]]
