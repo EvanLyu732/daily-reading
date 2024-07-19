@@ -1349,7 +1349,15 @@ Architecture:
 [[./static/graph-dl.png]]
 
 -------
-** 20240719
-- paper: End-To-End Planning of Autonomous Driving in Industry and Academia: 2022-2023 
-- links: https://arxiv.org/pdf/2401.08658 
+** [[20240719]]
+- paper: End-To-End Planning of Autonomous Driving in Industry and Academia: 2022-2023
+- links: 
 - takeaway:
+  * just a quick scan of this paper....
+
+  for learning more about end-to-end https://github.com/OpenDriveLab/End-to-end-Autonomous-Driving
+
+Architecture: 
+#+CAPTION: e2e 
+#+NAME:   fig:SED-HR4049
+[[./static/overview.jpg
