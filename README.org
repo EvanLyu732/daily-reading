@@ -1360,4 +1360,4 @@ Architecture:
 Architecture: 
 #+CAPTION: e2e 
 #+NAME:   fig:SED-HR4049
-[[./static/overview.jpg
+[[./static/overview.jpg]]
