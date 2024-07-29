@@ -82,6 +82,7 @@
 | [[20240717]] | Towards Efficient Generative Large Language Model Serving: A Survey from Algorithms to Systems                       |
 | [[20240718]] | Beyond Euclid: An Illustrated Guide to Modern Machine Learning with Geometric, Topological, and Algebraic Structures |
 | [[20240719]] | End-To-End Planning of Autonomous Driving in Industry and Academia: 2022-2023                                        |
+| [[20240729]] | The Right Kind of Stubborn                                                                                           |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
@@ -1361,3 +1362,21 @@ Architecture:
 #+CAPTION: e2e 
 #+NAME:   fig:SED-HR4049
 [[./static/overview.jpg]]
+
+-------
+** [[20240729]]
+- paper: The Right Kind of Stubborn
+- links: https://www.paulgraham.com/persistence.html
+- takeaway:
+  * =The persistent are attached to the goal. The obstinate are attached to their ideas about how to reach it.=
+    Worse still, that means they'll tend to be attached to their first ideas about how to solve a problem, even though these are the least informed by the experience of working on it. So the obstinate aren't merely attached to details, but disproportionately likely to be attached to wrong ones.
+  * That was my initial theory, but on examination it doesn't hold up. If being obstinate were simply a consequence of being in over one's head, you could make persistent people become obstinate by making them solve harder problems. But that's not what happens. If you handed the Collisons an extremely hard problem to solve, they wouldn't become obstinate. If anything they'd become less obstinate. They'd know they had to be open to anything.
+  * Obstinacy is a reflexive resistance to changing one's ideas. This is not identical with stupidity, but they're closely related. A reflexive resistance to changing one's ideas becomes a sort of induced stupidity as contrary evidence mounts. And obstinacy is a form of not giving up that's easily practiced by the stupid. You don't have to consider complicated tradeoffs; you just dig in your heels. It even works, up to a point.
+  * Merely having energy and imagination is quite rare. But to solve hard problems you need three more qualities: =resilience, good judgement, and a focus on some kind of goal.=
+  * When you look at the internal structure of persistence, it doesn't resemble obstinacy at all. It's so much more complex. Five distinct qualities — =energy, imagination, resilience, good judgement, and focus on a goal= — combine to produce a phenomenon that seems a bit like obstinacy in the sense that it causes you not to give up.
+  * The obstinate do sometimes succeed in solving hard problems. One way is through luck: like the stopped clock that's right twice a day, they seize onto some arbitrary idea, and it turns out to be right. Another is when their obstinacy cancels out some other form of error. For example, if a leader has overcautious subordinates, their estimates of the probability of success will always be off in the same direction. So if he mindlessly says "push ahead regardless" in every borderline case, he'll usually turn out to be right.
+
+
+    
+
+
