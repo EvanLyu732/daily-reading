@@ -83,6 +83,7 @@
 | [[20240718]] | Beyond Euclid: An Illustrated Guide to Modern Machine Learning with Geometric, Topological, and Algebraic Structures |
 | [[20240719]] | End-To-End Planning of Autonomous Driving in Industry and Academia: 2022-2023                                        |
 | [[20240729]] | The Right Kind of Stubborn                                                                                           |
+| [[20240730]] | What I've Learned from Users                                                                                         |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
@@ -1375,6 +1376,19 @@ Architecture:
   * Merely having energy and imagination is quite rare. But to solve hard problems you need three more qualities: =resilience, good judgement, and a focus on some kind of goal.=
   * When you look at the internal structure of persistence, it doesn't resemble obstinacy at all. It's so much more complex. Five distinct qualities — =energy, imagination, resilience, good judgement, and focus on a goal= — combine to produce a phenomenon that seems a bit like obstinacy in the sense that it causes you not to give up.
   * The obstinate do sometimes succeed in solving hard problems. One way is through luck: like the stopped clock that's right twice a day, they seize onto some arbitrary idea, and it turns out to be right. Another is when their obstinacy cancels out some other form of error. For example, if a leader has overcautious subordinates, their estimates of the probability of success will always be off in the same direction. So if he mindlessly says "push ahead regardless" in every borderline case, he'll usually turn out to be right.
+
+-------
+** [[20240730]]
+- paper: What I've Learned from Users
+- links: https://www.paulgraham.com/users.html
+- takeaway:
+  * Explain what you've learned from users. That tests a lot of things: whether you're paying attention to users, how well you understand them, and even how much they need what you're making.
+  * That's one advantage of funding large numbers of early stage companies rather than smaller numbers of later-stage ones. You get a lot of data. Not just because you're looking at more companies, but also because more goes wrong.
+  * But knowing (nearly) all the problems startups can encounter doesn't mean that advising them can be automated, or reduced to a formula. There's no substitute for individual office hours with a YC partner. Each startup is unique, which means they have to be advised by specific partners who know them well.
+  * So the essence of what happens at YC is to figure out which problems matter most, then cook up ideas for solving them — ideally at a resolution of a week or less — and then try those ideas and measure how well they worked. The focus is on action, with measurable, near-term results.
+  * Speed defines startups. Focus enables speed. YC improves focus.
+  * However good you are, good colleagues make you better. Indeed, very ambitious people probably need colleagues more than anyone else, because they're so starved for them in everyday life.
+  * Between the partners, the alumni, and their batchmates, founders are surrounded by people who want to help them, and can.
 
 
     
