@@ -84,6 +84,7 @@
 | [[20240719]] | End-To-End Planning of Autonomous Driving in Industry and Academia: 2022-2023                                        |
 | [[20240729]] | The Right Kind of Stubborn                                                                                           |
 | [[20240730]] | What I've Learned from Users                                                                                         |
+| [[20240731]] | How to Work Hard                                                                                                     |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
@@ -1391,6 +1392,20 @@ Architecture:
   * Between the partners, the alumni, and their batchmates, founders are surrounded by people who want to help them, and can.
 
 
-    
+-------
+** [[20240731]]
+- paper: How to Work Hard
+- links: https://www.paulgraham.com/hwh.html
+- takeaway:
+  * One thing I know is that if you want to do great things, you'll have to work very hard. I wasn't sure of that as a kid. Schoolwork varied in difficulty; one didn't always have to work super hard to do well.
+  * Bill Gates, for example, was among the smartest people in business in his era, but he was also among the hardest working. "I never took a day off in my twenties," he said. "Not one." It was similar with Lionel Messi. He had great natural ability, but when his youth coaches talk about him, what they remember is not his talent but his dedication and his desire to win. P. G. Wodehouse would probably get my vote for best English writer of the 20th century, if I had to choose. Certainly no one ever made it look easier. But no one ever worked harder. At 74, he wrote
+  * What I've learned since I was a kid is how to work toward goals that are neither clearly defined nor externally imposed. You'll probably have to learn both if you want to do really great things. The most basic level of which is simply to feel you should be working without anyone telling you to. Now, when I'm not working hard, alarm bells go off. I can't be sure I'm getting anywhere when I'm working hard, but I can be sure I'm getting nowhere when I'm not, and it feels awful.
+  * Once you know the shape of real work, you have to learn how many hours a day to spend on it. You can't solve this problem by simply working every waking hour, because in many kinds of work there's a point beyond which the quality of the result will start to decline.
+  * The bigger question of what to do with your life is one of these problems with a hard core. There are important problems at the center, which tend to be hard, and less important, easier ones at the edges. So as well as the small, daily adjustments involved in working on a specific problem, you'll occasionally have to make big, lifetime-scale adjustments about which type of work to do. And the rule is the same: =working hard means aiming toward the center — toward the most ambitious problems.=
+  * So while some people's lives converge fast, there will be others whose lives never converge. And for these people, figuring out what to work on is not so much a prelude to working hard as an ongoing part of it, like one of a set of simultaneous equations. For these people, the process I described earlier has a third component: =along with measuring both how hard you're working and how well you're doing, you have to think about whether you should keep working in this field or switch to another. If you're working hard but not getting good enough results, you should switch.= It sounds simple expressed that way, but in practice it's very difficult.
+  * For this test to work, though, you have to be honest with yourself. Indeed, that's the most striking thing about the whole question of working hard: =how at each point it depends on being honest with yourself.=
+
+
+
 
 
