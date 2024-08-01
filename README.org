@@ -85,6 +85,7 @@
 | [[20240729]] | The Right Kind of Stubborn                                                                                           |
 | [[20240730]] | What I've Learned from Users                                                                                         |
 | [[20240731]] | How to Work Hard                                                                                                     |
+| [[20240801]] | The Risk of Discovery                                                                                                |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
@@ -1405,7 +1406,10 @@ Architecture:
   * So while some people's lives converge fast, there will be others whose lives never converge. And for these people, figuring out what to work on is not so much a prelude to working hard as an ongoing part of it, like one of a set of simultaneous equations. For these people, the process I described earlier has a third component: =along with measuring both how hard you're working and how well you're doing, you have to think about whether you should keep working in this field or switch to another. If you're working hard but not getting good enough results, you should switch.= It sounds simple expressed that way, but in practice it's very difficult.
   * For this test to work, though, you have to be honest with yourself. Indeed, that's the most striking thing about the whole question of working hard: =how at each point it depends on being honest with yourself.=
 
-
-
-
+-------
+** [[20240801]]
+- paper: The Risk of Discovery
+- links: https://www.paulgraham.com/disc.html
+- takeaway:
+  * Maybe the smartness and the craziness were not as separate as we think. Physics seems to us a promising thing to work on, and alchemy and theology obvious wastes of time. But that's because we know how things turned out. =You have to make mistakes to know that which thing is actually works.=
 
