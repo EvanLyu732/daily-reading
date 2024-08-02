@@ -86,6 +86,7 @@
 | [[20240730]] | What I've Learned from Users                                                                                         |
 | [[20240731]] | How to Work Hard                                                                                                     |
 | [[20240801]] | The Risk of Discovery                                                                                                |
+| [[20240802]] | The Need to Read                                                                                                     |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
@@ -1412,4 +1413,25 @@ Architecture:
 - links: https://www.paulgraham.com/disc.html
 - takeaway:
   * Maybe the smartness and the craziness were not as separate as we think. Physics seems to us a promising thing to work on, and alchemy and theology obvious wastes of time. But that's because we know how things turned out. =You have to make mistakes to know that which thing is actually works.=
+
+-------
+** [[20240802]]
+- paper: The Need to Read
+- links: https://www.paulgraham.com/read.html
+- takeaway:
+  * Reading about x doesn't just teach you about x; it also teaches you how to write.
+  * A good writer doesn't just think, and then write down what he thought, as a sort of transcript. =A good writer will almost always discover new things in the process of writing.=
+  * But even after doing this, you'll find you still discover new things when you sit down to write. =There is a kind of thinking that can only be done by writing.=
+  * You can't think well without writing well, and you can't write well without reading well. And I mean that last "well" in both senses. You have to be good at reading, and read good things.
+  * People who just want information may find other ways to get it. But people who want to have ideas can't afford to.
+ 
+  ^ Plus an essays (Putting Ideas into Words)...
+
+  * =Writing about something, even something you know well, usually shows you that you didn't know it as well as you thought.=
+  * Half the ideas that end up in an essay will be ones you thought of while you were writing it. Indeed, that's why I write them.
+  * Can you ever know so much that you wouldn't learn more from trying to explain what you know? I don't think so.
+  * A great deal of knowledge is unconscious, and experts have if anything a higher proportion of unconscious knowledge than beginners.
+  * Putting ideas into words doesn't have to mean writing, of course. You can also do it the old way, by talking. But in my experience, writing is the stricter test. You have to commit to a single, optimal sequence of words. Less can go unsaid when you don't have tone of voice to carry meaning. And you can focus in a way that would seem excessive in conversation.
+  * Putting ideas into words is certainly no guarantee that they'll be right. Far from it. But though it's not a sufficient condition, it is a necessary one.
+
 
