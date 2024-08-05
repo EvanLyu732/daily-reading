@@ -87,6 +87,9 @@
 | [[20240731]] | How to Work Hard                                                                                                     |
 | [[20240801]] | The Risk of Discovery                                                                                                |
 | [[20240802]] | The Need to Read                                                                                                     |
+| [[20240803]] | The Surprising Power of The Long Game                                                                                |
+| [[20240804]] | What makes a great technical blog                                                                                    |
+| [[20240805]] | My programming beliefs as of July 2024                                                                               |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
@@ -1434,4 +1437,46 @@ Architecture:
   * Putting ideas into words doesn't have to mean writing, of course. You can also do it the old way, by talking. But in my experience, writing is the stricter test. You have to commit to a single, optimal sequence of words. Less can go unsaid when you don't have tone of voice to carry meaning. And you can focus in a way that would seem excessive in conversation.
   * Putting ideas into words is certainly no guarantee that they'll be right. Far from it. But though it's not a sufficient condition, it is a necessary one.
 
+-------
+** [[20240803]]
+- paper: The Surprising Power of The Long Game
+- links: https://fs.blog/long-game/
+- takeaway:
+  * If you do what everyone else is doing, you shouldn’t be surprised to get the same results everyone else is getting.
+  * Different outcomes come from doing different things or doing things differently.
+  * Long Game: It’s simpler to win than the short game. Simple but not easy. It requires repeatedly doing hard things today that make tomorrow easier.
 
+-------
+** [[20240804]]
+- paper: What makes a great technical blog
+- links: https://notes.eatonphil.com/2024-04-10-what-makes-a-great-tech-blog.html
+- takeaway:
+  * Tackle hard and confusing topics
+  * Show working code
+  * Make things simpler
+  * Write regularly
+  * Talk about tradeoffs and downsides
+  * Avoid internet slang, memes, swearing, sarcasm, and ranting
+
+
+-------
+** [[20240805]]
+- paper: My programming beliefs as of July 2024
+- links: https://evanhahn.com/programming-beliefs-as-of-july-2024/
+- takeaway:
+  * how to approaches task: 
+    1. When presented with a difficult task, I ask myself: “what if I didn’t do this at all?”. Most of the time, this is a stupid question, and I have to do the thing. But ~5% of the time, I realize that I can completely skip some work.
+    2. If I’m banging my head against a problem without making progress, I should take a break.
+    3. Sometimes, I try implementing a feature in the smallest possible amount of time, with awful code, horrible hacks, and lots of TODOs. Once I have something working, I clean it up.
+
+  * how to design software:
+    1. Testability is basically the same thing as modularity.
+    2. Make invalid states unrepresentable.
+
+  * High level/career
+    1. The most important problems are non-technical.
+       "It’s not about technology for its own sake. It’s about being able to implement your own ideas."
+
+    2. Typing new code tends to be the easiest part of the job. Bigger challenges: reading code, prioritization, communication, team dynamics, etc.
+    3. Making useless stuff can be a great way to learn new things.
+ 
