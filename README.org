@@ -90,6 +90,7 @@
 | [[20240803]] | The Surprising Power of The Long Game                                                                                |
 | [[20240804]] | What makes a great technical blog                                                                                    |
 | [[20240805]] | My programming beliefs as of July 2024                                                                               |
+| [[20240806]] | RDMA over Ethernet for Distributed AI Training at Meta Scale                                                         |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
@@ -1480,3 +1481,14 @@ Architecture:
     2. Typing new code tends to be the easiest part of the job. Bigger challenges: reading code, prioritization, communication, team dynamics, etc.
     3. Making useless stuff can be a great way to learn new things.
  
+
+-------
+** [[20240806]]
+- paper: RDMA over Ethernet for Distributed AI Training at Meta Scale
+- links: https://dl.acm.org/doi/pdf/10.1145/3651890.3672233
+- takeaway:
+  * what the paper is about?
+    meta remote direct memory access over converged ethernet (RoCE) networks for distributed AI training.
+    [[./static/rdma.png]]
+
+
