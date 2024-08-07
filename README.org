@@ -91,6 +91,8 @@
 | [[20240804]] | What makes a great technical blog                                                                                    |
 | [[20240805]] | My programming beliefs as of July 2024                                                                               |
 | [[20240806]] | RDMA over Ethernet for Distributed AI Training at Meta Scale                                                         |
+| [[20240807]] | Beyond Smart                                                                                                         |
+| [[20240808]] | How To Become A Hacker                                                                                               |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
@@ -1503,6 +1505,13 @@ Architecture:
   * This is the first time I've posed the question to myself this way, and I think it may take a while to answer. But I wrote recently about one of the most important: an obsessive interest in a particular topic. And this can definitely be cultivated.
   * There are general techniques for having new ideas — for example, for working on your own projects and for overcoming the obstacles you face with early work — and these can all be learned. Some of them can be learned by societies. And there are also collections of techniques for generating specific types of new ideas, like startup ideas and essay topics.
   * One of the most surprising ingredients in having new ideas is writing ability. There's a class of new ideas that are best discovered by writing essays and books. And that "by" is deliberate: you don't think of the ideas first, and then merely write them down.
+
+
+-------
+** [[20240808]]
+- paper: How To Become A Hacker
+- links: http://www.catb.org/~esr/faqs/hacker-howto.html
+
 
 
 
