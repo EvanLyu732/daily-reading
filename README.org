@@ -93,9 +93,7 @@
 | [[20240806]] | RDMA over Ethernet for Distributed AI Training at Meta Scale                                                         |
 | [[20240807]] | Beyond Smart                                                                                                         |
 | [[20240808]] | How To Become A Hacker                                                                                               |
-|          |                                                                                                                      |
-|          |                                                                                                                      |
-|          |                                                                                                                      |
+| [[20240809]] | How To Learn Hacking                                                                                                 |
 
 
 -----
@@ -1511,8 +1509,37 @@ Architecture:
 ** [[20240808]]
 - paper: How To Become A Hacker
 - links: http://www.catb.org/~esr/faqs/hacker-howto.html
+  * hackers build things, crackers break them.
+  * As with all creative arts, the most effective way to become a master is to imitate the mind-set of masters — not just intellectually but emotionally as well.
+  * Hacker Ethics:
+    1. The world is full of fascinating problems waiting to be solved.
+       #+begin_quote
+You also have to develop a kind of faith in your own learning capacity — a belief that even though you may not know all of what you need to solve a problem, if you tackle just a piece of it and learn from that, you'll learn enough to solve the next piece — and so on, until you're done.
+#+end_quote
+    2. No problem should ever have to be solved twice.
+       #+begin_quote
+To behave like a hacker, you have to believe that the thinking time of other hackers is precious — so much so that it's almost a moral duty for you to share information, solve problems and then give the solutions away just so other hackers can solve new problems instead of having to perpetually re-address old ones.
+#+end_quote
+    3. Boredom and drudgery are evil.
+       #+begin_quote
+Hackers (and creative people in general) should never be bored or have to drudge at stupid repetitive work, because when this happens it means they aren't doing what only they can do — solve new problems. This wastefulness hurts everybody. Therefore boredom and drudgery are not just unpleasant but actually evil.
+
+To behave like a hacker, you have to believe this enough to want to automate away the boring bits as much as possible, not just for yourself but for everybody else (especially other hackers).
+#+end_quote
+    4. Freedom is good.
+    5. Attitude is no substitute for competence.
+       #+begin_quote
+To be a hacker, you have to develop some of these attitudes. But copping an attitude alone won't make you a hacker, any more than it will make you a champion athlete or a rock star. Becoming a hacker will take intelligence, practice, dedication, and hard work.
+
+Therefore, you have to learn to distrust attitude and respect competence of every kind. Hackers won't let posers waste their time, but they worship competence — especially competence at hacking, but competence at anything is valued. Competence at demanding skills that few can master is especially good, and competence at demanding skills that involve mental acuteness, craft, and concentration is best.
+#+end_quote
 
 
-
+  * Basic Hacking Skill: 
+    1. Learn how to program.
+    2. Get one of the open-source Unixes and learn to use and run it.
+    3. Learn how to use the World Wide Web and write HTML. (this is from 1996)
+    4. If you don't have functional English, learn it.
+       
 
 
