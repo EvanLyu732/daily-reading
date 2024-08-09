@@ -1542,4 +1542,27 @@ Therefore, you have to learn to distrust attitude and respect competence of ever
     4. If you don't have functional English, learn it.
        
 
+-------
+** [[20240808]]
+- paper: How To Learn Hacking
+- links: http://www.catb.org/~esr/faqs/hacking-howto.html
+- takeaway: 
+  * Hacking favors scrap-and-rebuild over patch-and-extend. An essential part of hacking is ruthlessly throwing away code that has become overcomplicated or crufty, no matter how much time you have invested in it.
+  * incremental-hacking cycle.
+    1. First, pick a program that does something you are interested in. Ideally, it should be a program you use regularly and have opinions about. The next best thing is a program you don't normally use, but that does something you think is interesting. For this learning method to work, you should avoid trying to hack on code that bores you.
+    2. If you don't already know the program, learn how to use it. Read the documentation. Develop a mental model of how it works.
+    3. Pick a small feature to change or add.
+    4. Search the code until you find the part you need to modify.
 
+       Note: you should specifically not try to read the entire program. You will just exhaust and frustrate yourself if you do that. Instead, use the module structure of the code to zero in on just the part you need to understand. Along the way, you will learn things about how the whole program fits together.
+    5. Make, test, debug, and document your change.
+
+       Documenting your change is important. If you develop the habit of doing this early, you'll produce much higher-quality work.
+    6. Send your change as a patch to the program maintainers. See the Software Release Practice HOWTO for tips on how to do this in an effective and polite way.
+    7. Now, ask yourself: do I understand this entire program?
+
+
+
+
+
+       
