@@ -94,6 +94,7 @@
 | [[20240807]] | Beyond Smart                                                                                                         |
 | [[20240808]] | How To Become A Hacker                                                                                               |
 | [[20240809]] | How To Learn Hacking                                                                                                 |
+| [[20240812]] | Weird Languages                                                                                                      |
 
 
 -----
@@ -1562,6 +1563,19 @@ Therefore, you have to learn to distrust attitude and respect competence of ever
     7. Now, ask yourself: do I understand this entire program?
 
 
+
+-------
+** [[20240812]]
+- paper: Weird Languages
+- links: https://www.paulgraham.com/weird.html
+- takeaway: 
+  * So if you want to expand your concept of what programming can be, one way to do it is by learning weird languages. Pick a language that most programmers consider weird but whose median user is smart, and then focus on the differences between this language and the intersection of popular languages.
+
+
+
+
+
+       
 
 
 
