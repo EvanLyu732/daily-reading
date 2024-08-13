@@ -94,8 +94,9 @@
 | [[20240807]] | Beyond Smart                                                                                                         |
 | [[20240808]] | How To Become A Hacker                                                                                               |
 | [[20240809]] | How To Learn Hacking                                                                                                 |
+| [[20240810]] | Why Your Data Stack Won't Last - And How To Build Data Infrastructure That Will                                      |
 | [[20240812]] | Weird Languages                                                                                                      |
-
+| [[20240813]] | Make Luck Your Destiny                                                                                               |
 
 -----
 ** 20240423
@@ -1562,7 +1563,17 @@ Therefore, you have to learn to distrust attitude and respect competence of ever
     6. Send your change as a patch to the program maintainers. See the Software Release Practice HOWTO for tips on how to do this in an effective and polite way.
     7. Now, ask yourself: do I understand this entire program?
 
-
+-------
+** [[20240810]]
+- paper: Why Your Data Stack Won't Last - And How To Build Data Infrastructure That Will 
+- links: https://seattledataguy.substack.com/p/why-your-data-stack-wont-last-and
+- takeaway: 
+  * How To Avoid Key Dependency Issues
+    * Documentation
+    * Cross-training(where it makes sense)
+  * How To Build With the Business 
+    * Start with business outcomes
+    * Keep the business in the loop
 
 -------
 ** [[20240812]]
@@ -1571,11 +1582,23 @@ Therefore, you have to learn to distrust attitude and respect competence of ever
 - takeaway: 
   * So if you want to expand your concept of what programming can be, one way to do it is by learning weird languages. Pick a language that most programmers consider weird but whose median user is smart, and then focus on the differences between this language and the intersection of popular languages.
 
+=Start to Read 101 Essays That Will Change The Way You Think=
+
+-------
+** [[20240813]]
+- paper: Make Luck Your Destiny
+- link: https://nav.al/luck-destiny
+- takeaway: 
+  * Build your character so opportunity finds you
+  * One of the things I think that is important to making money, when you want the kind of reputation that makes people do deals through you. I use the example of like, if you’re a great diver then treasure hunters will come and give you a piece of the treasure for your diving skills.
+  * If you’re a trusted, reliable, high-integrity, long-term thinking deal maker, then when other people want to do deals but they don’t know how to do them in a trustworthy manner with strangers, they will literally approach you and give you a cut of the deal or offer you a unique deal just because of the integrity and reputation that you have built up.
+  * But I would say your character, your reputation, these are things that you can build that then will let you take up advantage of opportunities that other people may characterize as lucky but you know that it wasn’t luck.
+  * =You have to be a little eccentric to be out on the frontier by yourself=
+  * Benjamin Disraeli one, are this one from Sam Altman where he said, =“extreme people get extreme results.”= I think that’s pretty nice. And then there’s this other one from Jeffrey Pfeffer, who is a professor at Stanford that, =“you can’t be normal and expect abnormal returns.”= I’ve always enjoyed that one too.
+  * play stupid games win stupid prizes.
+   
 
 
-
-
-       
 
 
 
