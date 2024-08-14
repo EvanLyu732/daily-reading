@@ -97,6 +97,7 @@
 | [[20240810]] | Why Your Data Stack Won't Last - And How To Build Data Infrastructure That Will                                      |
 | [[20240812]] | Weird Languages                                                                                                      |
 | [[20240813]] | Make Luck Your Destiny                                                                                               |
+| [[20240814]] | Finding Time to Invest in Yourself                                                                                   |
 
 -----
 ** 20240423
@@ -1596,6 +1597,50 @@ Therefore, you have to learn to distrust attitude and respect competence of ever
   * =You have to be a little eccentric to be out on the frontier by yourself=
   * Benjamin Disraeli one, are this one from Sam Altman where he said, =“extreme people get extreme results.”= I think that’s pretty nice. And then there’s this other one from Jeffrey Pfeffer, who is a professor at Stanford that, =“you can’t be normal and expect abnormal returns.”= I’ve always enjoyed that one too.
   * play stupid games win stupid prizes.
+   
+
+-------
+** [[20240813]]
+- paper: Finding Time to Invest in Yourself
+- link: https://nav.al/finding-time
+- takeaway: 
+  * A common question we get: “How do I find the time to start investing in myself? I have a job.”
+        You have to rent your time to get started
+
+     ( Coming out of college, Warren Buffett wanted to work for Benjamin Graham to learn to be a value investor. Buffett offered to work for free, and Graham responded, “You’re overpriced.” What that means is you have to make sacrifices to take on an apprenticeship. )
+
+  * Find the part of the job with the steepest learning curve
+
+    ( You want to avoid repetitive drudgery—that’s just biding time until your job is automated away. If you’re a barista at the coffee shop, figure out how to make connections with the customers. Figure out how to innovate the service you offer and delight the customer. Managers, founders and owners will take notice.)
+  * Develop a founder mentality
+
+    =The hardest thing for any founder is finding employees with a founder mentality. This is a fancy way of saying they care enough.=
+
+    People will say, “Well, I’m not the founder. I’m not being paid enough to care.” Actually, you are: =The knowledge and skills you gain by developing a founder mentality set you up to be a founder down the line; that’s your compensation.=
+  * Judgment takes experience. It takes a lot of time to build up. You have to put yourself in positions where you can exercise judgment. That’ll come from taking on accountability.
+
+    Leverage is something that society gives you after you’ve demonstrated judgment. You can get it faster by learning high-leverage skills like coding or working with the media. These are permissionless leverage. This is why I encourage people to learn to code or produce media, even if it’s just nights and weekends.
+  * find things that interest you and allow you to take on accountability. Don’t worry about short-term compensation. Compensation comes when you’re tired of waiting for it and have given up on it. This is the way the whole system works.
+
+    =_HUGE QUOTE HERE, PLEASE PAY ATTENTION_=
+
+    #+begin_quote
+Specific knowledge can be timely or timeless
+
+There are two forms of specific knowledge: timely and timeless. 
+
+If you become a world-class expert in machine learning just as it takes off and you got there through genuine intellectual interest, you’re going to do really well. But 20 years from now, machine learning may be second hat; the world may have moved on to something else. That’s timely knowledge.
+
+If you’re good at persuading people, it’s probably a skill you picked up early on in life. It’s always going to apply, because persuading people is always going to be valuable. That’s timeless knowledge.
+#+end_quote
+
+    Timeless specific knowledge usually can’t be taught, and it sticks with you forever. Timely specific knowledge comes and goes; but it tends to have a fairly long shelf life.
+
+  * Companies don’t know how to measure outputs, so they measure inputs instead. Work in a way that your outputs are visible and measurable. If you don’t have accountability, do something different.
+    
+    
+
+
    
 
 
