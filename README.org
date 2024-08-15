@@ -98,6 +98,8 @@
 | [[20240812]] | Weird Languages                                                                                                      |
 | [[20240813]] | Make Luck Your Destiny                                                                                               |
 | [[20240814]] | Finding Time to Invest in Yourself                                                                                   |
+| [[20240815]] | Accountability Means Letting People Criticize You                                                                    |
+| [[20240816]] | Example: From Laborer to Entrepreneur                                                                                |
 
 -----
 ** 20240423
@@ -1600,7 +1602,7 @@ Therefore, you have to learn to distrust attitude and respect competence of ever
    
 
 -------
-** [[20240813]]
+** [[20240814]]
 - paper: Finding Time to Invest in Yourself
 - link: https://nav.al/finding-time
 - takeaway: 
@@ -1638,7 +1640,36 @@ If you’re good at persuading people, it’s probably a skill you picked up ear
 
   * Companies don’t know how to measure outputs, so they measure inputs instead. Work in a way that your outputs are visible and measurable. If you don’t have accountability, do something different.
     
-    
+
+-------
+** [[20240815]]
+- paper: Accountability Means Letting People Criticize You
+- link: https://nav.al/accountability
+- takeaway: 
+  * They think accountability means being successfully accountable. No—it means you have to stick your neck out and fail publicly. You have to be willing to let people criticize you.
+  * The most interesting parts should be the ones you disagree with
+  * Get the free leverage that’s available in tech
+  * Don’t refuse to do things just because others can’t do them
+  * Realize your philanthropic vision by running a business
+
+
+-------
+** [[20240816]]
+- paper: Example: From Laborer to Entrepreneur
+- link: https://nav.al/laborer-tech
+- takeaway: 
+
+
+
+
+   
+
+
+
+
+
+       
+
 
 
    
