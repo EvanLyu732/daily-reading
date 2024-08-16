@@ -1658,7 +1658,10 @@ If you’re good at persuading people, it’s probably a skill you picked up ear
 - paper: Example: From Laborer to Entrepreneur
 - link: https://nav.al/laborer-tech
 - takeaway: 
-
+  * General contractors get equity, but they’re also taking risk
+  * Property developers pocket the profit by applying capital leverage
+  * Architects, large developers and REITs are even higher in the stack
+  * Companies owner apply the maximum leverage
 
 
 
