@@ -1762,7 +1762,15 @@ example by “organized energy” ultimately coming from the Sun.
 - paper: Ten Proofs of the Generalized Second Law
 - link: https://arxiv.org/pdf/0901.3865 
 - takeaway: 
-  * 
+  * The Ordinary Second Law (OSL) states that the total thermodynamic entropy of the universe is always nondecreasing with time. In a background-free theory such as General Relativity (GR), a “time” is a complete spatial slice, and a “later time” is a complete slice which is entirely in the future of the earlier time slice. The GSL states that the “generalized entropy” of the universe is nondecreas- ing with time. This generalized entropy is given by the expression `kA/ 4Gℏ + Sout`, where k is Boltzmann’s constant, c = 1 [1],1 and A is the sum of the area of all black hole horizons in the universe, while Sout is the ordinary thermodynamic entropy of the system outside of all event horizons. The first term is called the Bekenstein-Hawking entropy (SBH ). Since the horizon area and the outside entropy are time-dependent quantities, each term is defined (like the ordinary entropy) using a complete spatial slice.
+  * Another choice is the “Gibbs entropy”, which assigns an entropy to mixed
+states. A probability mixture over N states has entropy
+`S = k ∑i −pi ln p`.
+        _Gibbs entropy is very like Shannon Information Entropy._
+
+        Well, this paper is very difficult to read. So i just read the definition of Generalized Second Law.
+
+    
 
    
 
