@@ -100,8 +100,10 @@
 | [[20240814]] | Finding Time to Invest in Yourself                                                                                   |
 | [[20240815]] | Accountability Means Letting People Criticize You                                                                    |
 | [[20240816]] | Example: From Laborer to Entrepreneur                                                                                |
+| [[20240817]] | How Did We Get Here? The Tangled History of the Second Law of Thermodynamics                                         |
+| [[20240819]] | Ten Proofs of the Generalized Second Law                                                                             |
 
------
+
 ** 20240423
 - Paper: A Survey of Embodied AI: From Simulators to Research Tasks
 - Links: https://arxiv.org/pdf/2103.04918.pdf
@@ -1664,6 +1666,103 @@ If you’re good at persuading people, it’s probably a skill you picked up ear
   * Companies owner apply the maximum leverage
 
 
+-------
+** [[20240817]]
+- paper: How Did We Get Here? The Tangled History of the Second Law of Thermodynamics
+- link: https://arxiv.org/pdf/2311.10722
+- takeaway: 
+  * What is heat? 
+    The history of discovery what is heat
+
+    |         Time | Person         | Propose                                          |
+    |      ~500 BC | Heraclitus     | everything is made of fire                       |
+    | ~460–~370 BC | Democritus     | everything made of discreat atoms                |
+    |         1623 | Galileo        |                                                  |
+    |         1620 | Francis Bacon  | heat itself, its essence and quiddity, is motion |
+    |         1660 | Robert Boyle   | Boyle’s Law PV = constant.                       |
+    |         1687 | Isaac Newton   |                                                  |
+    |        1800s | Joseph Fourier | heat matrial, cario                              |
+
+    The form of Thermodynamics
+    
+    | 1824 | Sadi Carnot | heat can be anlyzsed without heat material |
+    | 1845 | Kelvin      |                                            |
+
+    #+begin_quote
+The history of Gas, Where does the name of gas comes from?
+
+It was actually only in the 1640s that any kind of general notion of gas began to emerge—with the word “gas” being invented by the “anti–Galen” physician Jan Baptista van Helmont (1580–1644), as a Dutch rendering of the Greek word “chaos”, that meant essentially “void”, or primordial formless- ness.)
+#+end_quote
+
+Thermodynamic free energy(https://en.wikipedia.org/wiki/Thermodynamic_free_energy)
+
+But there it is: by 1852 the Second Law is out in the open, in at least two different forms. The
+path to reach it has been circuitous and quite technical. But in the end, stripped of its
+technical origins, the law seems somehow unsurprising and even obvious. For it’s a matter
+of common experience that heat flows from hotter bodies to colder ones, and that motion is
+dissipated by friction into heat. But the point is that it wasn’t until basically 1850 that the
+overall scientific framework existed to make it useful—or even really possible—to enunciate
+such observations as a formal scientific law.
+
+In the first half of the 1850s the Second Law had in a sense been presented in two ways.
+First, as an almost “footnote–style” assumption needed to support the “pure thermodynam-
+ics” that had grown out of Carnot’s work. And second, as an explicitly–stated–for–the–first–
+time—if “obvious”—“everyday” feature of nature, that was now realized as having potentially
+cosmic significance.
+
+In 1854 Clausius was already beginning this process. Perhaps confusingly, he refers to the
+Second Law as the “second fundamental theorem [Hauptsatz]” in the “mechanical theory of
+heat”—suggesting it’s something that is proved, even though it’s really introduced just as an
+empirical law of nature, or perhaps a theoretical axiom:
+
+He starts off by discussing the “first fundamental theorem”, i.e. the First Law. And he
+emphasizes that this implies that there’s a quantity U (which we now call “internal energy”)
+that is a pure “function of state”—so that its value depends only on the state of a system, and
+not the path by which that state was reached. And as an “application” of this, he then points
+out that the overall change in U in a cyclic process (like the one executed by Carnot’s heat
+engine) must be zero.
+
+    * The concept of entropy
+
+      proposed by R. Clausius on the "The Mechanical Theory of Heat: With Its Applications to the Steam-engine"
+                                     "On Different Forms of the Fundamental Equations of Mechanical Theory of Heat."
+      
+https://www.eoht.info/page/Rudolf%20Clausius
+
+https://www.eoht.info/page/Famous%20publications
+
+ * The Concept of Ergodicity
+
+   1877, Boltzmann, in equilibrium all possible micro- scopic states of a system would be equally probable.
+
+Had Boltzmann’s 1872 H theorem proved the Second Law? Was the Second Law—with its
+rather downbeat implication about the heat death of the universe—even true?
+
+    Boltzmann—and Maxwell before him—had introduced the idea of using probability theory to
+discuss the emergence of thermodynamics and potentially the Second Law.
+
+ * Radiant Heat, the Second Law and Quantum Mechanics
+
+   Max Planck got interested in thermodynamics, and in
+1879 wrote a 61–page PhD thesis entitled “On the Second Law of Mechanical Heat Theory”.
+It was a traditional (if slightly streamlined) discussion of the Second Law, very much based
+on Clausius’s approach (and even with the same title as Clausius’s 1867 paper)—and without
+any mention whatsoever of Boltzmann:
+
+   And indeed, Erwin
+Schrödinger (1887–1961), in his 1944 book What Is Life? talked about “negative entropy”
+associated with life. But he—and many others since—argue that life doesn’t really violate the
+Second Law because it’s not operating in a closed environment where one should expect
+evolution to equilibrium. Instead, it’s constantly being driven away from equilibrium, for
+example by “organized energy” ultimately coming from the Sun.
+-------
+
+--------------
+** [[20240819]]
+- paper: Ten Proofs of the Generalized Second Law
+- link: https://arxiv.org/pdf/0901.3865 
+- takeaway: 
+  * 
 
    
 
