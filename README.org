@@ -102,6 +102,7 @@
 | [[20240816]] | Example: From Laborer to Entrepreneur                                                                                |
 | [[20240817]] | How Did We Get Here? The Tangled History of the Second Law of Thermodynamics                                         |
 | [[20240819]] | Ten Proofs of the Generalized Second Law                                                                             |
+| [[20240820]] | The Shift from Models to Compound AI Systems                                                                         |
 
 
 ** 20240423
@@ -1770,6 +1771,25 @@ states. A probability mixture over N states has entropy
 
         Well, this paper is very difficult to read. So i just read the definition of Generalized Second Law.
 
+--------------
+** [[20240820]]
+- paper: The Shift from Models to Compound AI Systems
+- link: https://bair.berkeley.edu/blog/2024/02/18/compound-ai-systems/
+- takeaway:
+  * state-of-the-art AI results are increasingly obtained by compound systems with multiple components, not just monolithic models.
+  * Compound AI System as a system that tackles AI tasks using multiple interacting components, including multiple calls to models, retrievers, or external tools. In contrast, an AI Model is simply a statistical model, e.g., a Transformer that predicts the next token in text.
+  * In single model development a la PyTorch, users can easily optimize a model end-to-end because the whole model is differentiable. However, compound AI systems contain non-differentiable components like search engines or code interpreters, and thus require new methods of optimization. Optimizing these compound AI systems is still a new research area; for example, DSPy offers a general optimizer for pipelines of pretrained LLMs and other components, while others systems, like LaMDA, Toolformer and AlphaGeometry, use tool calls during model training to optimize models for those tools.
+  * Emerging Paradigms
+    * Composition Frameworks and Strategies.
+    * Automatically Optimizing Quality: DSPy
+    * Optimizing Cost: FrugalGPT and AI Gateways
+    * Operation: LLMOps and DataOps.
+
+
+
+
+
+    
     
 
    
