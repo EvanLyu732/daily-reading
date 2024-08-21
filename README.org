@@ -103,6 +103,7 @@
 | [[20240817]] | How Did We Get Here? The Tangled History of the Second Law of Thermodynamics                                         |
 | [[20240819]] | Ten Proofs of the Generalized Second Law                                                                             |
 | [[20240820]] | The Shift from Models to Compound AI Systems                                                                         |
+| [[20240821]] | New LLM Pre-training and Post-training Paradigms                                                                     |
 
 
 ** 20240423
@@ -1784,6 +1785,15 @@ states. A probability mixture over N states has entropy
     * Automatically Optimizing Quality: DSPy
     * Optimizing Cost: FrugalGPT and AI Gateways
     * Operation: LLMOps and DataOps.
+
+--------------
+-----------
+** [[20240821]]
+- paper: New LLM Pre-training and Post-training Paradigms
+- link: https://magazine.sebastianraschka.com/p/new-llm-pre-training-and-post-training
+- takeaway:
+   [[./static/llm-training-process.png]]
+   [[./static/knowledge-distill.png]]
 
 
 
