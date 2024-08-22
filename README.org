@@ -104,6 +104,8 @@
 | [[20240819]] | Ten Proofs of the Generalized Second Law                                                                             |
 | [[20240820]] | The Shift from Models to Compound AI Systems                                                                         |
 | [[20240821]] | New LLM Pre-training and Post-training Paradigms                                                                     |
+| [[20240822]] | Natural Language Can Help Bridge the Sim2Real Gap                                                                    |
+| [[20240823]] | Evolving Virtual Creatures                                                                                           |
 
 
 ** 20240423
@@ -1795,7 +1797,44 @@ states. A probability mixture over N states has entropy
    [[./static/llm-training-process.png]]
    [[./static/knowledge-distill.png]]
 
+-----------
+** [[20240822]]
+- paper: Natural Language Can Help Bridge the Sim2Real Gap
+- link: https://arxiv.org/pdf/2405.10020
+- takeaway:
+  * vision imitation learning: leverages visual data (such as videos or images) to infer how to perform a task.
+  * sim2real: domain randomization, System identification
 
+-----------
+** [[20240823]]
+- paper: Evolving Virtual Creatures
+- link: https://www.karlsims.com/papers/siggraph94.pdf
+- takeaway:
+   * 
+
+
+
+
+    
+    
+
+   
+
+
+
+
+
+       
+
+
+
+   
+
+
+
+
+
+       
 
 
 
