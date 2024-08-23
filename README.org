@@ -106,7 +106,9 @@
 | [[20240821]] | New LLM Pre-training and Post-training Paradigms                                                                     |
 | [[20240822]] | Natural Language Can Help Bridge the Sim2Real Gap                                                                    |
 | [[20240823]] | Evolving Virtual Creatures                                                                                           |
-
+| [[20240824]] | GPU Utilization is a Misleading Metric                                                                               |
+| [[20240825]] | All Models Are Wrong                                                                                                 |
+| [[20240826]] | Mental Models: The Best Way to Make Intelligent Decisions (~100 Models Explained)                                    |
 
 ** 20240423
 - Paper: A Survey of Embodied AI: From Simulators to Research Tasks
@@ -1810,9 +1812,33 @@ states. A probability mixture over N states has entropy
 - paper: Evolving Virtual Creatures
 - link: https://www.karlsims.com/papers/siggraph94.pdf
 - takeaway:
+  * A classic trade-off in the field of computer graphics and animation is that of complexity vs. control.
+  * a system has been described that can generate autonomous three-dimensional virtual creatures without requiring cum- bersome user specifications, design efforts, or knowledge of algorithmic details.
+-----------
+** [[20240824]]
+- paper: GPU Utilization is a Misleading Metric
+- link: https://trainy.ai/blog/gpu-utilization-misleading
+- takeaway:
+  * MFUs, or Model FLOPS (Floating point Operations Per Second) utilization, is one of the best metrics to understand GPU performance,
+  * What is GPU Utilization, really? 
+    * Percent of time over the past sample period during which one or more kernels was executing on the GPU
+    * GPU Utilization, is only measuring whether a kernel is executing at a given time.
+    * However, understanding these metrics is less straightforward than trying to get SM Efficiency as high as possible. If you’re interested in learning more, I’d recommend taking a look at the Pytorch Profiler blog, DCGM docs, Nsight’s kernel profiling guide, and Nsight docs.
+
+
+-----------
+** [[20240825]]
+- paper: All Models Are Wrong
+- link: https://fs.blog/all-models-are-wrong/
+- takeaway:
    * 
 
-
+-----------
+** [[20240826]]
+- paper: Mental Models: The Best Way to Make Intelligent Decisions (~100 Models Explained)
+- link: https://fs.blog/mental-models/
+- takeaway:
+   * 
 
 
     
