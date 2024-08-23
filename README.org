@@ -1831,7 +1831,16 @@ states. A probability mixture over N states has entropy
 - paper: All Models Are Wrong
 - link: https://fs.blog/all-models-are-wrong/
 - takeaway:
-   * 
+  * what is a model? 
+     A model is a simplification which fosters understanding.
+  * Scientists generally agree that no theory is 100 percent correct. Thus, the real test of knowledge is not truth, but utility. Science gives us power. The more useful that power, the better the science.
+  * The world doesn’t have the luxury of waiting for complete answers before it takes action.
+  * How Do We Know If A Model Is Useful?
+    * Is it a representation of reality?
+    * How long has this model been around?
+    * Does this model apply to multiple areas?
+    * How did this model originate?
+     
 
 -----------
 ** [[20240826]]
