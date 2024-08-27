@@ -109,6 +109,8 @@
 | [[20240824]] | GPU Utilization is a Misleading Metric                                                                               |
 | [[20240825]] | All Models Are Wrong                                                                                                 |
 | [[20240826]] | Mental Models: The Best Way to Make Intelligent Decisions (~100 Models Explained)                                    |
+| [[20240827]] | Growth: Thinking in systems                                                                                          |
+|          |                                                                                                                      |
 
 ** 20240423
 - Paper: A Survey of Embodied AI: From Simulators to Research Tasks
@@ -1847,7 +1849,29 @@ states. A probability mixture over N states has entropy
 - paper: Mental Models: The Best Way to Make Intelligent Decisions (~100 Models Explained)
 - link: https://fs.blog/mental-models/
 - takeaway:
-   * 
+  
+  The Core Mental Models
+  * The Map is Not the Territory
+  * Circle of Competence
+  * First Principles Thinking
+  * Thought Experiment
+  * Second-Order Thinking
+  * Probabilistic Thinking
+  * Inversion
+  * Occam’s Razor
+  * Hanlon’s Razor
+
+    =Book is Great, Should take a look.= links: https://fs.blog/mental-models/
+
+-----------
+
+** [[20240827]]
+- paper: Growth: Thinking in systems
+- link: https://kamrn.com/blog/growth-thinking-in-systems/
+- takeaway:
+  * “A system is never the sum of its parts, it's the product of their interaction.” – Russell Ackoff
+    [[./static/loop.png]]
+  * “We can’t impose our will on a system. We can listen to what the system tells us, and discover how its properties and our values can work together to bring forth something much better than could ever be produced by our will alone.” ― Donella H. Meadows
 
 
     
