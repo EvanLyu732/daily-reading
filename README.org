@@ -110,6 +110,7 @@
 | [[20240825]] | All Models Are Wrong                                                                                                 |
 | [[20240826]] | Mental Models: The Best Way to Make Intelligent Decisions (~100 Models Explained)                                    |
 | [[20240827]] | Growth: Thinking in systems                                                                                          |
+| [[20240828]] | Deliberate Practice and Acquisition of Expert Performance: A General Overview                                        |
 |          |                                                                                                                      |
 
 ** 20240423
@@ -1874,6 +1875,12 @@ states. A probability mixture over N states has entropy
   * “We can’t impose our will on a system. We can listen to what the system tells us, and discover how its properties and our values can work together to bring forth something much better than could ever be produced by our will alone.” ― Donella H. Meadows
 
 
+
+** [[20240828]]
+- paper: Deliberate Practice and Acquisition of Expert Performance: A General Overview
+- link: https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1553-2712.2008.00227.x
+- takeaway:
+  * Superior performance requires the acquisition of complex integrated systems of representations for the execution, monitoring, plan- ning, and analyses of performance. 
     
     
 
