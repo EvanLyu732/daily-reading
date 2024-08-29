@@ -111,6 +111,7 @@
 | [[20240826]] | Mental Models: The Best Way to Make Intelligent Decisions (~100 Models Explained)                                    |
 | [[20240827]] | Growth: Thinking in systems                                                                                          |
 | [[20240828]] | Deliberate Practice and Acquisition of Expert Performance: A General Overview                                        |
+| [[20240829]] | How to Write Usefully                                                                                                |
 |          |                                                                                                                      |
 
 ** 20240423
@@ -1883,6 +1884,20 @@ states. A probability mixture over N states has entropy
   * Superior performance requires the acquisition of complex integrated systems of representations for the execution, monitoring, plan- ning, and analyses of performance. 
     
     
+
+** [[20240829]]
+- paper: How to Write Usefully
+- link: https://paulgraham.com/useful.html 
+- takeaway:
+  * it tells people something important, and that at least some of them didn't already know.
+  * Useful writing tells people something true and important that they didn't already know, and tells them as unequivocally as possible.
+  * if you write a bad sentence, you don't publish it. You delete it and try again. Often you abandon whole branches of four or five paragraphs. Sometimes a whole essay.
+  * You can't ensure that every idea you have is good, but you can ensure that every one you publish is, by simply not publishing the ones that aren't.
+  * Importance has two factors. It's the number of people something matters to, times how much it matters to them.
+  * The way to get novelty is to write about topics you've thought about a lot.
+  * The fourth component of useful writing, strength, comes from two things: thinking well, and the skillful use of qualification.
+  * importance + novelty + correctness + strength
+
 
    
 
