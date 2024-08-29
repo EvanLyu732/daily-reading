@@ -1884,7 +1884,7 @@ states. A probability mixture over N states has entropy
   * Superior performance requires the acquisition of complex integrated systems of representations for the execution, monitoring, plan- ning, and analyses of performance. 
     
     
-
+--------
 ** [[20240829]]
 - paper: How to Write Usefully
 - link: https://paulgraham.com/useful.html 
