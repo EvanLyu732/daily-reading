@@ -113,6 +113,7 @@
 | [[20240828]] | Deliberate Practice and Acquisition of Expert Performance: A General Overview                                        |
 | [[20240829]] | How to Write Usefully                                                                                                |
 | [[20240830]] | The Munger Operating System: How to Live a Life That Really Works                                                    |
+| [[20240902]] | Founder Mode                                                                                                         |
 |          |                                                                                                                      |
 
 ** 20240423
@@ -1916,8 +1917,12 @@ states. A probability mixture over N states has entropy
     9. Use setbacks in life as an opportunity to become a bigger and better person. Don’t wallow.
 
 
-   
-
+--------
+** [[20240902]]
+- paper: Founder Mode
+- link: https://paulgraham.com/foundermode.html
+- takeaway:
+  * founder mode vs manage mode: as soon as the concept of founder mode becomes established, people will start misusing it. Founders who are unable to delegate even things they should will use founder mode as the excuse. Or managers who aren't founders will decide they should try to act like founders.
 
 
 
