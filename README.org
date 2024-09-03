@@ -1954,6 +1954,12 @@ states. A probability mixture over N states has entropy
     it’s about growing as a developer and creator. Each finished project, no matter how small, is a step towards becoming someone who not only starts with enthusiasm but finishes with satisfaction.
 
     
+Andrej Ng Advices For DL/ML industry people:
+  1. reading enough paper (15 papers) + replicate results
+  2. dig into dirty work, in parellal read a lot of papers.
+  3. spending wisely about your weekend
+  4. keep working hard
+     
 
 
 
