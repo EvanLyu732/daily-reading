@@ -114,6 +114,7 @@
 | [[20240829]] | How to Write Usefully                                                                                                |
 | [[20240830]] | The Munger Operating System: How to Live a Life That Really Works                                                    |
 | [[20240902]] | Founder Mode                                                                                                         |
+| [[20240903]] |                                                                                                                      |
 |          |                                                                                                                      |
 
 ** 20240423
@@ -1924,6 +1925,35 @@ states. A probability mixture over N states has entropy
 - takeaway:
   * founder mode vs manage mode: as soon as the concept of founder mode becomes established, people will start misusing it. Founders who are unable to delegate even things they should will use founder mode as the excuse. Or managers who aren't founders will decide they should try to act like founders.
 
+
+---------
+** [[20240903]]
+- paper: The Art of Finishing
+- link: https://www.bytedrum.com/posts/art-of-finishing/
+- takeaway:
+  * As long as you’re working on something, you feel productive. Jumping from project to project gives you a constant stream of “new project energy,” which can feel more invigorating than the grind of finishing a single project
+  * There’s a unique satisfaction in seeing a project through to completion that no amount of starting can match. Moreover, unfinished projects carry a mental weight. They linger in the back of your mind, quietly draining your mental energy and enthusiasm.
+  * Each unfinished project can chip away at your confidence. Over time, you might start to doubt your ability to complete anything substantial, creating a self-fulfilling prophecy of incompletion.
+
+    Strategies for finishing project:
+
+    1. Define “Done” from the Start
+
+    2. Instead of aiming for perfection, I’ll aim for “good enough.”
+
+    3. Time-Box My Projects: I’ll give myself a deadline. It doesn’t have to be short, but it should be finite.
+
+    4. Practice Finishing Small Things
+
+    5. Separate Ideation from Implementation:
+
+    6. Celebrate Completions
+
+    7. Embrace Accountability
+
+    it’s about growing as a developer and creator. Each finished project, no matter how small, is a step towards becoming someone who not only starts with enthusiasm but finishes with satisfaction.
+
+    
 
 
 
