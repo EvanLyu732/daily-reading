@@ -115,6 +115,7 @@
 | [[20240830]] | The Munger Operating System: How to Live a Life That Really Works                                                    |
 | [[20240902]] | Founder Mode                                                                                                         |
 | [[20240903]] | The Art of Finishing                                                                                                 |
+| [[20240904]] | Loss of plasticity in deep continual learning                                                                        |
 |          |                                                                                                                      |
 
 ** 20240423
@@ -1954,6 +1955,41 @@ states. A probability mixture over N states has entropy
     it’s about growing as a developer and creator. Each finished project, no matter how small, is a step towards becoming someone who not only starts with enthusiasm but finishes with satisfaction.
 
     
+Andrew Ng Advices For DL/ML industry people:
+  1. reading enough paper (15 papers) + replicate results
+  2. dig into dirty work, in parellal read a lot of papers.
+  3. spending wisely about your weekend
+  4. keep working hard
+
+
+---------
+** [[20240903]]
+- paper: The Art of Finishing
+- link: https://www.bytedrum.com/posts/art-of-finishing/
+- takeaway:
+  * As long as you’re working on something, you feel productive. Jumping from project to project gives you a constant stream of “new project energy,” which can feel more invigorating than the grind of finishing a single project
+  * There’s a unique satisfaction in seeing a project through to completion that no amount of starting can match. Moreover, unfinished projects carry a mental weight. They linger in the back of your mind, quietly draining your mental energy and enthusiasm.
+  * Each unfinished project can chip away at your confidence. Over time, you might start to doubt your ability to complete anything substantial, creating a self-fulfilling prophecy of incompletion.
+
+    Strategies for finishing project:
+
+    1. Define “Done” from the Start
+
+    2. Instead of aiming for perfection, I’ll aim for “good enough.”
+
+    3. Time-Box My Projects: I’ll give myself a deadline. It doesn’t have to be short, but it should be finite.
+
+    4. Practice Finishing Small Things
+
+    5. Separate Ideation from Implementation:
+
+    6. Celebrate Completions
+
+    7. Embrace Accountability
+
+    it’s about growing as a developer and creator. Each finished project, no matter how small, is a step towards becoming someone who not only starts with enthusiasm but finishes with satisfaction.
+
+    
 Andrej Ng Advices For DL/ML industry people:
   1. reading enough paper (15 papers) + replicate results
   2. dig into dirty work, in parellal read a lot of papers.
@@ -1961,39 +1997,13 @@ Andrej Ng Advices For DL/ML industry people:
   4. keep working hard
      
 
-
-
-       
-
-
-
-   
-
-
-
-
-
-       
-
-
-
-    
-    
-
-   
-
-
-
-
-
-       
-
-
-
-   
-
-
-
-
+---------
+** [[20240904]]
+- paper: Loss of plasticity in deep continual learning
+- link: file:///home/evan/Downloads/s41586-024-07711-7.pdf
+- takeaway:
+  * standard deep-learning meth- ods lose their ability to learn with extended training on new data, a phenomenon that we call loss of plasticity.
+  * standard deep-learning methods lose plasticity with extended learning, we show that a simple change enables them to maintain plasticity indefinitely in both supervised and reinforce- ment learning.
+  * Surprisingly, popular methods such as Adam, Dropout and normaliza- tion actually increased loss of plasticity. L2 regularization, on the other hand, reduced loss of plasticity in many cases. L2 regularization stops the weights from becoming too large by moving them towards zero at each step.
 
        
