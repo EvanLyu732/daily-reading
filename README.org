@@ -116,6 +116,8 @@
 | [[20240902]] | Founder Mode                                                                                                         |
 | [[20240903]] | The Art of Finishing                                                                                                 |
 | [[20240904]] | Loss of plasticity in deep continual learning                                                                        |
+| [[20240905]] | You can learn AI later                                                                                               |
+|          |                                                                                                                      |
 |          |                                                                                                                      |
 
 ** 20240423
@@ -2005,5 +2007,15 @@ Andrej Ng Advices For DL/ML industry people:
   * standard deep-learning meth- ods lose their ability to learn with extended training on new data, a phenomenon that we call loss of plasticity.
   * standard deep-learning methods lose plasticity with extended learning, we show that a simple change enables them to maintain plasticity indefinitely in both supervised and reinforce- ment learning.
   * Surprisingly, popular methods such as Adam, Dropout and normaliza- tion actually increased loss of plasticity. L2 regularization, on the other hand, reduced loss of plasticity in many cases. L2 regularization stops the weights from becoming too large by moving them towards zero at each step.
+
+---------
+** [[20240905]]
+- paper:  You can learn AI later
+- link: https://world.hey.com/jason/you-can-learn-ai-later-08fce896
+- takeaway:
+  * the best way to learn something is to need that something. Learning when you don't really need to is a good way to give up early.
+  * Learning when there's something you truly need to do, but can't, but could, is the right time to figure something out.
+  * necessity is the mother of invention, but it's really the impetus for learning. The time will come, and you can figure it out then
+  * Start curious, stay curious, know what it's capable of, and, when the necessity strikes, figure it out. Until then, ignore the demands and focus on doing what you're already good at.
 
        
