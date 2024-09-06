@@ -117,6 +117,7 @@
 | [[20240903]] | The Art of Finishing                                                                                                 |
 | [[20240904]] | Loss of plasticity in deep continual learning                                                                        |
 | [[20240905]] | You can learn AI later                                                                                               |
+| [[20240906]] | How Completely Messed Up Practices Become Normal                                                                     |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
 
@@ -2018,4 +2019,34 @@ Andrej Ng Advices For DL/ML industry people:
   * necessity is the mother of invention, but it's really the impetus for learning. The time will come, and you can figure it out then
   * Start curious, stay curious, know what it's capable of, and, when the necessity strikes, figure it out. Until then, ignore the demands and focus on doing what you're already good at.
 
-       
+---------
+** [[20240906]]
+- paper:  How Completely Messed Up Practices Become Normal
+- link: http://danluu.com/wat/
+- takeaway:
+  * Knowledge is imperfect and uneven
+
+    People don't automatically know what should be normal, and when new people are onboarded, they can just as easily learn deviant processes that have become normalized as reasonable processes.
+
+    new person joins
+    new person: WTF WTF WTF WTF WTF
+    old hands: yeah we know we're concerned about it
+    new person: WTF WTF wTF wtf wtf w...
+    new person gets used to it
+    new person #2 joins
+    new person #2: WTF WTF WTF WTF
+    new person: yeah we know. we're concerned about it.
+
+  * In most company cultures, people feel weird about giving feedback. Everyone has stories about a project that lingered on for months or years after it should have been terminated because no one was willing to offer explicit feedback.
+  * just do the right thing yourself and ignore what's going on around you.
+
+  1 Pay attention to weak signals
+  2 Resist the urge to be unreasonably optimistic
+  3 Teach employees how to conduct emotionally uncomfortable conversations
+  4 System operators need to feel safe in speaking up
+  5 Realize that oversight and monitoring are never-ending
+
+  * Startups spend a lot of time thinking about growth, and while they'll all tell you that they care a lot about engineering culture, =revealed preference shows that they don't.=
+
+  * targets like how to tell if you're acculturating people so that they don't ignore weak signals are softer and harder to determine, but that doesn't mean they're any less important. People write a lot about how things like using fancier languages or techniques like TDD or agile will make your teams more productive, but having a strong engineering culture is much larger force multiplier.
+
