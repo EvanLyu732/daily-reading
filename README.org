@@ -118,6 +118,7 @@
 | [[20240904]] | Loss of plasticity in deep continual learning                                                                        |
 | [[20240905]] | You can learn AI later                                                                                               |
 | [[20240906]] | How Completely Messed Up Practices Become Normal                                                                     |
+| [[20240907]] | The Work You Do, the Person You Are                                                                                  |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
 
@@ -2050,3 +2051,13 @@ Andrej Ng Advices For DL/ML industry people:
 
   * targets like how to tell if you're acculturating people so that they don't ignore weak signals are softer and harder to determine, but that doesn't mean they're any less important. People write a lot about how things like using fancier languages or techniques like TDD or agile will make your teams more productive, but having a strong engineering culture is much larger force multiplier.
 
+
+---------
+** [[20240907]]
+- paper: The Work You Do, the Person You Are
+- link: https://www.newyorker.com/magazine/2017/06/05/toni-morrison-the-work-you-do-the-person-you-are
+- takeaway:
+  1. Whatever the work is, do it well—not for the boss but for yourself.
+  2. You make the job; it doesn’t make you.
+  3. Your real life is with us, your family.
+  4. You are not the work you do; you are the person you are.
