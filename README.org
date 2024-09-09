@@ -119,6 +119,7 @@
 | [[20240905]] | You can learn AI later                                                                                               |
 | [[20240906]] | How Completely Messed Up Practices Become Normal                                                                     |
 | [[20240907]] | The Work You Do, the Person You Are                                                                                  |
+| [[20240909]] | Richard Feynman and The Connection Machine                                                                           |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
 
@@ -2061,3 +2062,14 @@ Andrej Ng Advices For DL/ML industry people:
   2. You make the job; it doesn’t make you.
   3. Your real life is with us, your family.
   4. You are not the work you do; you are the person you are.
+
+---------
+** [[20240909]]
+- paper: Richard Feynman and The Connection Machine
+- link: https://longnow.org/essays/richard-feynman-connection-machine/
+- takeaway:
+  * cellular automata can be used to simulate physics system
+     (why?)
+  * Feynman always =started by asking very basic questions like, "What is the simplest example?" or "How can you tell if the answer is right?" He asked questions until he reduced the problem to some essential puzzle that he thought he would be able to solve.=
+  * In retrospect I realize that in almost everything that we worked on together, we were both amateurs. In digital physics, neural networks, even parallel computing, we never really knew what we were doing. But the things that we studied were so new that no one else knew exactly what they were doing either. =It was amateurs who made the progress.=
+  * =Actually, I doubt that it was "progress" that most interested Richard. He was always searching for patterns, for connections, for a new way of looking at something, but I suspect his motivation was not so much to understand the world as it was to find new ideas to explain. The act of discovery was not complete for him until he had taught it to someone else.=
