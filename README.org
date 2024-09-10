@@ -120,6 +120,7 @@
 | [[20240906]] | How Completely Messed Up Practices Become Normal                                                                     |
 | [[20240907]] | The Work You Do, the Person You Are                                                                                  |
 | [[20240909]] | Richard Feynman and The Connection Machine                                                                           |
+| [[20240910]] | The future of European competitiveness                                                                               |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
 
@@ -2073,3 +2074,15 @@ Andrej Ng Advices For DL/ML industry people:
   * Feynman always =started by asking very basic questions like, "What is the simplest example?" or "How can you tell if the answer is right?" He asked questions until he reduced the problem to some essential puzzle that he thought he would be able to solve.=
   * In retrospect I realize that in almost everything that we worked on together, we were both amateurs. In digital physics, neural networks, even parallel computing, we never really knew what we were doing. But the things that we studied were so new that no one else knew exactly what they were doing either. =It was amateurs who made the progress.=
   * =Actually, I doubt that it was "progress" that most interested Richard. He was always searching for patterns, for connections, for a new way of looking at something, but I suspect his motivation was not so much to understand the world as it was to find new ideas to explain. The act of discovery was not complete for him until he had taught it to someone else.=
+
+---------
+** [[20240910]]
+- paper: The future of European competitiveness
+- link: https://commission.europa.eu/document/download/97e481fd-2dc3-412d-be4c-f152a8232961_en?filename=The%20future%20of%20European%20competitiveness%20_%20A%20competitiveness%20strategy%20for%20Europe.pdf
+- takeaway:
+  * Europe’s exporters managed to capture market shares in faster growing parts of the world, especially Asia.
+  * The EU is entering the first period in its recent history in which growth will not be supported by rising populations. By 2040, the workforce is projected to shrink by close to 2 million workers each year. We will have to lean more on productivity to drive growth. 
+  * The top 3 investors in R&I in Europe have been dominated by automotive companies for the past twenty years. It was the same in the US in the early 2000s, with autos and pharma leading, but now the top 3 are all in tech.
+  * we are failing to translate innovation into commercialisation, and innovative companies that want to scale up in Europe are hindered at every stage by inconsistent and restrictive regulations.
+  * The EU has a unique opportunity to lower the cost of AI deployment by increasing computational capacity and making available its network of high-performance computers 
+  * The EU should promote cross-industry coordination and data sharing to accelerate the integration of AI into European industry. 
