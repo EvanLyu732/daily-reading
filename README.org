@@ -121,6 +121,8 @@
 | [[20240907]] | The Work You Do, the Person You Are                                                                                  |
 | [[20240909]] | Richard Feynman and The Connection Machine                                                                           |
 | [[20240910]] | The future of European competitiveness                                                                               |
+| [[20240911]] | Tutorial on Diffusion Models for Imaging and Vision                                                                  |
+| [[20240912]] | What every computer science major should know                                                                        |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
 
@@ -2086,3 +2088,22 @@ Andrej Ng Advices For DL/ML industry people:
   * we are failing to translate innovation into commercialisation, and innovative companies that want to scale up in Europe are hindered at every stage by inconsistent and restrictive regulations.
   * The EU has a unique opportunity to lower the cost of AI deployment by increasing computational capacity and making available its network of high-performance computers 
   * The EU should promote cross-industry coordination and data sharing to accelerate the integration of AI into European industry. 
+
+---------
+** [[20240911]]
+- paper: Tutorial on Diffusion Models for Imaging and Vision
+- link: https://arxiv.org/pdf/2403.18103
+- takeaway:
+  * diffusion: a particular sampling mechanism that has overcome some longstanding shortcomings in previous approaches
+  * Diffusion models are incremental updates where the assembly of the whole gives us the encoder-decoder structure
+  * VAE is largely a one-step generation — if you give us a latent code z, we ask the neural network fθ (·) to immediately return us the generated signal x ∼ N (x | fθ (z), σ2 decI).
+  * The biggest challenges of diffusion models are the consistency with the physical world, let alone their high computational complexity
+
+    =*THIS PAPER IS VERY GOOD, IF YOU LIKE ME DON'T KNOW ANYTHING ABOUT DIFFUSION MODELS. I HIGHLY RECOMMEND READING THIS PAPER.*=
+
+---------
+** [[20240912]]
+- paper: What every computer science major should know
+- link: https://matt.might.net/articles/what-cs-majors-should-know/
+- takeaway:
+  *WELL, THIS BLOG CONTAINS TON OF INFORMATION. IF YOU ARE CS MAJOR STUDENT, YOU SHOULD CHECK THIS OUT.*
