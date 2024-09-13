@@ -123,6 +123,7 @@
 | [[20240910]] | The future of European competitiveness                                                                               |
 | [[20240911]] | Tutorial on Diffusion Models for Imaging and Vision                                                                  |
 | [[20240912]] | What every computer science major should know                                                                        |
+| [[20240913]] | Notes on OpenAI’s new o1 chain-of-thought models                                                                     |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
 
@@ -2103,7 +2104,16 @@ Andrej Ng Advices For DL/ML industry people:
 
 ---------
 ** [[20240912]]
-- paper: What every computer science major should know
+- paper: what every computer science major should know
 - link: https://matt.might.net/articles/what-cs-majors-should-know/
 - takeaway:
-  *WELL, THIS BLOG CONTAINS TON OF INFORMATION. IF YOU ARE CS MAJOR STUDENT, YOU SHOULD CHECK THIS OUT.*
+  *well, this blog contains ton of information. if you are cs major student, you should check this out.*
+
+---------
+** [[20240913]]
+- paper: Notes on OpenAI’s new o1 chain-of-thought models
+- link: https://simonwillison.net/2024/Sep/12/openai-o1/
+- takeaway:
+  * There’s a lot to understand about these models—they’re not as simple as the next step up from GPT-4o, instead introducing some major /trade-offs/ in terms of cost and performance in exchange for improved “reasoning” capabilities.
+  * Most interestingly is the introduction of “reasoning tokens”—tokens that are not visible in the API response but are still billed and counted as output tokens. These tokens are where the new magic happens.
+  * Limit additional context in retrieval-augmented generation (RAG): When providing additional context or documents, include only the most relevant information to prevent the model from overcomplicating its response.
