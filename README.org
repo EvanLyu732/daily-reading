@@ -124,7 +124,7 @@
 | [[20240911]] | Tutorial on Diffusion Models for Imaging and Vision                                                                  |
 | [[20240912]] | What every computer science major should know                                                                        |
 | [[20240913]] | Notes on OpenAI’s new o1 chain-of-thought models                                                                     |
-| [[20240914]] |                                                                                                                      |
+| [[20240914]] | Is God a Strange Loop?                                                                                               |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
 
