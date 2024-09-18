@@ -125,6 +125,7 @@
 | [[20240912]] | What every computer science major should know                                                                        |
 | [[20240913]] | Notes on OpenAI’s new o1 chain-of-thought models                                                                     |
 | [[20240914]] | Is God a Strange Loop?                                                                                               |
+| [[20240918]] |                                                                                                                      |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
 
@@ -2126,3 +2127,15 @@ Andrej Ng Advices For DL/ML industry people:
 - takeaway:
   * Hofstadter agrees with Dennett that consciousness is “not as deep a mystery as it seems” because it is an “illusion.” By this, Hofstadter apparently means that our conscious thoughts and perceptions are often misleading, and they are trivial compared to all the computations whizzing and whirring below the level of our awareness.
   * Our sense of free will is an illusion, too, according to Hofstadter. He told me that he doesn’t feel as though he has truly made any decisions in his life. “I feel like decisions are made for me by the forces inside my brain.”
+
+---------
+** [[20240918]]
+- paper: The Brouhaha Over Consciousness and “Pseudoscience”
+- link: https://johnhorgan.org/cross-check/the-brouhaha-over-consciousness-and-pseudoscience
+- takeaway:
+  * Integrated information theory, or IIT, which I’ve tracked for years, holds that consciousness arises in any system whose components exchange information in a certain mathematically defined way.
+  * A theory is pseudoscientific if it isn’t formulated rigorously enough to be tested and potentially falsified, or proven wrong. A theory can resist falsification if it is so vaguely defined, or has so many variables, that it can “predict” any observation.
+  * Integrated information theory falls into this category. It is a general theory of consciousness, which attempts to explain how consciousness arises not just in the brains of humans but in any physical system, which needn’t even be biological.
+  * As evolutionary psychologist Robert Trivers points out, we deceive ourselves at least as effectively as we deceive others.
+  * We have devised methods for cultivating self-knowledge and quelling our anxieties, such as meditation and psychotherapy. But these practices strike me as forms of self-brainwashing. When we meditate or see a therapist, we are not solving the solipsism problem. We are merely training ourselves to ignore it, to suppress the horror and despair that it triggers.
+  * Science cannot be reduced to a formal, logical system or method, Popper says; a scientific theory is an invention, an act of creation, based more upon a scientist's intuition than upon pre-existing empirical data. “The history of science is everywhere speculative,” Popper says. “It is a marvelous history. It makes you proud to be a human being.” Framing his face in his outstretched hands, Popper intones, “I believe in the human mind.” (quote from ["The Popper Paradox"](https://johnhorgan.org/cross-check/the-paradox-of-karl-popper))
