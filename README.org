@@ -125,7 +125,8 @@
 | [[20240912]] | What every computer science major should know                                                                        |
 | [[20240913]] | Notes on OpenAI’s new o1 chain-of-thought models                                                                     |
 | [[20240914]] | Is God a Strange Loop?                                                                                               |
-| [[20240918]] |                                                                                                                      |
+| [[20240918]] | The Brouhaha Over Consciousness and “Pseudoscience”                                                                  |
+| [[20240919]] | Holding a Program in One's Head                                                                                      |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
 
@@ -2139,3 +2140,23 @@ Andrej Ng Advices For DL/ML industry people:
   * As evolutionary psychologist Robert Trivers points out, we deceive ourselves at least as effectively as we deceive others.
   * We have devised methods for cultivating self-knowledge and quelling our anxieties, such as meditation and psychotherapy. But these practices strike me as forms of self-brainwashing. When we meditate or see a therapist, we are not solving the solipsism problem. We are merely training ourselves to ignore it, to suppress the horror and despair that it triggers.
   * Science cannot be reduced to a formal, logical system or method, Popper says; a scientific theory is an invention, an act of creation, based more upon a scientist's intuition than upon pre-existing empirical data. “The history of science is everywhere speculative,” Popper says. “It is a marvelous history. It makes you proud to be a human being.” Framing his face in his outstretched hands, Popper intones, “I believe in the human mind.” (quote from ["The Popper Paradox"](https://johnhorgan.org/cross-check/the-paradox-of-karl-popper))
+
+---------
+** [[20240919]]
+- paper: Holding a Program in One's Head
+- link: https://paulgraham.com/head.html
+- takeaway:
+  * initially the most important thing is to be able to change what you're doing. Not just to solve the problem in a different way, but to change the problem you're solving.
+  * Your code is your understanding of the problem you're exploring. So it's only when you have your code in your head that you really understand the problem.
+  * Avoid distractions.
+  * Work in long stretches: Sometimes when you return to a problem after a rest, you find your unconscious mind has left an answer waiting for you.
+  * Use succinct languages: The more succinct the language, the shorter the program, and the easier it is to load and keep in your head.
+  * Keep rewriting your program
+  * Write rereadable code
+  * Work in small groups
+  * Don't have multiple people editing the same piece of code
+  * Start small
+  * But having ideas is not very parallelizable. And that's what programs are: ideas.
+  * But regardless of what the solution turns out to be, the first step is to realize there's a problem. There is a contradiction in the very phrase "software company." The two words are pulling in opposite directions. Any good programmer in a large organization is going to be at odds with it, because organizations are designed to prevent what programmers strive for.
+  * So if you're a little startup, this is the place to attack them. Take on the kind of problems that have to be solved in one big brain.
+
