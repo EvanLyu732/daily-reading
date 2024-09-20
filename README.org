@@ -127,6 +127,7 @@
 | [[20240914]] | Is God a Strange Loop?                                                                                               |
 | [[20240918]] | The Brouhaha Over Consciousness and “Pseudoscience”                                                                  |
 | [[20240919]] | Holding a Program in One's Head                                                                                      |
+| [[20240920]] | How to Measure Progress in a Software Project                                                                        |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
 
@@ -2160,3 +2161,11 @@ Andrej Ng Advices For DL/ML industry people:
   * But regardless of what the solution turns out to be, the first step is to realize there's a problem. There is a contradiction in the very phrase "software company." The two words are pulling in opposite directions. Any good programmer in a large organization is going to be at odds with it, because organizations are designed to prevent what programmers strive for.
   * So if you're a little startup, this is the place to attack them. Take on the kind of problems that have to be solved in one big brain.
 
+
+---------
+** [[20240920]]
+- paper: How to Measure Progress in a Software Project
+- link: https://rethinkingsoftware.substack.com/p/how-to-measure-progress-in-a-software
+- takeaway:
+  * Agile created a new way of measuring progress. Evaluate the state of your software, code some more (but only for a few weeks), then begin the process again.
+  * With a customer, it goes like this: code something, get some feedback, code something else, get more feedback. Continue until the customer is satisfied.
