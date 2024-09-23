@@ -128,6 +128,7 @@
 | [[20240918]] | The Brouhaha Over Consciousness and “Pseudoscience”                                                                  |
 | [[20240919]] | Holding a Program in One's Head                                                                                      |
 | [[20240920]] | How to Measure Progress in a Software Project                                                                        |
+| [[20240923]] | What Is a Particle?                                                                                                  |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
 
@@ -2169,3 +2170,17 @@ Andrej Ng Advices For DL/ML industry people:
 - takeaway:
   * Agile created a new way of measuring progress. Evaluate the state of your software, code some more (but only for a few weeks), then begin the process again.
   * With a customer, it goes like this: code something, get some feedback, code something else, get more feedback. Continue until the customer is satisfied.
+
+---------
+** [[20240923]]
+- paper: What Is a Particle?
+- link: https://www.quantamagazine.org/what-is-a-particle-20201112/
+- takeaway:
+  * “At the moment that I detect it, it collapses the wave and becomes a particle. … [The particle is] the collapsed wave function.” —Dimitri Nanopoulos 
+  * “What is a particle from a physicist’s point of view? It’s a quantum excitation of a field. We write particle physics in a math called quantum field theory. In that, there are a bunch of different fields; each field has different properties and excitations, and they are different depending on the properties, and those excitations we can think of as a particle.” —Helen Quinn
+  * “Particles are at a very minimum described by irreducible representations of the Poincaré group.” — Sheldon Glashow
+  * “Ever since the fundamental paper of Wigner on the irreducible representations of the Poincaré group, it has been a (perhaps implicit) deﬁnition in physics that an elementary particle ‘is’ an irreducible representation of the group, G, of ‘symmetries of nature.’” —Yuval Ne’eman and Shlomo Sternberg
+  * “Particles have so many layers.” —Xiao-Gang Wen
+  * “What we think of as elementary particles, instead they might be vibrating strings.” —Mary Gaillard
+  * “Every particle is a quantized wave. The wave is a deformation of the qubit ocean.” —Xiao-Gang Wen
+  * “Particles are what we measure in detectors. … We start slipping into the language of saying that it’s the quantum fields that are real, and particles are excitations. We talk about virtual particles, all this stuff — but it doesn’t go click, click, click in anyone’s detector.” —Nima Arkani-Hamed 
