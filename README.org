@@ -129,6 +129,7 @@
 | [[20240919]] | Holding a Program in One's Head                                                                                      |
 | [[20240920]] | How to Measure Progress in a Software Project                                                                        |
 | [[20240923]] | What Is a Particle?                                                                                                  |
+| [[20240924]] | Averaging is a convenient fiction of neuroscience                                                                    |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
 
@@ -2184,3 +2185,13 @@ Andrej Ng Advices For DL/ML industry people:
   * “What we think of as elementary particles, instead they might be vibrating strings.” —Mary Gaillard
   * “Every particle is a quantized wave. The wave is a deformation of the qubit ocean.” —Xiao-Gang Wen
   * “Particles are what we measure in detectors. … We start slipping into the language of saying that it’s the quantum fields that are real, and particles are excitations. We talk about virtual particles, all this stuff — but it doesn’t go click, click, click in anyone’s detector.” —Nima Arkani-Hamed 
+
+---------
+** [[20240924]]
+- paper: Averaging is a convenient fiction of neuroscience
+- link: https://www.thetransmitter.org/neural-coding/averaging-is-a-convenient-fiction-of-neuroscience/
+- takeaway:
+  * Averaging is ubiquitous—and hides from us how the brain works.
+  * Averaging over time hides what a neuron actually sees, what it actually gets to compute with.
+  * But neurons don’t take averages. All a neuron gets to work with is the moment-to-moment spikes sent by its inputs. Those inputs carry few, if any, spikes. Each input likely varies its response to the same significant event. Averaging over time hides what a neuron actually sees, what it actually gets to compute with.
+
