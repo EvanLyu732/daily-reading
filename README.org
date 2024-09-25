@@ -130,6 +130,7 @@
 | [[20240920]] | How to Measure Progress in a Software Project                                                                        |
 | [[20240923]] | What Is a Particle?                                                                                                  |
 | [[20240924]] | Averaging is a convenient fiction of neuroscience                                                                    |
+| [[20240925]] | On Impactful AI Research                                                                                             |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
 
@@ -2194,4 +2195,11 @@ Andrej Ng Advices For DL/ML industry people:
   * Averaging is ubiquitous—and hides from us how the brain works.
   * Averaging over time hides what a neuron actually sees, what it actually gets to compute with.
   * But neurons don’t take averages. All a neuron gets to work with is the moment-to-moment spikes sent by its inputs. Those inputs carry few, if any, spikes. Each input likely varies its response to the same significant event. Averaging over time hides what a neuron actually sees, what it actually gets to compute with.
+---------
 
+---------
+** [[20240925]]
+    - paper: On Impactful AI Research
+    - link: https://github.com/okhat/blog/blob/main/2024.09.impact.md
+    - takeaway:
+      * Averaging is ubiquitous—and hides from us how the brain works.
