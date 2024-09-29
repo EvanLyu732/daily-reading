@@ -133,6 +133,7 @@
 | [[20240925]] | On Impactful AI Research                                                                                             |
 | [[20240926]] | If the Universe Is a Hologram, This Long-Forgotten Math Could Decode It                                              |
 | [[20240927]] | Critical Mass and Tipping Points: How To Identify Inflection Points Before They Happen                               |
+| [[20240929]] | Mark Zuckerberg: "Ship the app"                                                                                      |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
 
@@ -2228,3 +2229,12 @@ Andrej Ng Advices For DL/ML industry people:
 “When enough people (a critical mass) think about and truly consider the plausibility of a concept, it becomes reality.”
 —Joseph Duda
     #+end_quote
+
+---------
+** [[20240929]]
+    - paper: Mark Zuckerberg: "Ship the app"
+    - link: https://www.techemails.com/p/mark-zuckerberg-ship-photos-app
+    - takeaway:
+      Note: This paper was written in 2011, during a period of rapid growth for Instagram. Around this time, Facebook was internally working on building its own photo-sharing app.
+      * your note though was that you care more about fixing the team than shipping the app. I think we need to do both, but I do think it's a crisis that we don't have a mobile photos app out and I'd prioritize pushing that out as much as possible. Getting the team to a good state is not a milestone by itself that I care about.
+      * I guess my basic point is this: I get that your team has issues, so fix them and ship the app. I don't see why this should be so hard, and I don't think we should accept any excuses for not getting this done in a short period of time.
