@@ -136,6 +136,7 @@
 | [[20240929]] | Mark Zuckerberg: "Ship the app"                                                                                      |
 | [[20240930]] | How your brain detects patterns in the everyday: without conscious thought                                           |
 | [[20241001]] | When to do what you love                                                                                             |
+| [[20241008]] | The Rise of Worse is Better                                                                                          |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
 
@@ -2253,7 +2254,28 @@ Andrej Ng Advices For DL/ML industry people:
     - paper: When to do what you love
     - link: https://paulgraham.com/when.html
     - takeaway:
-      * 
-      * 
-      * 
-      * 
+      * People pay you for doing what they want, not what you want. But there's an obvious exception: when you both want the same thing. For example, if you love football, and you're good enough at it, you can get paid a lot to play it.
+      * This is not to say you shouldn't try though. It depends how much ability you have and how hard you're willing to work.
+      * If you want to make a really huge amount of money — hundreds of millions or even billions of dollars — it turns out to be very useful to work on what interests you the most. The reason is not the extra motivation you get from doing this, but that the way to make a really large amount of money is to start a startup, and working on what interests you is an excellent way to discover startup ideas.
+      * if you want to become moderately rich, you can't usually afford to; but if you want to become super rich, and you're young and good at technology, working on what you're most interested in becomes a good idea again.
+      * What do you do in the face of uncertainty? Get more certainty. And probably the best way to do that is to try working on things you're interested in. That will get you more information about how interested you are in them, how good you are at them, and how much scope they offer for ambition.
+      * Don't wait. Don't wait till the end of college to figure out what to work on. Don't even wait for internships during college. You don't necessarily need a job doing x in order to work on x; often you can just start doing it in some form yourself. And since figuring out what to work on is a problem that could take years to solve, the sooner you start, the better.
+      * The other thing you do in the face of uncertainty is to make choices that are uncertainty-proof. The less sure you are about what to do, the more important it is to choose options that give you more options in the future. I call this "staying upwind." If you're unsure whether to major in math or economics, for example, choose math; math is upwind of economics in the sense that it will be easier to switch later from math to economics than from economics to math. 
+      * The root of great work is a sort of ambitious curiosity, and you can't manufacture that.
+
+---------
+** [[20241008]]
+    - paper: The Rise of Worse is Better
+    - link: https://www.dreamsongs.com/RiseOfWorseIsBetter.html
+    - takeaway:
+      * To such a designer it is important to get all of the following characteristics right:
+
+        Simplicity -- the design must be simple, both in implementation and interface. It is more important for the interface to be simple than the implementation.
+        Correctness -- the design must be correct in all observable aspects. Incorrectness is simply not allowed.
+        Consistency -- the design must not be inconsistent. A design is allowed to be slightly less simple and less complete to avoid inconsistency. Consistency is as important as correctness.
+        Completeness -- the design must cover as many important situations as is practical. All reasonably expected cases must be covered. Simplicity is not allowed to overly reduce completeness. 
+      * The New Jersey guy said that the right tradeoff has been selected in Unix -- namely, implementation simplicity was more important than interface simplicity.
+      * big complex system scenario vs. diamond-like jewel scenario
+      * either impossible or beyond the capabilities of most implementors. The two scenarios correspond to Common Lisp and Scheme. The first scenario is also the scenario for classic artificial intelligence software. The right thing is frequently a monolithic piece of software, but for no reason other than that the right thing is often designed monolithically. That is, this characteristic is a happenstance.
+      * The lesson to be learned from this is that it is often undesirable to go for the right thing first. It is better to get half of the right thing available so that it spreads like a virus. Once people are hooked on it, take the time to improve it to 90% of the right thing.
+      * A wrong lesson is to take the parable literally and to conclude that C is the right vehicle for AI software. The 50% solution has to be basically right, and in this case it isn’t.
