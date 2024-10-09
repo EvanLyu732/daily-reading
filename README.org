@@ -137,6 +137,7 @@
 | [[20240930]] | How your brain detects patterns in the everyday: without conscious thought                                           |
 | [[20241001]] | When to do what you love                                                                                             |
 | [[20241008]] | The Rise of Worse is Better                                                                                          |
+| [[20241009]] | The Computational View of Time                                                                                       |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
 
@@ -2279,3 +2280,13 @@ Andrej Ng Advices For DL/ML industry people:
       * either impossible or beyond the capabilities of most implementors. The two scenarios correspond to Common Lisp and Scheme. The first scenario is also the scenario for classic artificial intelligence software. The right thing is frequently a monolithic piece of software, but for no reason other than that the right thing is often designed monolithically. That is, this characteristic is a happenstance.
       * The lesson to be learned from this is that it is often undesirable to go for the right thing first. It is better to get half of the right thing available so that it spreads like a virus. Once people are hooked on it, take the time to improve it to 90% of the right thing.
       * A wrong lesson is to take the parable literally and to conclude that C is the right vehicle for AI software. The 50% solution has to be basically right, and in this case it isn’t.
+
+---------
+** [[20241009]]
+    - paper: The Computational View of Time
+    - link: https://writings.stephenwolfram.com/2024/10/on-the-nature-of-time/
+    - takeaway:
+      * Principle of Computational Equivalence implies—our universe is inevitably full of computational irreducibility which in effect defines a robust notion of the progress of time.
+      * In essence, therefore, we experience time because of the interplay between our computational boundedness as observers, and the computational irreducibility of underlying processes in the universe. If we were not computationally bounded, we could “perceive the whole of the future in one gulp” and we wouldn’t need a notion of time at all. And if there wasn’t underlying computational irreducibility there wouldn’t be the kind of “progressive revealing of the future” that we associate with our experience of time.
+      * a robust concept of time depends on us being computationally bounded observers. If we were not, then we’d able to break the Second Law by doing detailed computations of molecular processes, and we wouldn’t just describe things in terms of randomness and heat. And similarly, we’d be able to break the linear flow of time, either jumping ahead or following different threads of time.
+      * time is what progresses when one applies computational rules.
