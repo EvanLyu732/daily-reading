@@ -138,6 +138,9 @@
 | [[20241001]] | When to do what you love                                                                                             |
 | [[20241008]] | The Rise of Worse is Better                                                                                          |
 | [[20241009]] | The Computational View of Time                                                                                       |
+| [[20241010]] | Observer Theory                                                                                                      |
+| [[20241011]] | Kernighan's lever                                                                                                    |
+| [[20241012]] | What Is Consciousness? Some New Perspectives from Our Physics Project                                                |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
 
@@ -2290,3 +2293,27 @@ Andrej Ng Advices For DL/ML industry people:
       * In essence, therefore, we experience time because of the interplay between our computational boundedness as observers, and the computational irreducibility of underlying processes in the universe. If we were not computationally bounded, we could “perceive the whole of the future in one gulp” and we wouldn’t need a notion of time at all. And if there wasn’t underlying computational irreducibility there wouldn’t be the kind of “progressive revealing of the future” that we associate with our experience of time.
       * a robust concept of time depends on us being computationally bounded observers. If we were not, then we’d able to break the Second Law by doing detailed computations of molecular processes, and we wouldn’t just describe things in terms of randomness and heat. And similarly, we’d be able to break the linear flow of time, either jumping ahead or following different threads of time.
       * time is what progresses when one applies computational rules.
+
+---------
+** [[20241010]]
+    - paper: Observer Theory
+    - link: https://writings.stephenwolfram.com/2023/12/observer-theory/
+    - takeaway:
+      * Central to what we think of as an observer is the notion that the =observer will take the raw complexity of the world and extract from it some reduced representation suitable for a finite mind=.
+      * There’s in a sense a certain duality between computation and observation. In computation one’s generating new states of a system. In observation, one’s equivalencing together different states.
+      * But a key concept of observer theory is that it’s possible to make conclusions about an observer’s impression of the world just by knowing about the capabilities—and assumptions—of the observer, without knowing in detail what the observer is =“like inside”.=
+      * At an informational level we might say that there has to be more information processing going on inside than there is flow of information from the outside. Or, in other words, if we’re going to be meaningful =“observers like us”= we can’t just be bombarded by input we don’t process; we have to have some capability to =“think about what we’re seeing”.=
+      * We’ve talked about observers operating by compressing the complexities of the world to “inner impressions” suitable for finite minds.
+      * But now there’s a problem with computational irreducibility. Yes, the rules determine the pattern. But to get from these rules to the actual pattern can require an irreducible amount of computation. And to “reverse engineer the pattern” to find the rules can require even more computation.
+      * In effect, perception and measurement tend to do “lossy compression”; analysis is more about “lossless compression” where the equivalencing is effectively not between possible inputs but between possible generative rules.
+      * For in our Physics Project, =space is ultimately “made” of a network of relations (or connections) between discrete “atoms of space”= —that’s progressively being updated in what ends up being a computationally irreducible way. But we as computationally bounded =observers can’t “decode” all the details of what’s happening, and instead we end up with a simple “aggregate” narrative, that turns out to correspond to continuum space operating according to the laws of general relativity.=
+      * In physical space—whether we’re looking at molecules in a fluid or atoms of space—we can think of us operating as observers who are physically large enough to span many underlying discrete elements, so that what we end up observing is just some kind of aggregate, averaged result.
+      * And effectively this is what happens in the transition from quantum to classical behavior. Even though there are many possible detailed (“quantum”) threads of history that an object can follow, what we perceive corresponds to a single consistent “aggregate” (“classical”) sequence of behavior.
+      * Our Physics Project in a sense brings ideas about the physical and abstract worlds closer—and the concept of the ruliad ultimately leads to a deep unification between them. For what we now imagine is that the physical universe as we perceive it is just the result of the particular kind of sampling of the ruliad made by us as certain kinds of observers.
+      * =A central feature of our interaction with the ruliad for physics is that observers like us don’t track the detailed behavior of all the various atoms of space. Instead, we equivalence things to the point where we get descriptions that are reduced enough to “fit in our minds”.= And something similar is going on in mathematics.
+      * Our tendency as observers is always to believe that we can separate our “inner experience” from what’s going on in the “outside world”. But in the end everything is just part of the ruliad. And at the level of the ruliad we as observers are ultimately “made of the same stuff” as everything else.
+      * we perceive the universe to be the way we do because we are the way we are as observers. And the most fundamental aspect of observers like us is that we’re doing lots of equivalencing to reduce the “complexity of the world” to “internal impressions” that “fit into our minds”.
+      * In an attempt to formalize the “cost of observation” we’ll inevitably have to make what seem like arbitrary choices, just as we would in setting up a scheme to determine when an ongoing computational process has “generated an answer”. But if we assume a certain boundedness to our choices, we can expect that we’ll be able to draw definite conclusions, and in effect be able to construct an analog of computational complexity theory for processes of observation.
+     
+        
+---------
