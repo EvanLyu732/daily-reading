@@ -2317,3 +2317,21 @@ Andrej Ng Advices For DL/ML industry people:
      
         
 ---------
+** [[20241011]]
+    - paper: Kernighan's lever
+    - link:https://www.linusakesson.net/programming/kernighans-lever/index.php 
+    - takeaway:
+      * Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.
+      * It is tempting to interpret Kernighan's aphorism as a warning: Stay away from clever techniques, it seems to say, because if you write clever code, you will never be able to get it to work. But this interpretation is unfortunate, and rests on the false assumption that cleverness is static.
+      * Having written code as cleverly as you can, you will suddenly face a problem that you are not clever enough to solve. Certainly, "clever" in this context does not refer to some innate talent, because nobody is born with the ability to write clever code in the first place. The "cleverness" required to write and understand intricate code is an acquired mental skill.
+      * =Skill is the result of practice, that is, of systematically trying to work slightly beyond one's ability. Quite understandably, most of us don't spend that kind of effort unless we have good reason to. Hence, without motivation we do not practise, but simply cruise along at our current level and never improve any further.=
+      * =The mind is very good at rationalising, and will convince us that our current skills are sufficient, that we are all "good enough"; certainly better than the average programmer anyway. The human brain will do this trick regardless of our actual level of skill. So while we all tend to consider ourselves sufficiently skilled right now, we never regret improving.=
+      * Kernighan's witty remarks provide a clue: In programming, as soon as you work at your current level, you will automatically end up in a situation where you have to work beyond your current level. By means of this very fortunate mechanism, you will leverage several basic human drives (honour, pride, stubbornness, curiosity) into providing the motivation necessary for improvement.
+      * /Kernighan's lever./: By putting in a small amount of motivation towards the short-term goal of implementing some functionality, you suddenly end up with a much larger amount of motivation towards a long term investment in your own personal growth as a programmer.
+      
+
+---------
+** [[20241012]]
+    - paper: What Is Consciousness? Some New Perspectives from Our Physics Project
+    - link: 
+    - takeaway:
