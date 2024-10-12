@@ -2333,5 +2333,10 @@ Andrej Ng Advices For DL/ML industry people:
 ---------
 ** [[20241012]]
     - paper: What Is Consciousness? Some New Perspectives from Our Physics Project
-    - link: 
+    - link: https://writings.stephenwolfram.com/2021/03/what-is-consciousness-some-new-perspectives-from-our-physics-project/
     - takeaway:
+      * if thought about in enough generality, is just a feature of computational sophistication, and therefore quite ubiquitous.
+      * The universe in our models is full of sophisticated computation, all the way down. At the lowest level it’s just a giant collection of “atoms of space”, whose relationships are continually being updated according to a computational rule. And inevitably much of that process is computationally irreducible, in the sense that there’s no general way to “figure out what’s going to happen” except, in effect, by just running each step.
+      * So what about physical space? The traditional view had been that space was something that could to a large extent just be described as a coherent mathematical object. But in our models of physics, space is actually made of an immense number of discrete elements whose pattern of interconnections evolves in a complex and computationally irreducible way.
+      * if there’s underlying computational irreducibility—plus causal invariance—then any observer who forms their perception of the universe in a computationally bounded way must inevitably perceive the universe to follow the laws of general relativity.
+      * quantum mechanics is again something that emerges as a result of trying to form a coherent perception of the universe.
