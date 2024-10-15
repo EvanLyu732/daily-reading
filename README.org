@@ -2357,3 +2357,25 @@ Andrej Ng Advices For DL/ML industry people:
       * =The mind, like a garden, requires tending. It needs patience, a steady hand, and, above all, consistency. There will be days when it seems unruly, when old habits return, and when focus feels elusive. But these days, too, are part of the process. Each small effort, each moment of renewed attention, builds upon the last. Over time, these moments accumulate, and what was once difficult becomes second nature.=
       * And so, the journey to mastery of the mind begins not with grand gestures but with the simplest of practices: the practice of paying attention. Attention to the present, attention to what truly matters, and attention to the quiet spaces in between. In this way, step by step, thought by thought, we move closer to that elusive state of clarity, of peace, and of freedom.
 
+
+---------
+** [[20241015]]
+    - paper: Keeping Teeth Healthy
+    - link: https://kokorobot.ca/site/keeping_teeth_healthy.html
+    - takeaway:
+
+      Flossing:
+      * flossing: long length(25-50 cm | 10-20 inches) of floss and wrap each end around my two middle fingers until I have close to 5 cm (2 inches) of floss left in-between.
+      * rinse my mouth with water(or mouthwash) afterwards.
+
+      Monthwash: 
+      * monthwash bottle(20 ml | 4 tsps), and swish the liquid around in my mouth for 30 seconds
+      * spit the liquid, but I don't rinse my mouth. I wait at least 30 minutes before eating or drinking anything(even water). I don't rinse it away with water because mouthwash uses ingredients — like fluoride or antiseptics — that continue to act even after I spit it out, rinsing my mouth with water washes these beneficial compounds away.
+
+      Brushing:
+      * when brushing, I go slow
+      * brushing for at least 2 minutes, brushing less than this means not getting the benefits of fluoride toothpaste(if using a toothpaste with fluoride).
+      * Don't brush your teeth right after eating. Rinsing with water after eating is fine. Brushing your teeth after a meal, especially if it's acidic, is not great because the enamel is a bit softer and it can damage your teeth. It is best to wait 30-60 minutes after brushing to avoid damaging the enamel.
+      * In the morning, brush before breakfast, not after
+
+
