@@ -143,6 +143,7 @@
 | [[20241012]] | What Is Consciousness? Some New Perspectives from Our Physics Project                                                |
 | [[20241014]] | the quiet art of attention                                                                                           |
 | [[20241015]] | Keeping Teeth Healthy                                                                                                |
+| [[20241016]] | Cofounder Mode - A Tactical Guide to Finding a Cofounder                                                             |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
 
@@ -2380,4 +2381,24 @@ Andrej Ng Advices For DL/ML industry people:
       * Don't brush your teeth right after eating. Rinsing with water after eating is fine. Brushing your teeth after a meal, especially if it's acidic, is not great because the enamel is a bit softer and it can damage your teeth. It is best to wait 30-60 minutes after brushing to avoid damaging the enamel.
       * In the morning, brush before breakfast, not after
 
+
+---------
+** [[20241016]]
+    - paper: Cofounder Mode - A Tactical Guide to Finding a Cofounder
+    - link: https://repromptai.com/blog/cofounder-mode-tactical-guide-finding-cofounder
+    - takeaway:
+      Define your ICP - your Ideal Cofounder Profile
+      The more specific you are about your ICP, the less time you will waste on people who aren’t a match. The most important factors are:
+      * Skillset
+      * Timing and location
+      * Idea interest
+
+     Red flags to watch for
+     * They’re unwilling to change an idea you hate.
+     * You’re talking past each other—“agreeing” without truly understanding.
+     * They’re not in your ICP—they won’t do sales or aren’t the right kind of technical.
+     * The vibes are off—cut things off quickly if it’s not working.
+     * They want to work on this part-time
+     * They want to quit their job but haven't set a date to do it
+     * They're going to quit their job but only after the YC interview
 
