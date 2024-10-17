@@ -144,6 +144,7 @@
 | [[20241014]] | the quiet art of attention                                                                                           |
 | [[20241015]] | Keeping Teeth Healthy                                                                                                |
 | [[20241016]] | Cofounder Mode - A Tactical Guide to Finding a Cofounder                                                             |
+| [[20241017]] | Hofstadter on Lisp                                                                                                   |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
 
@@ -2402,3 +2403,12 @@ Andrej Ng Advices For DL/ML industry people:
      * They want to quit their job but haven't set a date to do it
      * They're going to quit their job but only after the YC interview
 
+
+---------
+** [[20241017]]
+    - paper: Hofstadter on Lisp
+    - link: https://gist.github.com/jackrusher/5139396
+    - takeaway:
+      * The earliest list-processing language was not Lisp but IPL ("Information Processing Language"), developed in the mid-1950's by Herbert Simon, Allen Newell, and J. C. Shaw. In the years 1956-58, John McCarthy, drawing on all these previous sources, came up with an elegant algebraic list-processing language he called Lisp. It caught on quickly with the young crowd around him at the newly-formed MIT Artificial Intelligence Project, was implemented on the IBM 704, spread to other AI groups, infected them, and has stayed around all these years. Many dialects now exist, but all of them share that central elegant kernel.
+      * The heart of Lisp is its manipulable structures. All programs in Lisp work by creating, modifying, and destroying structures. Structures come in two types: atomic and composite, or, as they are usually called, atoms and lists. Thus, every Lisp object is either an atom or a list (but not both). The only exception is the special object called nil, which is both an atom and a list. 
+      * Psychologically, one of the great powers of programming is the ability to define new compound operations in terms of old ones, and to do this over and over again, thus building up a vast repertoire of ever more complex operations. It is quite reminiscent of evolution, in which ever more complex molecules evolve out of less complex ones, in an ever-upward spiral of complexity and creativity. It is also quite reminiscent of the industrial revolution, in which people used very simple early machines to help them build more complex machines, then used those in turn to build even more complex machines, and so on, once again in an ever-upward spiral of complexity and creativity. At each stage, whether in evolution or revolution, the products get more flexible and more intricate, more "intelligent" and yet more vulnerable to delicate "bugs" or breakdowns.
