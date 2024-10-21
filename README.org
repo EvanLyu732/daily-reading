@@ -146,6 +146,7 @@
 | [[20241016]] | Cofounder Mode - A Tactical Guide to Finding a Cofounder                                                             |
 | [[20241017]] | Hofstadter on Lisp                                                                                                   |
 | [[20241018]] | On High Agency and Work Ethic                                                                                        |
+| [[20241021]] | Focus on decisions, not tasks                                                                                        |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
 
@@ -2426,3 +2427,11 @@ Andrej Ng Advices For DL/ML industry people:
       * High agency people bend reality to their will. When presented with a problem, a high agency person deals with it head on. They take responsibility and ownership of the problem, and usually get to the core of the problem and try solving it - this shows how much you care about the problem, and to what limit you can pursue it. They don’t limit themselves, they figure shit out, and usually this is a huge differentiator. If you do everything, you will win.
       * Work ethic is something that fuels high agency. If you want to have a take away from this blog, =it should be that every(and any) quality can be cultivated - all it requires is effort. Do whatever it takes, and be in the driver seat of your own life - take your destiny in your own hands. Read books, take inspiration from other people.= In the end, love what you do purely, and agency will just follow. Only condition is that you have to be ruthless in implementation and do high quality work.
       * People are obsessed with prodigies and often believe having such identity can set them apart. They swallow the pill that “they are not smart” and often don’t pursue(or quickly give up) what they want because of this. It takes time, patience, resilience, a deep sense of affection for the craft and most importantly - hard work. Don’t aim to be a prodigy, be Sisyphus :)
+
+---------
+** [[20241021]]
+    - paper: Focus on decisions, not tasks
+    - link: https://technicalwriting.dev/strategy/decisions.html
+    - takeaway:
+      * In technical communication, we don’t talk much about =decision support=; we talk about =task support=… In many cases, the information people need to complete their tasks is not information on how to operate machines, =but information to support their decision making…=  =simply documenting the procedures is never enough…=  What I am talking about is =documenting the context,= letting users know what decisions they must make, making them aware of the consequences, and, as far as possible, leading them to resources and references that will assist them in deciding what to do.
+
