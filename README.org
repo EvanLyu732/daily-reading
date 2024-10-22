@@ -1,4 +1,4 @@
-#+TITLE: Evan's Daily Paper 
+j#+TITLE: Evan's Daily Paper 
 #+AUTHOR: Evan Lyu
 #+auto_tangle: t
 #+DESCRIPTION: Evan's Daily Paper
@@ -147,6 +147,7 @@
 | [[20241017]] | Hofstadter on Lisp                                                                                                   |
 | [[20241018]] | On High Agency and Work Ethic                                                                                        |
 | [[20241021]] | Focus on decisions, not tasks                                                                                        |
+| [[20241022]] | Turning the Crank: Design as a Mechanical Process                                                                    |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
 
@@ -2435,3 +2436,41 @@ Andrej Ng Advices For DL/ML industry people:
     - takeaway:
       * In technical communication, we don’t talk much about =decision support=; we talk about =task support=… In many cases, the information people need to complete their tasks is not information on how to operate machines, =but information to support their decision making…=  =simply documenting the procedures is never enough…=  What I am talking about is =documenting the context,= letting users know what decisions they must make, making them aware of the consequences, and, as far as possible, leading them to resources and references that will assist them in deciding what to do.
 
+
+---------
+** [[20241022]]
+    - paper: Turning the Crank: Design as a Mechanical Process
+    - link: https://karmanivero.us/blog/turning-the-crank-design-as-a-mechanical-process/
+    - takeaway:
+      A generic architecture like the one pictured above is really just a statement of intent: Whatever the architecture of the system we wind up delivering, it’s going to have this shape.
+
+      This is a useful check on the final delivery: does it actually have that shape? But the process of design is very much the process of decomposing large problems into small ones… and =in order to gain any traction at all, you’re going to need some specific problems to decompose.=
+
+      #+begin_quote
+Good high-level design isolates key perspectives on a system so its problems can be seen and decomposed.
+    #+end_quote
+     As the Gehry sketches above suggest, the main medium of communication in design is visual, and the key deliverable artifact in any design is some kind of a drawing:
+        * =At a high level, where there are more questions than answers and decomposition is the driving concern, a design drawing looks more like a sketch.=
+        * =At a low level, where there are more answers than questions and implementation is the driving concern, a design drawing looks more like a diagram=
+
+     So a complete design artifact contains…
+        1. a drawing that fits on a single page & conveys its essential message at a glance, and
+        2. a document that unpacks the message and declaratively asks the questions to be answered by the next-lower level of design.
+        3. A complete design artifact is the drawing that encapsulates the design plus the document that unpacks it.
+
+[[./static/dic.png]]
+
+#+begin_quote
+An internally consistent design artifact is one where the drawing and the document that unpacks it actually describe the same thing.
+#+end_quote
+
+#+begin_quote
+Really useful design artifacts are specific to the problem they’re solving, and proprietary to the organization that’s solving it!
+#+end_quote
+
+
+         
+
+
+    
+   
