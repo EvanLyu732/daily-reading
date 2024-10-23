@@ -148,6 +148,7 @@ j#+TITLE: Evan's Daily Paper
 | [[20241018]] | On High Agency and Work Ethic                                                                                        |
 | [[20241021]] | Focus on decisions, not tasks                                                                                        |
 | [[20241022]] | Turning the Crank: Design as a Mechanical Process                                                                    |
+| [[20241023]] | Using AI Generated Code Will Make You a Bad Programmer                                                               |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
 
@@ -2469,8 +2470,9 @@ Really useful design artifacts are specific to the problem they’re solving, an
 #+end_quote
 
 
-         
-
-
-    
-   
+---------
+** [[20241023]]
+    - paper: Using AI Generated Code Will Make You a Bad Programmer
+    - link: https://slopwatch.com/posts/bad-programmer/
+    - takeaway:
+      * it's a basic fact in software development (and life in general) that if you don't do something for long enough, you're going to forget how to do it.
