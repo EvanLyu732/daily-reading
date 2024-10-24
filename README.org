@@ -149,6 +149,7 @@ j#+TITLE: Evan's Daily Paper
 | [[20241021]] | Focus on decisions, not tasks                                                                                        |
 | [[20241022]] | Turning the Crank: Design as a Mechanical Process                                                                    |
 | [[20241023]] | Using AI Generated Code Will Make You a Bad Programmer                                                               |
+| [[20241024]] | A Two-Systems Perspective for Computational Thinking                                                                 |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
 
@@ -2476,3 +2477,12 @@ Really useful design artifacts are specific to the problem they’re solving, an
     - link: https://slopwatch.com/posts/bad-programmer/
     - takeaway:
       * it's a basic fact in software development (and life in general) that if you don't do something for long enough, you're going to forget how to do it.
+
+---------
+** [[20241024]]
+    - paper: A Two-Systems Perspective for Computational Thinking
+    - link: https://arxiv.org/pdf/2012.03201
+    - takeaway:
+      * For computer scientists, CT refers to getting insights about human behaviour by answering questions such as (i) what are the limitations and power of computation?, (ii) what does it mean by intelligence?, (iii) what motivates us as a human being to perform or not to perform a specific action?
+      * To decompose information processing systems These approaches assume that information pro- cessing is a complex activity which can be decomposed into two parts. The first one that requires fast responses with an acceptable level of accuracy and the second one is requiring slow but correct reasoning
+      * The paper illustrates the applicability of the approach by mapping CT activities on two systems requiring fast and slow thinking as a baseline for further empirical investigation. The identified mapping needs to be substantiated by carrying out either controlled experiments or through the detailed analyses of students’ responses in an educational setting.
