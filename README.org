@@ -150,6 +150,8 @@ j#+TITLE: Evan's Daily Paper
 | [[20241022]] | Turning the Crank: Design as a Mechanical Process                                                                    |
 | [[20241023]] | Using AI Generated Code Will Make You a Bad Programmer                                                               |
 | [[20241024]] | A Two-Systems Perspective for Computational Thinking                                                                 |
+| [[20241025]] | Throw more AI at your problems                                                                                       |
+| [[20241028]] | School is Not Enough                                                                                                 |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
 
@@ -2486,3 +2488,28 @@ Really useful design artifacts are specific to the problem they’re solving, an
       * For computer scientists, CT refers to getting insights about human behaviour by answering questions such as (i) what are the limitations and power of computation?, (ii) what does it mean by intelligence?, (iii) what motivates us as a human being to perform or not to perform a specific action?
       * To decompose information processing systems These approaches assume that information pro- cessing is a complex activity which can be decomposed into two parts. The first one that requires fast responses with an acceptable level of accuracy and the second one is requiring slow but correct reasoning
       * The paper illustrates the applicability of the approach by mapping CT activities on two systems requiring fast and slow thinking as a baseline for further empirical investigation. The identified mapping needs to be substantiated by carrying out either controlled experiments or through the detailed analyses of students’ responses in an educational setting.
+
+---------
+** [[20241025]]
+    - paper: Throw more AI at your problems
+    - link: https://frontierai.substack.com/p/throw-more-ai-at-your-problems
+    - takeaway:
+      * In other words, one of our favorite solutions is to throw more AI (LLM calls) at our problems. This may sound a little silly, but we’ve found that it’s a remarkably good heuristic for us.
+      * That means you can fine-tune where possible and generally use smaller and faster models for many steps. The leads to better reliability, lower cost, and higher quality. Generally, we think that this technique is dramatically under-used in most AI applications.
+
+---------
+** [[20241028]]
+    - paper: School is Not Enough
+    - link: https://map.simonsarris.com/p/school-is-not-enough
+    - takeaway:
+      * In my examples, the individuals were all doing from a young age as opposed to merely attending school. And while they may not have wanted to work, the work was nonetheless something that they, their families, and society felt was useful, purposeful, and appreciated. In a sense, they had useful childhoods.
+      * Agency is the capacity to act. Gaining agency is gaining the capacity to do something different from the rigid path of events that simply happen to you.
+      * The result is alarming on its own for wasting people’s youth. But even worse, in having so many years of life monopolized, people come to inadvertently believe that skill and knowledge transfer are primarily the domain of school rather than a normal consequence of meaningful work.
+      * The institutions of higher and lower education have a purpose, but they are not your friend. They have no sensitivity to context. Their incentives are not the same as your incentives, and they have no interest in any individual going off-script. They ask nothing of you but your time and eventually your money, but these are not trivial things. And they will take as many of your prime years as you are willing to give them. School should be leveraged only so long as nothing else meaningful is available.
+      * This is not the worship of employment, but an observation of fundamentals: it seems that the more you ask of people and the more you have them do, the more they grow into to the task of doing it on their own.
+      * We are not looking for a job but opportunities for mastery: learning and practice beyond the depth one would find along the common path, which demands no such thing.
+      * Leveraging existing technology and a supportive parent, there’s no reason a young teenager couldn’t make thousands this way while attaining mastery of something.
+      * The goal of education is to create a path to mastery or responsibility. If a child can sell the fruit of his labor, so much the better. But the essential lesson is that every difficult thing attempted acts as a multiplier on his confidence and the rest of his knowledge.
+      * You don’t need an audience or patrons. You don’t have to ask anyone. You don’t have to get a building permit or any professional resources. You can just create. The advantages of this, especially for some children who are not allowed to do much else with their time, are immense. We should ask ourselves, slowly, carefully, and often: what else can be like that?
+      * a sensitivity to context is precisely the thing that systems of scale fail at producing. But both parent and child should never confuse this with a lack of options. Our era is resource-rich, especially with educational resources, but onramp poor. The legwork is up to you.
+      * =The purpose of education is to develop agency within a child. Purposeful work and achieving mastery are tools to getting there. They aren’t the results of learning and imagination, it’s the other way around—learning is simply the consequence of doing.=
