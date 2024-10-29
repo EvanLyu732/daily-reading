@@ -1,4 +1,4 @@
-j#+TITLE: Evan's Daily Paper 
+#+TITLE: Evan's Daily Paper 
 #+AUTHOR: Evan Lyu
 #+auto_tangle: t
 #+DESCRIPTION: Evan's Daily Paper
@@ -153,6 +153,7 @@ j#+TITLE: Evan's Daily Paper
 | [[20241025]] | Throw more AI at your problems                                                                                       |
 | [[20241028]] | School is Not Enough                                                                                                 |
 | [[20241029]] | How to learn things by yourself                                                                                      |
+| [[20241030]] | How to Lose Time And Money                                                                                           |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
 
@@ -2534,3 +2535,12 @@ Really useful design artifacts are specific to the problem they’re solving, an
            - Youtube: Often use it when i'm stuck on something. Tip: 2x is a life(time?)-saver.
            - Textbooks: You can find them freely by googling "[Thing X] pdf", please don't read them start to finish, just check what you need to learn with good old CTRL-F.
        Just googling can get you far.
+
+---------
+** [[20241030]]
+    - paper: How to Lose Time and Money 
+    - link: https://paulgraham.com/selfindulgence.html
+    - takeaway:
+      * 
+      * 
+      * 
