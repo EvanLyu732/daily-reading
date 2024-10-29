@@ -152,6 +152,7 @@ j#+TITLE: Evan's Daily Paper
 | [[20241024]] | A Two-Systems Perspective for Computational Thinking                                                                 |
 | [[20241025]] | Throw more AI at your problems                                                                                       |
 | [[20241028]] | School is Not Enough                                                                                                 |
+| [[20241029]] | How to learn things by yourself                                                                                      |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
 
@@ -2513,3 +2514,23 @@ Really useful design artifacts are specific to the problem they’re solving, an
       * You don’t need an audience or patrons. You don’t have to ask anyone. You don’t have to get a building permit or any professional resources. You can just create. The advantages of this, especially for some children who are not allowed to do much else with their time, are immense. We should ask ourselves, slowly, carefully, and often: what else can be like that?
       * a sensitivity to context is precisely the thing that systems of scale fail at producing. But both parent and child should never confuse this with a lack of options. Our era is resource-rich, especially with educational resources, but onramp poor. The legwork is up to you.
       * =The purpose of education is to develop agency within a child. Purposeful work and achieving mastery are tools to getting there. They aren’t the results of learning and imagination, it’s the other way around—learning is simply the consequence of doing.=
+
+---------
+** [[20241029]]
+    - paper: How to learn things by yourself
+    - link: https://brunothedev.github.io/p/2024-10-28-how_to_learn.html
+    - takeaway:
+        * Subdividing your topic
+            * Use a LLM like chatgpt to subdivide your topic, this helps making what you need to learn more clearer and concrete.
+        * Some prompts:
+            * "Tell me the main topics of X".
+            * "Subdivide X into as many topics as possible".
+            * "For everything i say here, make me a list of topics i have to learn with [ ] on each one, be as specific as possible"(my particular one, but you can test each and see what's best).
+
+       * Then you use the output as a checklist.
+       * Learning resources
+           - Wikipedia: Surprisingly useful, can give some bad explanations though.
+           - Libretexts: Very short textbooks.
+           - Youtube: Often use it when i'm stuck on something. Tip: 2x is a life(time?)-saver.
+           - Textbooks: You can find them freely by googling "[Thing X] pdf", please don't read them start to finish, just check what you need to learn with good old CTRL-F.
+       Just googling can get you far.
