@@ -154,6 +154,7 @@
 | [[20241028]] | School is Not Enough                                                                                                 |
 | [[20241029]] | How to learn things by yourself                                                                                      |
 | [[20241030]] | How to Lose Time And Money                                                                                           |
+| [[20241031]] | How To Join The Top 1% Of Intelligence (Full Guide)                                                                  |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
 
@@ -2545,3 +2546,15 @@ Really useful design artifacts are specific to the problem they’re solving, an
       * Investing bypasses those alarms. You're not spending the money; you're just moving it from one asset to another. Which is why people trying to sell you expensive things say "it's an investment."
       * The most dangerous way to lose time is not to spend it having fun, but to spend it doing fake work. When you spend time having fun, you know you're being self-indulgent. Alarms start to go off fairly quickly. If I woke up one morning and sat down on the sofa and watched TV all day, I'd feel like something was terribly wrong. Just thinking about it makes me wince. I'd start to feel uncomfortable after sitting on a sofa watching TV for 2 hours, let alone a whole day.
       * The solution is to develop new alarms. This can be a tricky business, because while the alarms that prevent you from overspending are so basic that they may even be in our DNA, the ones that prevent you from making bad investments have to be learned, and are sometimes fairly counterintuitive.
+
+---------
+** [[20241031]]
+    - paper: How To Join The Top 1% Of Intelligence (Full Guide)
+    - link: https://thedankoe.com/letters/how-to-join-the-top-1-of-intelligence-full-guide/
+    - takeaway:
+      * The only real test of intelligence is if you get what you want out of life. – Naval Ravikant
+      * But most people get it wrong. They think intelligence is about book smarts and cognitive tasks. Those play a role in your success, of course, but there is much more to the story.
+      * Even more, many “smart” people are lonely, broke, unhealthy, and angry at the world. They can think through complex problems but they can’t solve the bigger, more holistic problem of living a rich life.
+      * Then, commit for 1 year minimum to your own development. 1 hour a day of conscious study and reflection.
+      * The point is that problems aren’t problems unless you have a corresponding goal. If you don’t have any worthwhile goal, you aren’t able to see the plethora of problems that, once solved, lead to a better life.
+      * If you were to condition yourself with new stimuli (constant self-education) to the point of having an identity that couldn’t “survive” without achieving new goals – you would inevitably achieve whatever they are with ease. If you want a successful business, relationship, or anything that is out of the norm, you must fundamentally change the goals your mind operates on by changing who you are.
