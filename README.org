@@ -155,6 +155,7 @@
 | [[20241029]] | How to learn things by yourself                                                                                      |
 | [[20241030]] | How to Lose Time And Money                                                                                           |
 | [[20241031]] | How To Join The Top 1% Of Intelligence (Full Guide)                                                                  |
+| [[20241101]] | Writes and Write-Nots                                                                                                |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
 
@@ -2558,3 +2559,13 @@ Really useful design artifacts are specific to the problem they’re solving, an
       * Then, commit for 1 year minimum to your own development. 1 hour a day of conscious study and reflection.
       * The point is that problems aren’t problems unless you have a corresponding goal. If you don’t have any worthwhile goal, you aren’t able to see the plethora of problems that, once solved, lead to a better life.
       * If you were to condition yourself with new stimuli (constant self-education) to the point of having an identity that couldn’t “survive” without achieving new goals – you would inevitably achieve whatever they are with ease. If you want a successful business, relationship, or anything that is out of the norm, you must fundamentally change the goals your mind operates on by changing who you are.
+
+---------
+** [[20241101]]
+    - paper: Writes and Write-Nots
+    - link: https://paulgraham.com/writes.html
+    - takeaway:
+      * The reason so many people have trouble writing is that it's fundamentally difficult. To write well you have to think clearly, and thinking clearly is hard.
+      * And yet writing pervades many jobs, and the more prestigious the job, the more writing it tends to require.
+      * The reason is something I mentioned earlier: writing is thinking. In fact there's a kind of thinking that can only be done by writing. You can't make this point better than Leslie Lamport did:
+        If you're thinking without writing, you only think you're thinking. 
