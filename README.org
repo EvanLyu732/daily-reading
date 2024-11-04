@@ -156,6 +156,7 @@
 | [[20241030]] | How to Lose Time And Money                                                                                           |
 | [[20241031]] | How To Join The Top 1% Of Intelligence (Full Guide)                                                                  |
 | [[20241101]] | Writes and Write-Nots                                                                                                |
+| [[20241104]] |                                                                                                                      |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
 
@@ -2569,3 +2570,13 @@ Really useful design artifacts are specific to the problem they’re solving, an
       * And yet writing pervades many jobs, and the more prestigious the job, the more writing it tends to require.
       * The reason is something I mentioned earlier: writing is thinking. In fact there's a kind of thinking that can only be done by writing. You can't make this point better than Leslie Lamport did:
         If you're thinking without writing, you only think you're thinking. 
+
+---------
+** [[20241104]]
+    - paper: How To Train Yourself To Go To Sleep Earlier 
+    - link: https://www.sleepfoundation.org/sleep-hygiene/how-to-go-to-sleep-earlier
+    - takeaway:
+      * develop a route before bed. e.g: Reading, Journaling, Meditation, A Warm Shower 
+      * Manage Blue Light Exposure: While it may be tempting to scroll on your phone to relax before bedtime, the habit could be keeping you up later.
+      * Exercise: before bedtime, try a low- or moderate-intensity activity.
+      * Many people find that napping too late in the day can interfere with nighttime sleep. If you are trying to go to bed earlier, you may want to avoid naps in the afternoon and evening.
