@@ -156,7 +156,10 @@
 | [[20241030]] | How to Lose Time And Money                                                                                           |
 | [[20241031]] | How To Join The Top 1% Of Intelligence (Full Guide)                                                                  |
 | [[20241101]] | Writes and Write-Nots                                                                                                |
-| [[20241104]] |                                                                                                                      |
+| [[20241104]] | How To Train Yourself To Go To Sleep Earlier                                                                         |
+| [[20241105]] | Alonzo Church: The Forgotten Architect of Computer Intelligence                                                      |
+| [[20241106]] | Blog Writing for Developers Published                                                                                |
+|          |                                                                                                                      |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
 
@@ -2580,3 +2583,17 @@ Really useful design artifacts are specific to the problem they’re solving, an
       * Manage Blue Light Exposure: While it may be tempting to scroll on your phone to relax before bedtime, the habit could be keeping you up later.
       * Exercise: before bedtime, try a low- or moderate-intensity activity.
       * Many people find that napping too late in the day can interfere with nighttime sleep. If you are trying to go to bed earlier, you may want to avoid naps in the afternoon and evening.
+
+---------
+** [[20241105]]
+    - paper: Alonzo Church: The Forgotten Architect of Computer Intelligence
+    - link: https://onepercentrule.substack.com/p/alonzo-church-the-forgotten-architect
+    - takeaway:
+      * Yet, Church's influence is indelible. The very programs that run on the billions of smartphones today can trace their logic back to the abstract functions of λ-calculus. The invisible DNA of computation, from the simple app to artificial intelligence, owes a significant part of its lineage to Church’s work.
+      * To know Church is to understand that genius doesn’t always reside in spectacle but sometimes in quiet, unassuming elegance,
+
+---------
+** [[20241106]]
+    - paper: Blog Writing for Developers Published 
+    - link: https://rmoff.net/2023/07/19/blog-writing-for-developers/
+    - takeaway:
