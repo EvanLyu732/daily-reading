@@ -161,6 +161,7 @@
 | [[20241106]] | Blog Writing for Developers Published                                                                                |
 | [[20241107]] | On Chomsky and the Two Cultures of Statistical Learning                                                              |
 | [[20241108]] | Teach Yourself Programming in Ten Years                                                                              |
+| [[20241109]] | Algorithm = Logic + Control                                                                                          |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
@@ -2599,6 +2600,14 @@ Really useful design artifacts are specific to the problem they’re solving, an
     - paper: Blog Writing for Developers Published 
     - link: https://rmoff.net/2023/07/19/blog-writing-for-developers/
     - takeaway:
+      * first, go and watch "[[The Craft of Writing Effectively]]"
+      * There are three key dimensions that it’s useful to consider here:
+        * clarity
+        * personality (also called voice)
+        * uniformity of content.
+      * Writing clearly means everything from sentence construction and paragraph breaks through to the structure of your article. It can be surprisingly hard to do but is crucial if you want to write material that people will want to read.
+      * what you leave out is as important as what you leave in. This is going to be very context-specific. Documentation, by definition, should be comprehensive. A blog, on the other hand, might want to get to the point sooner and just provide a link to background material for the reader should they want it. Less is often more, as they say.
+
 
 ---------
 ** [[20241107]]
@@ -2612,11 +2621,8 @@ Really useful design artifacts are specific to the problem they’re solving, an
     - paper: Teach Yourself Programming in Ten Years
     - link: https://www.norvig.com/21-days.html
     - takeaway:
-      * first, go and watch "[[The Craft of Writing Effectively]]"
-      * There are three key dimensions that it’s useful to consider here:
-        * clarity
-        * personality (also called voice)
-        * uniformity of content.
-      * Writing clearly means everything from sentence construction and paragraph breaks through to the structure of your article. It can be surprisingly hard to do but is crucial if you want to write material that people will want to read.
-      * what you leave out is as important as what you leave in. This is going to be very context-specific. Documentation, by definition, should be comprehensive. A blog, on the other hand, might want to get to the point sooner and just provide a link to background material for the reader should they want it. Less is often more, as they say.
 
+** [[20241109]]
+    - paper: Algorithm = Logic + Control
+    - link: https://www.doc.ic.ac.uk/~rak/papers/algorithm%20=%20logic%20+%20control.pdf
+    - takeaway:
