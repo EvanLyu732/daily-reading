@@ -2614,7 +2614,14 @@ Really useful design artifacts are specific to the problem they’re solving, an
     - paper: On Chomsky and the Two Cultures of Statistical Learning
     - link: http://norvig.com/chomsky.html
     - takeaway:
-      * 
+      * Prof. Noam Chomsky: derided researchers in machine learning who use purely statistical methods to produce behavior that mimics something in the world, but who don't try to understand the meaning of that behavior.
+      * But I observe that science and engineering develop together, and that engineering success shows that something is working right, and so is evidence (but not proof) of a scientifically successful model.
+      * Science is a combination of gathering facts and making theories; neither can progress on its own. In the history of science, the laborious accumulation of facts is the dominant mode, not a novelty. The science of understanding language is no different than other sciences in this respect.
+      * But one can gain insight by examing the properties of the model—where it succeeds and fails, how well it learns as a function of data, etc.
+      * Einstein said to make everything as simple as possible, but no simpler. Many phenomena in science are stochastic, and the simplest model of them is a probabilistic model; I believe language is such a phenomenon and therefore that probabilistic models are our best tool for representing facts about language, for algorithmically processing language, and for understanding how humans process language. 
+      * A dictionary definition of science is "the systematic study of the structure and behavior of the physical and natural world through observation and experiment,"
+      * Two Cultures of Statistical Learning: data modeling culture, algorithmic modeling culture
+
 
 ---------
 ** [[20241108]]
