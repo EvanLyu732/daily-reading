@@ -163,6 +163,7 @@
 | [[20241108]] | Teach Yourself Programming in Ten Years                                                                              |
 | [[20241109]] | Algorithm = Logic + Control                                                                                          |
 | [[20241111]] | You Too Can Write a Book!                                                                                            |
+| [[20241112]] | Understanding Multimodal LLMs                                                                                        |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
@@ -2647,3 +2648,12 @@ Really useful design artifacts are specific to the problem they’re solving, an
     - takeaway:
       * People at other places might use your book, or at least put it on reading lists. Even if only one student there reads and internalizes that supplemental material, that student now carries your ideas with them. Much more concretely, they could be a PhD applicant. I have gotten so many great PhD applicants over the years thanks to my books! In particular, when they come from a less-well-known university, this guarantees for me that they have the preparation I need, and that we have a shared mindset.
       * Publish it free online. Especially those of us who are immigrants from poorer countries know what it’s like to not be able to afford high-quality material. The next you is sitting right now in Bangalore stuck with a crappy course and crappy book. Be their light.
+
+
+** [[20241112]]
+    - paper: Understanding Multimodal LLMs
+    - link: https://sebastianraschka.com/blog/2024/understanding-multimodal-llms.html
+    - takeaway:
+      * Common approaches to building multimodal LLMs:
+        * a Unified Embedding Decoder Architecture approach: utilizes a single decoder model,
+        * a Cross-modality Attention Architecture approach.: employs a cross-attention mechanism to integrate image and text embeddings directly within the attention layer.
