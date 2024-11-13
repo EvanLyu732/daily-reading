@@ -164,6 +164,7 @@
 | [[20241109]] | Algorithm = Logic + Control                                                                                          |
 | [[20241111]] | You Too Can Write a Book!                                                                                            |
 | [[20241112]] | Understanding Multimodal LLMs                                                                                        |
+| [[20241113]] | DEFENSIVE COMMUNICATION                                                                                              |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
@@ -2657,3 +2658,14 @@ Really useful design artifacts are specific to the problem they’re solving, an
       * Common approaches to building multimodal LLMs:
         * a Unified Embedding Decoder Architecture approach: utilizes a single decoder model,
         * a Cross-modality Attention Architecture approach.: employs a cross-attention mechanism to integrate image and text embeddings directly within the attention layer.
+
+
+** [[20241113]]
+    - paper: DEFENSIVE COMMUNICATION
+    - link: https://reagle.org/joseph/2010/conflict/media/gibb-defensive-communication.html
+    - takeaway:
+      * Defensive behavior is defined as that behavior which occurs when an individual perceives threat or anticipates threat in the group.
+      * As a person becomes more and more defensive, he or she becomes less and less able to perceive accurately the motives, the values and the emotions of the sender.
+      * As defenses are reduced, the receivers become better able to concentrate upon the structure, the content and the cognitive meanings of the message.
+      * When a person communicates to another that he or she feels superior in position, power, wealth, intellectual ability, physical characteristics, or other ways, she or he arouses defensiveness.
+
