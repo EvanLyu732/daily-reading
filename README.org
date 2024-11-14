@@ -165,6 +165,7 @@
 | [[20241111]] | You Too Can Write a Book!                                                                                            |
 | [[20241112]] | Understanding Multimodal LLMs                                                                                        |
 | [[20241113]] | DEFENSIVE COMMUNICATION                                                                                              |
+| [[20241114]] | I just tested Google vs ChatGPT search — and I’m shocked by the results                                              |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
@@ -2669,3 +2670,10 @@ Really useful design artifacts are specific to the problem they’re solving, an
       * As defenses are reduced, the receivers become better able to concentrate upon the structure, the content and the cognitive meanings of the message.
       * When a person communicates to another that he or she feels superior in position, power, wealth, intellectual ability, physical characteristics, or other ways, she or he arouses defensiveness.
 
+
+
+** [[20241114]]
+    - paper: I just tested Google vs ChatGPT search — and I’m shocked by the results
+    - link: https://www.tomsguide.com/ai/i-just-tested-google-vs-chatgpt-search-and-im-shocked-by-the-results
+    - takeaway:
+      * If you’re looking for comprehensive search results with a vast array of sources and visuals, Google is still the powerhouse. However, if your priority is clear, ad-free, conversational responses with built-in real-time updates, ChatGPT offers a streamlined, user-friendly experience that could easily become a staple for everyday queries.
