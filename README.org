@@ -166,6 +166,7 @@
 | [[20241112]] | Understanding Multimodal LLMs                                                                                        |
 | [[20241113]] | DEFENSIVE COMMUNICATION                                                                                              |
 | [[20241114]] | I just tested Google vs ChatGPT search — and I’m shocked by the results                                              |
+| [[20241115]] | A Student’s Guide to Writing with ChatGPT                                                                            |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
@@ -2677,3 +2678,26 @@ Really useful design artifacts are specific to the problem they’re solving, an
     - link: https://www.tomsguide.com/ai/i-just-tested-google-vs-chatgpt-search-and-im-shocked-by-the-results
     - takeaway:
       * If you’re looking for comprehensive search results with a vast array of sources and visuals, Google is still the powerhouse. However, if your priority is clear, ad-free, conversational responses with built-in real-time updates, ChatGPT offers a streamlined, user-friendly experience that could easily become a staple for everyday queries.
+
+
+** [[20241115]]
+    - paper: A Student’s Guide to Writing with ChatGPT
+    - link: https://openai.com/chatgpt/use-cases/student-writing-guide/
+    - takeaway:
+      1. Delegate citation grunt work to ChatGPT
+      2. Quickly get up to speed on a new topic
+      3. Get a roadmap of relevant sources
+      4. Complete your understanding by asking specific questions
+      5. Improve your flow by getting feedback on structure
+      6. Test your logic with reverse outlining
+      7. Develop your ideas through Socratic dialogue
+      8. Pressure-test your thesis by asking for counterarguments
+      9. Compare your ideas against history’s greatest thinkers
+      10. Elevate your writing through iterative feedback
+      11. Use Advanced Voice Mode as a reading companion
+      12. Don’t just go through the motions—hone your skills
+
+
+      
+      
+      
