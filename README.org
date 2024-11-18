@@ -4,6 +4,7 @@
 #+DESCRIPTION: Evan's Daily Paper
 #+STARTUP: showeverything
 #+STARTUP: align
+
 #+OPTIONS: tocs:3
 
 /I am *not* a researcher or scientist. Just a regular guy who follow my interest try to figure out some interesting stuff. Since I love emacs and org mode. Why not track all the papers that i read in a single org file? This is a lifelong repo./
@@ -167,6 +168,7 @@
 | [[20241113]] | DEFENSIVE COMMUNICATION                                                                                              |
 | [[20241114]] | I just tested Google vs ChatGPT search — and I’m shocked by the results                                              |
 | [[20241115]] | A Student’s Guide to Writing with ChatGPT                                                                            |
+| [[20241118]] | 1 week with David Beazley and SICP                                                                                   |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
@@ -2698,6 +2700,8 @@ Really useful design artifacts are specific to the problem they’re solving, an
       12. Don’t just go through the motions—hone your skills
 
 
-      
-      
-      
+** [[20241118]]
+    - paper: 1 week with David Beazley and SICP
+    - link: https://ezzeriesa.notion.site/1-week-with-David-Beazley-and-SICP-4c440389cf1e43f48fe67c969967f655#58ee6b0435b24e26bd624b33ffed94df
+    - takeaway:
+      * We can model the world as a collection of separate, time-bound interacting objects with state, or we can model the worlds as a single, timeless, stateless unity. Each view has powerful advantages, but neither alone is completely satisfactory. A grand unification has yet to emerge.
