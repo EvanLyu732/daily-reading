@@ -169,6 +169,7 @@
 | [[20241114]] | I just tested Google vs ChatGPT search — and I’m shocked by the results                                              |
 | [[20241115]] | A Student’s Guide to Writing with ChatGPT                                                                            |
 | [[20241118]] | 1 week with David Beazley and SICP                                                                                   |
+| [[20241119]] | Good software development habits                                                                                     |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
@@ -2705,3 +2706,15 @@ Really useful design artifacts are specific to the problem they’re solving, an
     - link: https://ezzeriesa.notion.site/1-week-with-David-Beazley-and-SICP-4c440389cf1e43f48fe67c969967f655#58ee6b0435b24e26bd624b33ffed94df
     - takeaway:
       * We can model the world as a collection of separate, time-bound interacting objects with state, or we can model the worlds as a single, timeless, stateless unity. Each view has powerful advantages, but neither alone is completely satisfactory. A grand unification has yet to emerge.
+
+
+** [[20241119]]
+    - paper: Good software development habits
+    - link: https://zarar.dev/good-software-development-habits/
+    - takeaway:
+      * "for each desired change, make the change easy (warning: this may be hard), then make the easy change". Doing this pays off whenever a bigger requirement comes in and you find yourself making a small change to satisfy it only because of those smaller improvements. Big refactorings are a bad idea.
+      * compiling software should be commitable.
+      * All code is a liability. Undeployed code is the grim reaper of liabilities. I need to know if it works or at least doesn't break anything. Tests give you confidence, production gives you approval. The hosting costs might rack up a little with so many deploys but it's a small price to pay for knowing the last thing you did was a true sign of progression. Working software is the primary measure of progress, says one of the agile principles. Working and progress are doing a lot of heavy lifting in that sentence, so I've defined them for myself. Working is something being working enough to be deployed, and if it's code that's contributing to a capability, that's progress.
+      * If you keep components small, then you reduce the need for a lot of tests as the framework will be doing most of the heavy lifting in the component. If the component is big, then you introduce more complexity and now you need to write a lot of tests.
+      * If you don't know what an API should look like, write the tests first as it'll force you to think of the "customer" which in this case is you. You'll invariably discover cases that you would not have thought of if you had just written the code first and tests after.
+      * Technical debt can be classified into three main types: 1) things that are preventing you from doing stuff now, 2) things that will prevent you from doing stuff later, and 3) things that might prevent you from doing stuff later. Every other classification is a subset of these three. Minimize having lots of stuff in #1 and try to focus on #2. Ignore #3.
