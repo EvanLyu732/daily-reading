@@ -2718,3 +2718,12 @@ Really useful design artifacts are specific to the problem they’re solving, an
       * If you keep components small, then you reduce the need for a lot of tests as the framework will be doing most of the heavy lifting in the component. If the component is big, then you introduce more complexity and now you need to write a lot of tests.
       * If you don't know what an API should look like, write the tests first as it'll force you to think of the "customer" which in this case is you. You'll invariably discover cases that you would not have thought of if you had just written the code first and tests after.
       * Technical debt can be classified into three main types: 1) things that are preventing you from doing stuff now, 2) things that will prevent you from doing stuff later, and 3) things that might prevent you from doing stuff later. Every other classification is a subset of these three. Minimize having lots of stuff in #1 and try to focus on #2. Ignore #3.
+
+
+** [[20241120]]
+    - paper: Why is the Speed of Light So Fast? (Part 1)
+    - link: https://profmattstrassler.com/2024/10/01/why-is-the-speed-of-light-so-fast-part-1/
+    - takeaway:
+      * it can only depend on speeds that are properties of the universe itself.
+      * if we understand why v is so much less than c in daily life, then we will simultaneously understand why the energies of ordinary human affairs are so small compared to the internal energies of typical objects around us.
+      
