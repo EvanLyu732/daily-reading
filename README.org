@@ -170,6 +170,9 @@
 | [[20241115]] | A Student’s Guide to Writing with ChatGPT                                                                            |
 | [[20241118]] | 1 week with David Beazley and SICP                                                                                   |
 | [[20241119]] | Good software development habits                                                                                     |
+| [[20241120]] | Why is the Speed of Light So Fast? (Part 1)                                                                          |
+| [[20241121]] | Lush: my favorite small programming language                                                                         |
+| [[20241122]] | Personality Basins                                                                                                   |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
@@ -2727,3 +2730,32 @@ Really useful design artifacts are specific to the problem they’re solving, an
       * it can only depend on speeds that are properties of the universe itself.
       * if we understand why v is so much less than c in daily life, then we will simultaneously understand why the energies of ordinary human affairs are so small compared to the internal energies of typical objects around us.
       
+
+
+** [[20241121]]
+    - paper: Lush: my favorite small programming language 
+    - link: https://scottlocklin.wordpress.com/2024/11/19/lush-my-favorite-small-programming-language/
+    - takeaway:
+      * lush like lisp create by Yann LeCun and Leon Bottou
+      * As a tool for building your own little universe of new numerics oriented algorithms it is almost incomparably cozy and nice. You get the high level stuff to move bits around in style. You get the typedefed sublanguage to compile hot chunks to the metal, and you get C/C++ APIs or adding new functions written in C/C++ as a natural part of the system. Extremely cozy system to use. While it’s not the Lisp machine enthusiasts like Stas are always telling us about, it’s probably about as close as you’re going to get to that experience using a contemporary operating system and hardware.
+
+
+
+** [[20241122]]
+    - paper: Personality Basins
+    - link: https://near.blog/personality-basins/
+    - takeaway:
+      *HIGH RECOMMEND READ THIS PAPER FOR YOURSELF, SO GOOD.* 
+
+      * Your brain is always making millions of gradient updates a day based on what is and isn’t going well and often the most you can do is try to be as observant as possible. This is why techniques like nonviolent communication, dialectical behavior therapy, and mindfulness have observation and introspection as a core facet, because it’s something that you have to consciously practice to become good at rather than something you’re born with.
+      * Your conscious experience of a stimuli is not dictated by a single-variable function f(stimuli), but rather f(stimuli, personality, environment), for broad definitions of ‘personality’ and ‘environment’.
+      * Personality Capture. Personality capture is when your environment RLHFs you into becoming a personality that benefits the agents around you rather than yourself.
+
+
+** [[20241123]]
+    - paper: What Universal Human Experiences Are You Missing Without Realizing It?
+    - link: https://slatestarcodex.com/2014/03/17/what-universal-human-experiences-are-you-missing-without-realizing-it/
+    - takeaway:
+      * 
+      * 
+      * 
