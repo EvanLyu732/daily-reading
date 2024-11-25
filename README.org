@@ -173,6 +173,8 @@
 | [[20241120]] | Why is the Speed of Light So Fast? (Part 1)                                                                          |
 | [[20241121]] | Lush: my favorite small programming language                                                                         |
 | [[20241122]] | Personality Basins                                                                                                   |
+| [[20241125]] | What Universal Human Experiences Are You Missing Without Realizing It?                                               |
+| [[20241126]] | The two factions of C++                                                                                              |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
@@ -2752,10 +2754,19 @@ Really useful design artifacts are specific to the problem they’re solving, an
       * Personality Capture. Personality capture is when your environment RLHFs you into becoming a personality that benefits the agents around you rather than yourself.
 
 
-** [[20241123]]
+** [[20241125]]
     - paper: What Universal Human Experiences Are You Missing Without Realizing It?
     - link: https://slatestarcodex.com/2014/03/17/what-universal-human-experiences-are-you-missing-without-realizing-it/
+    - takeaway:
+       my notes: "There are some aspects missing in your recognition. If you lack full experience with it, you might not fully grasp the diversity of human experiences. Different people can perceive the same thing in vastly different ways, often far beyond what you might imagine.
+      
+        
+
+** [[20241126]]
+    - paper: The two factions of C++
+    - link: https://herecomesthemoon.net/2024/11/two-factions-of-cpp/
     - takeaway:
       * 
       * 
       * 
+        
