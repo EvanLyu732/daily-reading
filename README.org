@@ -1,7 +1,7 @@
-#+TITLE: Evan's Daily Paper 
+#+TITLE: Evan's Daily Reading
 #+AUTHOR: Evan Lyu
 #+auto_tangle: t
-#+DESCRIPTION: Evan's Daily Paper
+#+DESCRIPTION: Evan's Daily Reading
 #+STARTUP: showeverything
 #+STARTUP: align
 
@@ -175,6 +175,7 @@
 | [[20241122]] | Personality Basins                                                                                                   |
 | [[20241125]] | What Universal Human Experiences Are You Missing Without Realizing It?                                               |
 | [[20241126]] | The two factions of C++                                                                                              |
+| [[20241127]] |                                                                                                                      |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
@@ -2766,7 +2767,19 @@ Really useful design artifacts are specific to the problem they’re solving, an
     - paper: The two factions of C++
     - link: https://herecomesthemoon.net/2024/11/two-factions-of-cpp/
     - takeaway:
-      * 
-      * 
-      * 
+      * We’re basically seeing a conflict between two starkly different camps of C++-users:
+       1 Relatively modern, capable tech corporations that understand that their code is an asset. (This isn’t strictly big tech. Any sane greenfield C++ startup will also fall into this category.)
+       2 Everyone else. Every ancient corporation where people are still fighting over how to indent their code, and some young engineer is begging management to allow him to set up a linter.
+       One of these groups will be capable of handling a migration somewhat gracefully, and it’s the group that is capable of building their C++ stack from versioned source , not the group that still uses ancient pre-built libraries from 1998. 
+      * The difference is tooling and the ability to build from versioned source in any clean, well-defined manner. Ideally, even the ability to deploy without needing to remember that one flag or environment variable the previous guy usually set to keep everything from imploding.
+      * That said, if there’s one thing which Go got right, it’s that tooling matters. C++, in comparison, is from a prehistoric age before linters were invented. C++ has no unified build system, it has nothing even close to a unified package management system, it is incredibly hard to parse and analyze (this is terrible for tooling), and is fighting a horrifying uphill battle against Hyrum’s Law for every change that needs to be made.
         
+
+
+** [[20241127]]
+    - paper: A Short Introduction to Automotive Lidar Technology
+    - link: https://www.viksnewsletter.com/p/short-intro-to-automotive-lidar
+    - takeaway:
+      * 
+      * 
+      * 
