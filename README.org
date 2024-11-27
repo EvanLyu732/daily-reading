@@ -175,7 +175,9 @@
 | [[20241122]] | Personality Basins                                                                                                   |
 | [[20241125]] | What Universal Human Experiences Are You Missing Without Realizing It?                                               |
 | [[20241126]] | The two factions of C++                                                                                              |
-| [[20241127]] |                                                                                                                      |
+| [[20241127]] | A Short Introduction to Automotive Lidar Technology                                                                  |
+| [[20241128]] |                                                                                                                      |
+| [[20241129]] |                                                                                                                      |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
@@ -2779,6 +2781,31 @@ Really useful design artifacts are specific to the problem they’re solving, an
 ** [[20241127]]
     - paper: A Short Introduction to Automotive Lidar Technology
     - link: https://www.viksnewsletter.com/p/short-intro-to-automotive-lidar
+    - takeaway:
+      * ranging techiques:
+        * dtof (direct time of flight)
+        * Frequency Modulated Continuous Wave (FMCW)
+      * Lidar type:
+        * Mechanical Lidar Systems
+          * Scanning Lidar
+          * MEMS-Mirror Lidar
+        * Solid State Systems
+          * Flash Lidar
+          * Optical Phased Array (OPA) Lidar
+
+
+** [[20241128]]
+    - paper: Building LLMs is probably not going be a brilliant business
+    - link: https://calpaterson.com/porter.html
+    - takeaway:
+      * 
+      * 
+      * 
+
+
+** [[20241129]]
+    - paper: Artificial Intelligence and the Future of Work
+    - link: https://nap.nationalacademies.org/resource/27644/interactive/
     - takeaway:
       * 
       * 
