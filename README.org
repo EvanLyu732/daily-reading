@@ -2810,3 +2810,12 @@ Really useful design artifacts are specific to the problem they’re solving, an
       * 
       * 
       * 
+
+
+** [[20241130]]
+    - paper: The Problem with Reasoners
+    - link: https://aidanmclaughlin.notion.site/reasoners-problem
+    - takeaway:
+      * 
+      * 
+      * 
