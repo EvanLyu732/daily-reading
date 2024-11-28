@@ -176,8 +176,9 @@
 | [[20241125]] | What Universal Human Experiences Are You Missing Without Realizing It?                                               |
 | [[20241126]] | The two factions of C++                                                                                              |
 | [[20241127]] | A Short Introduction to Automotive Lidar Technology                                                                  |
-| [[20241128]] |                                                                                                                      |
-| [[20241129]] |                                                                                                                      |
+| [[20241128]] | Building LLMs is probably not going be a brilliant business                                                          |
+| [[20241129]] | Artificial Intelligence and the Future of Work                                                                       |
+| [[20241130]] | The Problem with Reasoners                                                                                           |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
@@ -2798,9 +2799,20 @@ Really useful design artifacts are specific to the problem they’re solving, an
     - paper: Building LLMs is probably not going be a brilliant business
     - link: https://calpaterson.com/porter.html
     - takeaway:
-      * 
-      * 
-      * 
+      * *What makes a good business is industry structure* - 
+      * *What is industry structure?*
+        Classically, there are five basic parts ("forces") to a company's position:
+        1. The power of their suppliers to increase their prices
+        2. The power of their buyers to reduce your prices
+        3. The strength of direct competitors
+        4. The threat of any new entrants
+        5. The threat of substitutes
+      * =How much power do buyers have over LLM token prices? So far, it seems fairly high. Most LLM users seem willing to change from Chat-GPT to Claude, for example. It doesn't seem like brand loyalty is being built up. And companies that build AI into their businesses are starting to do so via abstraction layers that allow them to switch model easily. That makes LLMs interchangeable - which is bad for those who sell them.=
+      * Firstly, it does not mean the technology will be bad. Whether the technology ends up being good or not is mostly unrelated to whether Open AI/Anthropic/Mistral/whoever makes any money off it. Container virtualisation technology is pretty well developed even though Docker made almost nothing on it. Web browsers are extremely advanced pieces of software even though making a browser is such a bad business that most don't usually count it as a business at all. And CRMs are terrible despite the fact that Salesforce is tremendously successful. Technology success and business success are mostly unrelated.
+      * Software companies are really good businesses. You have no real suppliers, your software is often unique (so no competitors) and the substitute is just users doing the job themselves. For this reason, software companies tend have really great margins.
+
+        The problem is that not all technology companies are software companies. If you have a hugely powerful single supplier like NVIDIA then the economics of your company are going to less like Microsoft Office and more like Pan-Am.
+
 
 
 ** [[20241129]]
