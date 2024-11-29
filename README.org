@@ -177,8 +177,7 @@
 | [[20241126]] | The two factions of C++                                                                                              |
 | [[20241127]] | A Short Introduction to Automotive Lidar Technology                                                                  |
 | [[20241128]] | Building LLMs is probably not going be a brilliant business                                                          |
-| [[20241129]] | Artificial Intelligence and the Future of Work                                                                       |
-| [[20241130]] | The Problem with Reasoners                                                                                           |
+| [[20241129]] | The Problem with Reasoners                                                                                           |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
@@ -2816,18 +2815,8 @@ Really useful design artifacts are specific to the problem they’re solving, an
 
 
 ** [[20241129]]
-    - paper: Artificial Intelligence and the Future of Work
-    - link: https://nap.nationalacademies.org/resource/27644/interactive/
-    - takeaway:
-      * 
-      * 
-      * 
-
-
-** [[20241130]]
     - paper: The Problem with Reasoners
     - link: https://aidanmclaughlin.notion.site/reasoners-problem
     - takeaway:
-      * 
-      * 
-      * 
+      * RL is great for board games, high-frequency trading, protein folding, and sports… but not for open-ended thought without clear feedback . In formal RL, we call these problems **sparse reward environments.** While we’ve designed more efficient RL algorithms, there is no silver bullet to solve them.
+      * o1 uses RL, RL works best in domains with clear/frequent reward, and most domains lack clear/frequent reward.
