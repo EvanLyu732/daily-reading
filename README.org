@@ -178,6 +178,7 @@
 | [[20241127]] | A Short Introduction to Automotive Lidar Technology                                                                  |
 | [[20241128]] | Building LLMs is probably not going be a brilliant business                                                          |
 | [[20241129]] | The Problem with Reasoners                                                                                           |
+| [[20241202]] | How to Study Mathematics                                                                                             |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
@@ -2820,3 +2821,35 @@ Really useful design artifacts are specific to the problem they’re solving, an
     - takeaway:
       * RL is great for board games, high-frequency trading, protein folding, and sports… but not for open-ended thought without clear feedback . In formal RL, we call these problems **sparse reward environments.** While we’ve designed more efficient RL algorithms, there is no silver bullet to solve them.
       * o1 uses RL, RL works best in domains with clear/frequent reward, and most domains lack clear/frequent reward.
+
+
+** [[20241202]]
+    - paper: How to Study Mathematics
+    - link: https://www.math.uh.edu/~dblecher/pf2.html
+    - takeaway:
+      * Definition 
+        1. Make sure you understand what the definition says.: First determine what general class of things is being talked about: the definition of a polynomial describes a particular kind of algebraic expression; the definition of a continuous function specifies a kind of function; the definition of a basis for a vector space specifies a kind of set of vectors.
+        2. Determine the scope of the definition with examples.
+        3. Memorize the exact wording of the definition
+      * Theorems, Propositions, Lemmas, and Corollaries
+        1. Make sure you understand what the theorem says.
+        2. Determine how the theorem is used.
+        3. Find out what the hypotheses are doing there.
+        4. Memorize the statement of the theorem.
+
+        Proof is the ultimate test of validity in mathematics.
+        
+Mean Value Theorem
+      Rolle's Theorem
+           Candidate Lemma
+                Meaning of the sign of the derivative
+                     Definition of derivative
+                Definition of max and min
+      Existence  of  max  and  min   for  continuous  functions  on [a, b]
+                Definition of max and min
+                Definition of closed interval
+                Least upper bound axiom
+                Definition of continuity
+    #+end_quote
+      
+      
