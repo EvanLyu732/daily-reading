@@ -179,6 +179,8 @@
 | [[20241128]] | Building LLMs is probably not going be a brilliant business                                                          |
 | [[20241129]] | The Problem with Reasoners                                                                                           |
 | [[20241202]] | How to Study Mathematics                                                                                             |
+| [[20241203]] | Thinking in Actors - Part 1                                                                                          |
+| [[20241204]] | Learn to build your own tools                                                                                        |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
@@ -2853,3 +2855,21 @@ Mean Value Theorem
     #+end_quote
       
       
+
+** [[20241203]]
+    - paper: Thinking in Actors - Part 1
+    - link: https://jeremycarterau.substack.com/p/thinking-in-actors-part-1
+    - takeaway:
+      * if we write code that matches the fundamental ideas of the product, it will be more likely to survive future product changes.
+      * The Actor Model solves stateful challenges — Actors encapsulate state and behavior, process messages sequentially, and scale naturally, addressing concurrency, persistence, and fault tolerance in distributed systems.
+      * Virtual Actors simplify distributed systems — The Virtual Actor pattern popularized by Microsoft Orleans provide a way for us to model and run our real-world model at scale.
+
+
+** [[20241204]]
+    - paper: Learn to build your own tools
+    - link: https://offlinemark.com/learn-to-build-your-own-tools/
+    - takeaway:
+      * 
+      * 
+      * 
+      * 
