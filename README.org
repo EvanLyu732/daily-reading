@@ -181,6 +181,7 @@
 | [[20241202]] | How to Study Mathematics                                                                                             |
 | [[20241203]] | Thinking in Actors - Part 1                                                                                          |
 | [[20241204]] | Learn to build your own tools                                                                                        |
+| [[20241205]] | How to Grow Professional Relationships                                                                               |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
@@ -2871,3 +2872,11 @@ Mean Value Theorem
     - takeaway:
       * There is a mind-boggling effort difference between making a prototype product that provides value today, and productionizing that product for the mass market and doing the song and dance.
       * But if you know how to build your own tools, you can access that superset of possible products today. Even if it’s just prototype quality tools, that might be good enough.
+
+
+** [[20241205]]
+    - paper: How to Grow Professional Relationships
+    - link: https://tej.as/blog/how-to-grow-professional-relationships-tjs-model
+    - takeaway:
+[[./static/TJS.svg]]
+      
