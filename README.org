@@ -182,6 +182,7 @@
 | [[20241203]] | Thinking in Actors - Part 1                                                                                          |
 | [[20241204]] | Learn to build your own tools                                                                                        |
 | [[20241205]] | How to Grow Professional Relationships                                                                               |
+| [[20241206]] | Bringing K/V Context Quantisation to Ollama                                                                          |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
@@ -2879,4 +2880,15 @@ Mean Value Theorem
     - link: https://tej.as/blog/how-to-grow-professional-relationships-tjs-model
     - takeaway:
 [[./static/TJS.svg]]
+
       
+** [[20241206]]
+    - paper: Bringing K/V Context Quantisation to Ollama
+    - link: https://smcleod.net/2024/12/bringing-k/v-context-quantisation-to-ollama/
+    - This blog is pretty good; you should check it out for yourself. It explains the topic in detail, as the title suggests.
+
+
+** [[20241207]]
+    - paper: Productivity Tips
+    - link: https://near.blog/productivity-tips/
+    - takeaway:
