@@ -183,6 +183,8 @@
 | [[20241204]] | Learn to build your own tools                                                                                        |
 | [[20241205]] | How to Grow Professional Relationships                                                                               |
 | [[20241206]] | Bringing K/V Context Quantisation to Ollama                                                                          |
+| [[20241209]] | Machines of Loving Grace                                                                                             |
+| [[20241210]] | Productivity Tips                                                                                                    |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
@@ -2887,8 +2889,14 @@ Mean Value Theorem
     - link: https://smcleod.net/2024/12/bringing-k/v-context-quantisation-to-ollama/
     - This blog is pretty good; you should check it out for yourself. It explains the topic in detail, as the title suggests.
 
+** [[20241209]]
+    - paper: Machines of Loving Grace
+    - link: https://darioamodei.com/machines-of-loving-grace
+    - takeaway:
+      * I believe that in the AI age, we should be talking about the =marginal returns= to intelligence7, and trying to figure out what the other factors are that are complementary to intelligence and that become limiting factors when intelligence is very high.
+      * I ’ll refer to this as the “compressed 21st century”: the idea that after powerful AI is developed, we will in a few years make all the progress in biology and medicine that we would have made in the whole 21st century.
 
-** [[20241207]]
+** [[20241210]]
     - paper: Productivity Tips
     - link: https://near.blog/productivity-tips/
     - takeaway:
