@@ -2900,3 +2900,20 @@ Mean Value Theorem
     - paper: Productivity Tips
     - link: https://near.blog/productivity-tips/
     - takeaway:
+
+
+** [[20241211]]
+    - paper: WHY PROGRAMMING IS A GOOD MEDIUM FOR EXPRESSING POORLY UNDERSTOOD AND SLOPPILY-FORMULATED IDEAS
+    - link: https://rafal.io/static/papers/why_programming_is_minsky.pdf
+    - takeaway:
+      * 
+      * 
+      * 
+
+** [[20241212]]
+    - paper: An Essay Concerning Human Understanding
+    - link: https://www.gutenberg.org/files/10615/10615-h/10615-h.htm
+    - takeaway:
+      * 
+      * 
+      * 
