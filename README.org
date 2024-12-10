@@ -2900,6 +2900,11 @@ Mean Value Theorem
     - paper: Productivity Tips
     - link: https://near.blog/productivity-tips/
     - takeaway:
+      * Stop reading news, Especially politics.
+      * Don’t work against diminishing returns: Checking Twitter or Reddit for the first time in days might provide a lot of value to you, but once you start meticulously checking them over and over, the value decrease until it is near-zero. Consciously analyze when you’re stuck in a loop of something that you are getting less and less value out of, and replace that activity with a fresh one.
+      * Schedule intelligently
+      * Time spent doing nothing is valuable: Time off is valuable.
+      * Optimize your sleep: 
 
 
 ** [[20241211]]
