@@ -2922,3 +2922,12 @@ Mean Value Theorem
       * 
       * 
       * 
+
+
+** [[20241213]]
+    - paper: Productivity
+    - link: https://blog.samaltman.com/productivity
+    - takeaway:
+      * 
+      * 
+      * 
