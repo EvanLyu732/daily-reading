@@ -186,7 +186,7 @@
 | [[20241209]] | Machines of Loving Grace                                                                                             |
 | [[20241210]] | Productivity Tips                                                                                                    |
 | [[20241211]] | WHY PROGRAMMING IS A GOOD MEDIUM FOR EXPRESSING POORLY UNDERSTOOD AND SLOPPILY-FORMULATED IDEAS                      |
-| [[20241212]] | An Essay Concerning Human Understanding                                                                              |
+| [[20241212]] | Productivity                                                                                                         |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
@@ -2921,6 +2921,22 @@ Mean Value Theorem
       * To take advantage of the unsurpassed flexibility of this medium requires tremendous skill-technical, intellectual, and esthetic. To constrain the behavior of a program precisely to a range may be very hard, just as a writer will need some skill to express just a certain degree of ambiguity. A computer is like a violin. You can imagine a novice trying first a phonograph and then a violin. The latter, he says, sounds terrible. That is the argument we have heard from our humanists and most of our computer scientists. ==Computer programs are good, they say, for particular purposes, but they aren't flexible. Neither is a violin, or a typewriter, until you learn how to use it.=
 
 ** [[20241212]]
+    - paper: Productivity
+    - link: https://blog.samaltman.com/productivity
+    - takeaway:
+      * Compound growth gets discussed as a financial concept, but it works in careers as well, and it is magic.  A small productivity gain, compounded over 50 years, is worth a lot.  So it’s worth figuring out how to optimize productivity. If you get 10% more done and 1% better every day compared to someone else, the compounded difference is massive. What you work on
+      * =It doesn’t matter how fast you move if it’s in a worthless direction.  Picking the right thing to work on is the most important element of productivity and usually almost ignored.  So think about it more!  Independent thought is hard but it’s something you can get better at with practice.=
+      * By the way, here is an important lesson about delegation: remember that everyone else is also most productive when they’re doing what they like, and do what you’d want other people to do for you—try to figure out who likes (and is good at) doing what, and delegate that way.
+      * Doing great work usually requires colleagues of some sort.  Try to be around smart, productive, happy, and positive people that don’t belittle your ambitions.  I love being around people who push me and inspire me to be better.  To the degree you able to, avoid the opposite kind of people—the cost of letting them take up your mental cycles is horrific.
+      * My system has three key pillars: =“Make sure to get the important shit done”,= =“Don’t waste time on stupid shit”,= and =“make a lot of lists”=.
+      * I highly recommend using lists.  I make lists of what I want to accomplish each year, each month, and each day.  Lists are very focusing, and they help me with multitasking because I don’t have to keep as much in my head.  If I’m not in the mood for some particular task, I can always find something else I’m excited to do.
+      * I try to prioritize in a way that generates momentum.  The more I get done, the better I feel, and then the more I get done.  I like to start and end each day with something I can really make progress on.
+      * I have different times of day I try to use for different kinds of work.  The first few hours of the morning are definitely my most productive time of the day, so I don’t let anyone schedule anything then.  I try to do meetings in the afternoon.  I take a break, or switch tasks, whenever I feel my attention starting to fade.
+      * Many people spend too much time thinking about how to perfectly optimize their system, and not nearly enough asking if they’re working on the right problems.  It doesn’t matter what system you use or if you squeeze out every second if you’re working on the wrong thing.
+      * The right goal is to allocate your year optimally, not your day.
+      * natural light, quiet, knowing that I won’t be interrupted if I don’t want to be, long blocks of time, and being comfortable and relaxed
+
+** [[20241213]]
     - paper: An Essay Concerning Human Understanding
     - link: https://www.gutenberg.org/files/10615/10615-h/10615-h.htm
     - takeaway:
@@ -2929,10 +2945,3 @@ Mean Value Theorem
       * 
 
 
-** [[20241213]]
-    - paper: Productivity
-    - link: https://blog.samaltman.com/productivity
-    - takeaway:
-      * 
-      * 
-      * 
