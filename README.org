@@ -187,6 +187,8 @@
 | [[20241210]] | Productivity Tips                                                                                                    |
 | [[20241211]] | WHY PROGRAMMING IS A GOOD MEDIUM FOR EXPRESSING POORLY UNDERSTOOD AND SLOPPILY-FORMULATED IDEAS                      |
 | [[20241212]] | Productivity                                                                                                         |
+| [[20241213]] |                                                                                                                      |
+| [[20241214]] |                                                                                                                      |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
@@ -2944,4 +2946,14 @@ Mean Value Theorem
       * 
       * 
 
+
+
+
+** [[20241214]]
+    - paper: A Way of Life
+    - link: https://silkworth.net/wp-content/uploads/2020/11/a_way_of_life.pdf
+    - takeaway:
+      * 
+      * 
+      * 
 
