@@ -189,6 +189,7 @@
 | [[20241212]] | Productivity                                                                                                         |
 | [[20241213]] |                                                                                                                      |
 | [[20241214]] |                                                                                                                      |
+| [[20241215]] |                                                                                                                      |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
@@ -2938,7 +2939,22 @@ Mean Value Theorem
       * The right goal is to allocate your year optimally, not your day.
       * natural light, quiet, knowing that I won’t be interrupted if I don’t want to be, long blocks of time, and being comfortable and relaxed
 
+
+
 ** [[20241213]]
+    - paper: A Way of Life
+    - link: https://silkworth.net/wp-content/uploads/2020/11/a_way_of_life.pdf
+    - takeaway:
+      * What each day needs that shalt thou ask, Each day will set its proper task. - Gothe
+      * Now the way of life that I preach is a habit to be acquired gradually by long and steady repetition.
+        It is the practice of living for the day only, and for the day s work, Life in day-tight compartments. 
+      * Our main business is not to see what lies dimly at a distance, but to do what lies clearly at hand.
+      * The future is to-day, there is no to-morrow
+      * Control of the mind as a working machine, the adaptation in it of habit, so that its action becomes almost as automatic as walking, is the end of education and yet how rarely reached 
+      * Realise that you have sixteen waking hours, three or four of which at least should be devoted to making a silent conquest of your mental machinery. Concentration, by which is grown gradually the
+        power to wrestle successfully with any subject, is the secret of successful study.
+
+** [[20241214]]
     - paper: An Essay Concerning Human Understanding
     - link: https://www.gutenberg.org/files/10615/10615-h/10615-h.htm
     - takeaway:
@@ -2949,11 +2965,10 @@ Mean Value Theorem
 
 
 
-** [[20241214]]
-    - paper: A Way of Life
-    - link: https://silkworth.net/wp-content/uploads/2020/11/a_way_of_life.pdf
+** [[20241215]]
+    - paper: GPU Glossary
+    - link: https://modal.com/gpu-glossary/device-hardware
     - takeaway:
       * 
       * 
       * 
-
