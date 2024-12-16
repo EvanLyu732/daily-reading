@@ -2981,3 +2981,12 @@ Mean Value Theorem
       * 
       * 
       * 
+
+
+** [[20241218]]
+    - paper: Fast LLM Inference From Scratch
+    - link: https://andrewkchan.dev/posts/yalm.html
+    - takeaway:
+      * 
+      * 
+      * 
