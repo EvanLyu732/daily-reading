@@ -187,9 +187,9 @@
 | [[20241210]] | Productivity Tips                                                                                                    |
 | [[20241211]] | WHY PROGRAMMING IS A GOOD MEDIUM FOR EXPRESSING POORLY UNDERSTOOD AND SLOPPILY-FORMULATED IDEAS                      |
 | [[20241212]] | Productivity                                                                                                         |
-| [[20241213]] |                                                                                                                      |
-| [[20241214]] |                                                                                                                      |
-| [[20241215]] |                                                                                                                      |
+| [[20241213]] | A Way of Life                                                                                                        |
+| [[20241216]] | An Essay Concerning Human Understanding                                                                              |
+| [[20241217]] |                                                                                                                      |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
@@ -2954,18 +2954,27 @@ Mean Value Theorem
       * Realise that you have sixteen waking hours, three or four of which at least should be devoted to making a silent conquest of your mental machinery. Concentration, by which is grown gradually the
         power to wrestle successfully with any subject, is the secret of successful study.
 
-** [[20241214]]
+** [[20241216]]
     - paper: An Essay Concerning Human Understanding
     - link: https://www.gutenberg.org/files/10615/10615-h/10615-h.htm
     - takeaway:
-      * 
-      * 
-      * 
+      * Our business here is not to know all things, but those which concern our conduct. If we can find out those measures, whereby a rational creature, put in that state in which man is in this world, may and ought to govern his opinions, and actions depending thereon, we need not to be troubled that some other things escape our knowledge.
+      * Men must think and know for themselves
+      * Idea is the Object of Thinking
+      * All Ideas come from Sensation or Reflection.
+      * Ideas of Reflection later, because they need Attention.
+      * =That a Man should be busy in Thinking, and yet not retain it the next moment, very improbable.=
+      * Two defects in the Memory, Oblivion and Slowness.
+      * Our measures of Duration dependent on our ideas
+      * Hence it is probable that Thinking is the Action, not the Essence of the Soul.
+      * All Things capable of Relation.
+      * Our Ideas of Relations often clearer than of the Subjects related.
+      * Ideas of Proportional relations.
 
 
 
 
-** [[20241215]]
+** [[20241217]]
     - paper: GPU Glossary
     - link: https://modal.com/gpu-glossary/device-hardware
     - takeaway:
