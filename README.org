@@ -189,7 +189,7 @@
 | [[20241212]] | Productivity                                                                                                         |
 | [[20241213]] | A Way of Life                                                                                                        |
 | [[20241216]] | An Essay Concerning Human Understanding                                                                              |
-| [[20241217]] |                                                                                                                      |
+| [[20241217]] | GPU Glossary                                                                                                         |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
@@ -2978,9 +2978,7 @@ Mean Value Theorem
     - paper: GPU Glossary
     - link: https://modal.com/gpu-glossary/device-hardware
     - takeaway:
-      * 
-      * 
-      * 
+        This page covers both the hardware and software aspects of CUDA, which is rare. It’s worth saving to your *read-it-later* box.
 
 
 ** [[20241218]]
