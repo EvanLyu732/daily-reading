@@ -190,6 +190,7 @@
 | [[20241213]] | A Way of Life                                                                                                        |
 | [[20241216]] | An Essay Concerning Human Understanding                                                                              |
 | [[20241217]] | GPU Glossary                                                                                                         |
+| [[20241218]] | Fast LLM Inference From Scratch                                                                                      |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
@@ -2978,13 +2979,28 @@ Mean Value Theorem
     - paper: GPU Glossary
     - link: https://modal.com/gpu-glossary/device-hardware
     - takeaway:
-        This page covers both the hardware and software aspects of CUDA, which is rare. It’s worth saving to your *read-it-later* box.
-
+      This page covers both the hardware and software aspects of CUDA, which is rare. It’s worth saving to your *read-it-later* box.
+      #READ-IT-LATER
+      It can't be summarized in just a few points. When I write systematically about LLMs, I will reference these materials.
 
 ** [[20241218]]
     - paper: Fast LLM Inference From Scratch
     - link: https://andrewkchan.dev/posts/yalm.html
     - takeaway:
-      * 
-      * 
-      * 
+      #READ-IT-LATER
+      It can't be summarized in just a few points. When I write systematically about LLMs, I will reference these materials.
+
+
+** [[20241219]]
+    - paper: LLM inference speed of light
+    - link: https://zeux.io/2024/03/15/llm-inference-sol/
+    - takeaway:
+      #READ-IT-LATER
+
+
+** [[20241220]]
+    - paper: How is LLaMa.cpp possible?
+    - link: https://finbarr.ca/how-is-llama-cpp-possible/
+    - takeaway:
+      * (also plus the twitter: https://x.com/karpathy/status/1691571869051445433)
+      #READ-IT-LATER
