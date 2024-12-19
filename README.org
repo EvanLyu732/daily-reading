@@ -191,6 +191,7 @@
 | [[20241216]] | An Essay Concerning Human Understanding                                                                              |
 | [[20241217]] | GPU Glossary                                                                                                         |
 | [[20241218]] | Fast LLM Inference From Scratch                                                                                      |
+| [[20241219]] | LLM inference speed of light                                                                                         |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
