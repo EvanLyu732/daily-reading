@@ -193,6 +193,7 @@
 | [[20241218]] | Fast LLM Inference From Scratch                                                                                      |
 | [[20241219]] | LLM inference speed of light                                                                                         |
 | [[20241220]] | How is LLaMa.cpp possible?                                                                                           |
+| [[20241223]] | Keeping a CHANGELOG at Work                                                                                          |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
@@ -3006,3 +3007,11 @@ Mean Value Theorem
     - takeaway:
       * (also plus the twitter: https://x.com/karpathy/status/1691571869051445433)
       #READ-IT-LATER
+
+
+** [[20241223]]
+    - paper: Keeping a CHANGELOG at Work
+    - link: https://code.dblock.org/2020/09/01/keep-a-changelog-at-work.html
+    - takeaway:
+      * As a user, I can find out how changes will affect my application when upgrading, without having to engage a human. I can track down a regression, or an improvement. CHANGELOGs promote transparency, improve clarity and, in the long run, increase trust in the work of others.
+      * This gives colleauges the opportunity to quickly gather context, immediately see what I have been working on, understand what’s going on in my world, and quickly get to more meaty conversations.
