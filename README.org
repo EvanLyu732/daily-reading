@@ -194,6 +194,7 @@
 | [[20241219]] | LLM inference speed of light                                                                                         |
 | [[20241220]] | How is LLaMa.cpp possible?                                                                                           |
 | [[20241223]] | Keeping a CHANGELOG at Work                                                                                          |
+| [[20241225]] |                                                                                                                      |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
@@ -3015,3 +3016,12 @@ Mean Value Theorem
     - takeaway:
       * As a user, I can find out how changes will affect my application when upgrading, without having to engage a human. I can track down a regression, or an improvement. CHANGELOGs promote transparency, improve clarity and, in the long run, increase trust in the work of others.
       * This gives colleauges the opportunity to quickly gather context, immediately see what I have been working on, understand what’s going on in my world, and quickly get to more meaty conversations.
+
+
+** [[20241225]]
+    - paper: On the nature of Computing Science
+    - link: https://www.cs.utexas.edu/~EWD/transcriptions/EWD08xx/EWD896.html
+    - takeaway:
+      * One day you can view automation as the motor of your economy, the other day you can view it as the greatest threat to the employment situation; so the main courses in our computing science curriculum should be on Economy and on Industrial Relations.
+      * The current dictionary definition of mathematics "the science of shape, number and quantity" --which is already obsolete now-- will in the long run be replaced by "the art and science of effective reasoning", and when that has happened --a century from now or so-- computing science will have had a much profounder influence on mathematics at large than physics has had in the past.
+      * Also our academic reward system works against us. One can get credit for some complicated concepts one has introduced, it is hard to get credit for the discovery how some established but complicated concepts had better be avoided: those unaware of these concepts won't notice your discovery and those with vested interests in them will hate you for it.
