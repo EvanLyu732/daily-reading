@@ -194,7 +194,8 @@
 | [[20241219]] | LLM inference speed of light                                                                                         |
 | [[20241220]] | How is LLaMa.cpp possible?                                                                                           |
 | [[20241223]] | Keeping a CHANGELOG at Work                                                                                          |
-| [[20241225]] |                                                                                                                      |
+| [[20241225]] | On the nature of Computing Science                                                                                   |
+| [[20241226]] | Beware Trivial Inconveniences                                                                                        |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
@@ -3025,3 +3026,11 @@ Mean Value Theorem
       * One day you can view automation as the motor of your economy, the other day you can view it as the greatest threat to the employment situation; so the main courses in our computing science curriculum should be on Economy and on Industrial Relations.
       * The current dictionary definition of mathematics "the science of shape, number and quantity" --which is already obsolete now-- will in the long run be replaced by "the art and science of effective reasoning", and when that has happened --a century from now or so-- computing science will have had a much profounder influence on mathematics at large than physics has had in the past.
       * Also our academic reward system works against us. One can get credit for some complicated concepts one has introduced, it is hard to get credit for the discovery how some established but complicated concepts had better be avoided: those unaware of these concepts won't notice your discovery and those with vested interests in them will hate you for it.
+
+
+** [[20241226]]
+    - paper: Beware Trivial Inconveniences
+    - link: https://www.lesswrong.com/posts/reitXJgJXFzKpdKyd/beware-trivial-inconveniences
+    - takeaway:
+      * It's become a truism that people spend more when they use credit cards than when they use money. This particular truism happens to be true: in a study by Prelec and Simester1, auction participants bid twice as much for the same prize when using credit than when using cash. The trivial step of getting the money and handing it over has a major inhibitory effect on your spending habits.
+      * Jonah Lehrer's book How We Decide.
