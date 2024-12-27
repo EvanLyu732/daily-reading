@@ -200,6 +200,7 @@
 |          |                                                                                                                      |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
+|          |                                                                                                                      |
 
 ** 20240423
 - Paper: A Survey of Embodied AI: From Simulators to Research Tasks
@@ -3047,6 +3048,15 @@ Mean Value Theorem
 ** [[20241228]]
     - paper: Write your Own Virtual Machine
     - link: https://www.jmeiners.com/lc3-vm/
+    - takeaway:
+      * 
+      * 
+      * 
+
+
+** [[20241229]]
+    - paper: DeepSeek-V3 Technical Report
+    - link: https://github.com/CloudBee7/DeepSeek-V3/blob/main/DeepSeek_V3.pdf
     - takeaway:
       * 
       * 
