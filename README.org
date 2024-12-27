@@ -196,6 +196,7 @@
 | [[20241223]] | Keeping a CHANGELOG at Work                                                                                          |
 | [[20241225]] | On the nature of Computing Science                                                                                   |
 | [[20241226]] | Beware Trivial Inconveniences                                                                                        |
+| [[20241227]] | The Control Group Is Out Of Control                                                                                  |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
@@ -3034,3 +3035,19 @@ Mean Value Theorem
     - takeaway:
       * It's become a truism that people spend more when they use credit cards than when they use money. This particular truism happens to be true: in a study by Prelec and Simester1, auction participants bid twice as much for the same prize when using credit than when using cash. The trivial step of getting the money and handing it over has a major inhibitory effect on your spending habits.
       * Jonah Lehrer's book How We Decide.
+
+
+** [[20241227]]
+    - paper: The Control Group Is Out Of Control
+    - link: https://slatestarcodex.com/2014/04/28/the-control-group-is-out-of-control/
+    - takeaway:
+[[./static/pyramid.png]]
+
+
+** [[20241228]]
+    - paper: Write your Own Virtual Machine
+    - link: https://www.jmeiners.com/lc3-vm/
+    - takeaway:
+      * 
+      * 
+      * 
