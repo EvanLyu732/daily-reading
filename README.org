@@ -198,6 +198,7 @@
 | [[20241226]] | Beware Trivial Inconveniences                                                                                        |
 | [[20241227]] | The Control Group Is Out Of Control                                                                                  |
 | [[20241230]] | Write your Own Virtual Machine                                                                                       |
+| [[20241231]] | DeepSeek-V3 Technical Report                                                                                         |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
@@ -3053,10 +3054,8 @@ Mean Value Theorem
       * “The view that machines cannot give rise to surprises is due, I believe, to a fallacy to which philosophers and mathematicians are particularly subject. This is the assumption that as soon as a fact is presented to a mind all consequences of that fact spring into the mind simultaneously with it. It is a very useful assumption under many circumstances, but one too easily forgets that it is false.” — Alan M. Turing
 
 
-** [[20241230]]
+** [[20241231]]
     - paper: DeepSeek-V3 Technical Report
     - link: https://github.com/CloudBee7/DeepSeek-V3/blob/main/DeepSeek_V3.pdf
     - takeaway:
-      * 
-      * 
-      * 
+      #READ-IT-LATER
