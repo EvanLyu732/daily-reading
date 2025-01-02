@@ -199,6 +199,8 @@
 | [[20241227]] | The Control Group Is Out Of Control                                                                                  |
 | [[20241230]] | Write your Own Virtual Machine                                                                                       |
 | [[20241231]] | DeepSeek-V3 Technical Report                                                                                         |
+| [[20250102]] | Coconut by Meta AI – Better LLM Reasoning With Chain of CONTINUOUS Thought?                                          |
+| [[20250103]] | My 25-year adventure in AI and ML                                                                                    |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
@@ -3059,3 +3061,20 @@ Mean Value Theorem
     - link: https://github.com/CloudBee7/DeepSeek-V3/blob/main/DeepSeek_V3.pdf
     - takeaway:
       #READ-IT-LATER
+
+
+** [[20250102]]
+    - paper: Coconut by Meta AI – Better LLM Reasoning With Chain of CONTINUOUS Thought?
+    - link: https://aipapersacademy.com/chain-of-continuous-thought/
+    - takeaway:
+      * In language mode, the model operates as a standard language model, generating the next token. In latent mode, it uses the last hidden state as the input for the next step. This last hidden state represents the current reasoning state, termed as a “continuous thought”.
+      * 
+        
+        
+
+
+** [[20250103]]
+    - paper: My 25-year adventure in AI and ML
+    - link: https://austinhenley.com/blog/25yearsofai.html
+    - takeaway:
+      * 
