@@ -3068,13 +3068,11 @@ Mean Value Theorem
     - link: https://aipapersacademy.com/chain-of-continuous-thought/
     - takeaway:
       * In language mode, the model operates as a standard language model, generating the next token. In latent mode, it uses the last hidden state as the input for the next step. This last hidden state represents the current reasoning state, termed as a “continuous thought”.
-      * 
-        
+      * First, the Coconut method significantly enhances LLMs reasoning. We saw this when comparing the results to the No-CoT version. Second, latent space reasoning allowed the model to develop an interesting BFS-like reasoning pattern, which helped it perform better on planning-intensive tasks.
         
 
 
 ** [[20250103]]
     - paper: My 25-year adventure in AI and ML
     - link: https://austinhenley.com/blog/25yearsofai.html
-    - takeaway:
-      * 
+      
