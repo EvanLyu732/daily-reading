@@ -202,6 +202,7 @@
 | [[20250102]] | Coconut by Meta AI – Better LLM Reasoning With Chain of CONTINUOUS Thought?                                          |
 | [[20250103]] | My 25-year adventure in AI and ML                                                                                    |
 | [[20250106]] | My Rule for Avoiding Lifestyle Creep: Don’t Live Beyond Your Assets                                                  |
+| [[20250107]] | Hitting OKRs vs Doing Your Job                                                                                       |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
@@ -3084,6 +3085,13 @@ Mean Value Theorem
     - takeaway:
       * Don’t live beyond your assets.
       * Your reasonable annual spend is the average of 4% of your current invested assets—inspired by the 4% Rule—and your income.
+
+
+** [[20250107]]
+    - paper: Hitting OKRs vs Doing Your Job
+    - link: https://jessitron.com/2025/01/05/hitting-okrs-vs-doing-your-job/
+    - takeaway:
+      * Let OKRs highlight a special focus. Don’t try to cram everything you do into them.
         
 
         
