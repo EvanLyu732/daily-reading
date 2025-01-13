@@ -203,6 +203,9 @@
 | [[20250103]] | My 25-year adventure in AI and ML                                                                                    |
 | [[20250106]] | My Rule for Avoiding Lifestyle Creep: Don’t Live Beyond Your Assets                                                  |
 | [[20250107]] | Hitting OKRs vs Doing Your Job                                                                                       |
+| [[20250108]] | How I program with LLMs                                                                                              |
+| [[20250109]] | On LLMs and Code Optimization                                                                                        |
+| [[20250113]] | How I program with LLMs                                                                                              |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
@@ -3092,6 +3095,20 @@ Mean Value Theorem
     - link: https://jessitron.com/2025/01/05/hitting-okrs-vs-doing-your-job/
     - takeaway:
       * Let OKRs highlight a special focus. Don’t try to cram everything you do into them.
+        
+
+
+** [[20250113]]
+    - paper: How I program with LLMs
+    - link: https://crawshaw.io/blog/programming-with-llms
+    - takeaway:
+      * You can have the LLM write the fuzz test implementation you want but didn’t have the hours to build properly. You can spend a lot more time writing tests to be readable
+
+
+** [[20250114]]
+    - paper: On LLMs and Code Optimization
+    - link: https://wiredream.com/llm-optimizing-digit-diff/ 
+    - takeaway:
         
 
         
