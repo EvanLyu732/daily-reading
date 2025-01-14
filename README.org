@@ -206,6 +206,7 @@
 | [[20250108]] | How I program with LLMs                                                                                              |
 | [[20250109]] | On LLMs and Code Optimization                                                                                        |
 | [[20250113]] | How I program with LLMs                                                                                              |
+| [[20250114]] | On LLMs and Code Optimization                                                                                        |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
@@ -3109,6 +3110,18 @@ Mean Value Theorem
     - paper: On LLMs and Code Optimization
     - link: https://wiredream.com/llm-optimizing-digit-diff/ 
     - takeaway:
+      * magical prompt: write better "X"
+        
+
+
+
+** [[20250115]]
+    - paper: The 2025 AI Engineer Reading List
+    - link: https://www.latent.space/p/2025-papers
+    - takeaway:
+      * 
+      * 
+      * 
         
 
         
