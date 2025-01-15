@@ -207,6 +207,7 @@
 | [[20250109]] | On LLMs and Code Optimization                                                                                        |
 | [[20250113]] | How I program with LLMs                                                                                              |
 | [[20250114]] | On LLMs and Code Optimization                                                                                        |
+| [[20250115]] | The 2025 AI Engineer Reading List                                                                                    |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
