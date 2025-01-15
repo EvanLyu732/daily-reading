@@ -3119,9 +3119,7 @@ Mean Value Theorem
     - paper: The 2025 AI Engineer Reading List
     - link: https://www.latent.space/p/2025-papers
     - takeaway:
-      * 
-      * 
-      * 
+      * This blog lists around 50 reading paper.
         
 
         
