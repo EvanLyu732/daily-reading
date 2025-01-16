@@ -208,6 +208,7 @@
 | [[20250113]] | How I program with LLMs                                                                                              |
 | [[20250114]] | On LLMs and Code Optimization                                                                                        |
 | [[20250115]] | The 2025 AI Engineer Reading List                                                                                    |
+| [[20250116]] | Transformer²: Self-Adaptive LLMs                                                                                     |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
@@ -3112,8 +3113,6 @@ Mean Value Theorem
     - link: https://wiredream.com/llm-optimizing-digit-diff/ 
     - takeaway:
       * magical prompt: write better "X"
-        
-
 
 
 ** [[20250115]]
@@ -3121,6 +3120,13 @@ Mean Value Theorem
     - link: https://www.latent.space/p/2025-papers
     - takeaway:
       * This blog lists around 50 reading paper.
+
+
+** [[20250116]]
+    - paper: Transformer²: Self-Adaptive LLMs
+    - link: https://sakana.ai/transformer-squared/
+    - takeaway:
+      * During inference, Transformer2 employs a two-pass mechanism: first, a dispatch system identifies the task properties, and then task-specific “expert” vectors, trained using reinforcement learning, are dynamically mixed to obtain targeted behavior for the incoming prompt. 
         
 
         
