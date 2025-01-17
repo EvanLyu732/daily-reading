@@ -209,6 +209,7 @@
 | [[20250114]] | On LLMs and Code Optimization                                                                                        |
 | [[20250115]] | The 2025 AI Engineer Reading List                                                                                    |
 | [[20250116]] | Transformer²: Self-Adaptive LLMs                                                                                     |
+| [[20250117]] | What Every Hacker Should Know About TLB Invalidation                                                                 |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
@@ -3127,7 +3128,18 @@ Mean Value Theorem
     - link: https://sakana.ai/transformer-squared/
     - takeaway:
       * During inference, Transformer2 employs a two-pass mechanism: first, a dispatch system identifies the task properties, and then task-specific “expert” vectors, trained using reinforcement learning, are dynamically mixed to obtain targeted behavior for the incoming prompt. 
-        
 
+
+** [[20250117]]
+    - paper: What Every Hacker Should Know About TLB Invalidation
+    - link: https://grsecurity.net/h2hc_2024_what_every_hacker_should_know_TLB_invalidation.pdf
+    - takeaway:
+      * Invalidation is needed to maintain coherency between translation caches (TLB, paging-structure caches) and page tables in memory at all times
+      * Maintaining coherency between page tables in memory and CPU translation caches is complex
+       
+
+
+        
+      
         
       
