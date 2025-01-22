@@ -212,6 +212,7 @@
 | [[20250117]] | What Every Hacker Should Know About TLB Invalidation                                                                 |
 | [[20250120]] | Rule-Based Programming in Interactive Fiction                                                                        |
 | [[20250121]] | The Origins of Wokeness                                                                                              |
+| [[20250122]] | We’ve lost our respect for complexity                                                                                |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
@@ -3147,11 +3148,16 @@ Mean Value Theorem
       * A programming language is a tool for handling design complexity. That's what all of computer science is, really -- languages, libraries, type systems, garbage collectors, everything you learn about programming. They're ways to build more and more complex designs without losing your grip.
       * The way you manage complexity is to be able to ignore it. A good programming tool lets you forget about some part of the problem, so that you can focus on some other part. And it ensures that when you return to the parts you forgot, you haven't accidentally broken them. 
       
-       
 
 ** [[20250121]]
     - paper: The Origins of Wokeness
     - link: https://paulgraham.com/woke.html
+
+** [[20250122]]
+    - paper: We’ve lost our respect for complexity.
+    - link:https://wilsoniumite.com/2025/01/21/weve-lost-our-respect-for-complexity/ 
+    - takeaway:
+      * My trust in people rises immensely these days when they have the ability to sincerely say “I don’t know”. Being all-knowing shouldn’t be the coolest thing to be since, given that it’s impossible, anyone who comes off that way is, in a sense, lying. Respect for complexity? Now that is cool.
 
 
         
