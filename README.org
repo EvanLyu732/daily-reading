@@ -213,6 +213,7 @@
 | [[20250120]] | Rule-Based Programming in Interactive Fiction                                                                        |
 | [[20250121]] | The Origins of Wokeness                                                                                              |
 | [[20250122]] | We’ve lost our respect for complexity                                                                                |
+| [[20250123]] | Framework Fatigue: The Real Reason Developers Get Angry About New Tech                                               |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
@@ -3153,13 +3154,21 @@ Mean Value Theorem
     - paper: The Origins of Wokeness
     - link: https://paulgraham.com/woke.html
 
+
 ** [[20250122]]
     - paper: We’ve lost our respect for complexity.
-    - link:https://wilsoniumite.com/2025/01/21/weve-lost-our-respect-for-complexity/ 
+    - link: https://wilsoniumite.com/2025/01/21/weve-lost-our-respect-for-complexity/ 
     - takeaway:
       * My trust in people rises immensely these days when they have the ability to sincerely say “I don’t know”. Being all-knowing shouldn’t be the coolest thing to be since, given that it’s impossible, anyone who comes off that way is, in a sense, lying. Respect for complexity? Now that is cool.
 
 
+
+** [[20250123]]
+    - paper: Framework Fatigue: The Real Reason Developers Get Angry About New Tech
+    - link: https://blog.raed.dev/posts/framework-fatigue-the-real-reason-developers-get-angry-about-new-tech
+    - takeaway:
+      * the author think employability is the reason why developers get angry about new tech
+      * outrage is self defense. But once we understand what we’re really defending against, we can have more productive conversations about how our industry evolves.
         
       
         
