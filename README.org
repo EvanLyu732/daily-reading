@@ -214,6 +214,7 @@
 | [[20250121]] | The Origins of Wokeness                                                                                              |
 | [[20250122]] | We’ve lost our respect for complexity                                                                                |
 | [[20250123]] | Framework Fatigue: The Real Reason Developers Get Angry About New Tech                                               |
+| [[20250202]] | Understanding Reasoning LLMs                                                                                         |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
@@ -3171,8 +3172,13 @@ Mean Value Theorem
       * outrage is self defense. But once we understand what we’re really defending against, we can have more productive conversations about how our industry evolves.
         
       
-        
-      
+** [[20250208]]
+    - paper: Understanding Reasoning LLMs
+    - link: https://sebastianraschka.com/blog/2025/understanding-reasoning-llms.html
+    - takeaway:
+[[./static/image15.png]]
+ 
+
 
 
         
