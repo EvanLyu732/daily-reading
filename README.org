@@ -214,7 +214,9 @@
 | [[20250121]] | The Origins of Wokeness                                                                                              |
 | [[20250122]] | We’ve lost our respect for complexity                                                                                |
 | [[20250123]] | Framework Fatigue: The Real Reason Developers Get Angry About New Tech                                               |
-| [[20250202]] | Understanding Reasoning LLMs                                                                                         |
+| [[20250208]] | Understanding Reasoning LLMs                                                                                         |
+| [[20250210]] | Things we learned about LLMs in 2024                                                                                 |
+| [[20250211]] | Why Blog If Nobody Reads It?                                                                                         |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
@@ -3179,6 +3181,15 @@ Mean Value Theorem
 [[./static/image15.png]]
  
 
+      
+** [[20250209]]
+    - paper: Things we learned about LLMs in 2024
+    - link: https://simonwillison.net/2024/Dec/31/llms-in-2024/
+    - takeaway:
+      * This blog is comprehensive, it should be indexed as a greate reference about LLMs in 2024
+      
+      
+ 
 
 
         
