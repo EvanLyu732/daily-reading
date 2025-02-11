@@ -217,6 +217,8 @@
 | [[20250208]] | Understanding Reasoning LLMs                                                                                         |
 | [[20250210]] | Things we learned about LLMs in 2024                                                                                 |
 | [[20250211]] | Why Blog If Nobody Reads It?                                                                                         |
+| [[20250212]] | Three Observations                                                                                                   |
+| [[20250213]] | What Happens to SaaS in a World with Computer Using Agents?                                                          |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
@@ -3182,13 +3184,29 @@ Mean Value Theorem
  
 
       
-** [[20250209]]
+** [[20250210]]
     - paper: Things we learned about LLMs in 2024
     - link: https://simonwillison.net/2024/Dec/31/llms-in-2024/
     - takeaway:
       * This blog is comprehensive, it should be indexed as a greate reference about LLMs in 2024
       
       
+** [[20250211]]
+    - paper: Three Observations
+    - link: https://blog.samaltman.com/three-observations
+    - takeaway:
+      * The intelligence of an AI model roughly equals the log of the resources used to train and run it.
+      * The cost to use a given level of AI falls about 10x every 12 months, and lower prices lead to much more use.
+
+      
+      
+** [[20250213]]
+    - paper: What Happens to SaaS in a World with Computer Using Agents?
+    - link: https://docs.google.com/document/d/1nWZtJlPmBD15rGqNxj7u6HroaNvXT6YD-TXktpIwf6c/preview?pli=1&tab=t.0#heading=h.ttpp86707mip
+    - takeaway:
+      * 
+      * 
+      * 
  
 
 
