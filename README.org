@@ -3189,7 +3189,7 @@ Mean Value Theorem
     - link: https://simonwillison.net/2024/Dec/31/llms-in-2024/
     - takeaway:
       * This blog is comprehensive, it should be indexed as a greate reference about LLMs in 2024
-      
+
       
 ** [[20250211]]
     - paper: Three Observations
@@ -3198,7 +3198,17 @@ Mean Value Theorem
       * The intelligence of an AI model roughly equals the log of the resources used to train and run it.
       * The cost to use a given level of AI falls about 10x every 12 months, and lower prices lead to much more use.
 
-      
+** [[20250212]]
+    - paper: Why Blog If Nobody Reads It?
+    - link: https://andysblog.uk/why-blog-if-nobody-reads-it/
+    - takeaway:
+      * “The most powerful element in advertising is the truth.”
+      * Blogging forces clarity. It makes you structure your thoughts, sharpen your perspective. You stop writing fluff because — let’s be honest — you’re writing for yourself. And if you can’t keep yourself interested, nobody else stands a chance.
+      * You’re not just writing for today’s invisible audience. You’re writing for:
+        * Future you. Your posts become a time capsule of your evolving mind.
+        * One right person. Maybe one day, someone stumbles across your words at exactly the right moment. And that changes something for them.
+        * The work itself. Consistency beats virality. A hundred posts with depth will outlast a single viral hit.
+       
       
 ** [[20250213]]
     - paper: What Happens to SaaS in a World with Computer Using Agents?
