@@ -216,8 +216,9 @@
 | [[20250123]] | Framework Fatigue: The Real Reason Developers Get Angry About New Tech                                               |
 | [[20250208]] | Understanding Reasoning LLMs                                                                                         |
 | [[20250210]] | Things we learned about LLMs in 2024                                                                                 |
-| [[20250211]] | Why Blog If Nobody Reads It?                                                                                         |
-| [[20250212]] | Three Observations                                                                                                   |
+| [[20250211]] | Three Observations                                                                                                   |
+| [[20250212]] | Why Blog If Nobody Reads It?                                                                                         |
+| [[20250211]] | Three Observations                                                                                                   |
 | [[20250213]] | What Happens to SaaS in a World with Computer Using Agents?                                                          |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
