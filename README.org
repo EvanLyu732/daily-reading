@@ -218,7 +218,6 @@
 | [[20250210]] | Things we learned about LLMs in 2024                                                                                 |
 | [[20250211]] | Three Observations                                                                                                   |
 | [[20250212]] | Why Blog If Nobody Reads It?                                                                                         |
-| [[20250211]] | Three Observations                                                                                                   |
 | [[20250213]] | What Happens to SaaS in a World with Computer Using Agents?                                                          |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
@@ -3215,9 +3214,19 @@ Mean Value Theorem
     - paper: What Happens to SaaS in a World with Computer Using Agents?
     - link: https://docs.google.com/document/d/1nWZtJlPmBD15rGqNxj7u6HroaNvXT6YD-TXktpIwf6c/preview?pli=1&tab=t.0#heading=h.ttpp86707mip
     - takeaway:
-      * 
-      * 
-      * 
+      * The Emerging Agent Software Stack:
+      * Infrastructure Layer (Digital Bedrock):
+        * Unified enterprise data ecosystem.
+        * Security, compliance, and data transformation.
+        * Semantic understanding and enterprise knowledge management.
+      * Intelligence Layer (Cognitive Engine):
+        * AI models for reasoning and task execution.
+        * Continuous learning and adaptive behavior.
+        * Coordinated decision-making across enterprise tasks.
+      * Control Layer (Human Interface):
+        * Facilitates human oversight and collaboration.
+        * Provides intuitive insights and strategic recommendations.
+        * Supports human creativity and workflow customization.
  
 
 
