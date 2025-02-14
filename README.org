@@ -219,6 +219,7 @@
 | [[20250211]] | Three Observations                                                                                                   |
 | [[20250212]] | Why Blog If Nobody Reads It?                                                                                         |
 | [[20250213]] | What Happens to SaaS in a World with Computer Using Agents?                                                          |
+| [[20250214]] | How might we learn?                                                                                                  |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
@@ -3229,8 +3230,13 @@ Mean Value Theorem
         * Supports human creativity and workflow customization.
  
 
-
-        
       
-        
-      
+** [[20250214]]
+    - paper: How might we learn? 
+    - link: https://andymatuschak.org/hmwl/
+    - takeaway:
+      * One obvious approach is to try to compromise. Project-based learning is a good representation of that. By creating a scaffolded sequence of projects, the suggestion is that we can get some of the benefits of implicit learning—authenticity, motivation, transfer—while also exerting some of the instructional control and cognitive awareness typical of traditional courses. But so often it ends up getting the worst of both worlds—neither motivation and meaning, nor adequate guidance, explanation, and cognitive support.
+      * In university, I was interested in 3D game programming, so I took a project-based course on computer graphics. The trouble was that those projects weren’t my projects. So a few weeks in, I found myself implementing a ray marching shader for more efficient bump mapping. Worse, because this course was trying to take project-based learning seriously, there weren't long textbook readings or problem sets. I found myself just translating math I’d been given into code. What I ended up with was a project I didn't care about, implementing math I didn't understand.
+      * Instead, I suggest: we should take both views seriously, and find a way to synthesize the two. You really do want to make doing-the-thing the primary activity. But the realities of cognitive psychology mean that in many cases, you really do need explicit guidance, scaffolding, practice, and attention to memory support.
+      * Learning by immersion works naturalistically when the material has a low enough complexity relative to your prior knowledge that you can successfully process it on the fly, and when natural participation routinely reinforces everything important, so that you build fluency. When those conditions aren’t satisfied—which is most of the time—you’ll need some support.
+      * You want to just dive in, and you want learning to actually work. To make that happen, we need to infuse your authentic projects with guided support, where necessary, inspired by the best ideas from cognitive psychology. And if there’s something that requires more focused, explicit learning experiences, you want those experiences to be utterly in service to your actual aims.
