@@ -220,6 +220,7 @@
 | [[20250212]] | Why Blog If Nobody Reads It?                                                                                         |
 | [[20250213]] | What Happens to SaaS in a World with Computer Using Agents?                                                          |
 | [[20250214]] | How might we learn?                                                                                                  |
+| [[20250217]] | What Comes After Kubernetes?                                                                                         |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
@@ -3240,3 +3241,9 @@ Mean Value Theorem
       * Instead, I suggest: we should take both views seriously, and find a way to synthesize the two. You really do want to make doing-the-thing the primary activity. But the realities of cognitive psychology mean that in many cases, you really do need explicit guidance, scaffolding, practice, and attention to memory support.
       * Learning by immersion works naturalistically when the material has a low enough complexity relative to your prior knowledge that you can successfully process it on the fly, and when natural participation routinely reinforces everything important, so that you build fluency. When those conditions aren’t satisfied—which is most of the time—you’ll need some support.
       * You want to just dive in, and you want learning to actually work. To make that happen, we need to infuse your authentic projects with guided support, where necessary, inspired by the best ideas from cognitive psychology. And if there’s something that requires more focused, explicit learning experiences, you want those experiences to be utterly in service to your actual aims.
+
+      
+** [[20250217]]
+    - paper: What Comes After Kubernetes?
+    - link: https://mattrickard.com/what-comes-after-kubernetes 
+    - takeaway:
