@@ -221,6 +221,7 @@
 | [[20250213]] | What Happens to SaaS in a World with Computer Using Agents?                                                          |
 | [[20250214]] | How might we learn?                                                                                                  |
 | [[20250217]] | What Comes After Kubernetes?                                                                                         |
+| [[20250218]] | 50 Years of Travel Tips                                                                                              |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
@@ -3247,3 +3248,13 @@ Mean Value Theorem
     - paper: What Comes After Kubernetes?
     - link: https://mattrickard.com/what-comes-after-kubernetes 
     - takeaway:
+
+      
+** [[20250218]]
+    - paper: 50 Years of Travel Tips
+    - link: https://kk.org/thetechnium/50-years-of-travel-tips/
+    - takeaway:
+      * Organize your travel around passions instead of destinations. An itinerary based on obscure cheeses, or naval history, or dinosaur digs, or jazz joints will lead to far more adventures, and memorable times than a grand tour of famous places. It doesn’t even have to be your passions; it could be a friend’s, family member’s, or even one you’ve read about. The point is to get away from the expected into the unexpected.
+      * Make no assumptions about whether something will be open. There are other norms at work. If possible check at the last minute, if not, have a plan B.
+      * The most significant criteria to use when selecting travel companions is: do they complain or not, even when complaints are justified? No complaining! Complaints are for the debriefing afterwards when travel is over.
+      * The best souvenirs from a trip are your memories of the trip so find a way to memorialize them; keep a journal, send updates to a friend, take a sketchbook, post some observations, make a photo book.
