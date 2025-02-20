@@ -222,6 +222,7 @@
 | [[20250214]] | How might we learn?                                                                                                  |
 | [[20250217]] | What Comes After Kubernetes?                                                                                         |
 | [[20250218]] | 50 Years of Travel Tips                                                                                              |
+| [[20250220]] |                                                                                                                      |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
@@ -3258,3 +3259,11 @@ Mean Value Theorem
       * Make no assumptions about whether something will be open. There are other norms at work. If possible check at the last minute, if not, have a plan B.
       * The most significant criteria to use when selecting travel companions is: do they complain or not, even when complaints are justified? No complaining! Complaints are for the debriefing afterwards when travel is over.
       * The best souvenirs from a trip are your memories of the trip so find a way to memorialize them; keep a journal, send updates to a friend, take a sketchbook, post some observations, make a photo book.
+
+      
+** [[20250220]]
+    - paper: Try Thinking and Learning Without Working Memory
+    - link: https://sharpbrains.com/blog/2008/05/25/try-thinking-and-learning-without-working-memory/
+    - takeaway:
+      * What all this says is that simple decisions are best made by careful conscious thought. But for complicated decisions, the best choices may result from “deliberation without paying attention,” that is letting the thinking be done by the unconscious mind.
+      * The growing trend, especially among young people, to multi-task may seem wonderful. But actually, multi-tasking is most likely to interfere with focused attention and, in turn, degrade memory formation, recall, and thinking quality.
