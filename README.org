@@ -222,7 +222,8 @@
 | [[20250214]] | How might we learn?                                                                                                  |
 | [[20250217]] | What Comes After Kubernetes?                                                                                         |
 | [[20250218]] | 50 Years of Travel Tips                                                                                              |
-| [[20250220]] |                                                                                                                      |
+| [[20250220]] | Try Thinking and Learning Without Working Memory                                                                     |
+| [[20250221]] | Speed matters                                                                                                        |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
@@ -3267,3 +3268,10 @@ Mean Value Theorem
     - takeaway:
       * What all this says is that simple decisions are best made by careful conscious thought. But for complicated decisions, the best choices may result from “deliberation without paying attention,” that is letting the thinking be done by the unconscious mind.
       * The growing trend, especially among young people, to multi-task may seem wonderful. But actually, multi-tasking is most likely to interfere with focused attention and, in turn, degrade memory formation, recall, and thinking quality.
+
+      
+** [[20250221]]
+    - paper: Speed matters
+    - link: https://www.scattered-thoughts.net/writing/speed-matters/
+    - takeaway:
+      * Being 10x faster also changes the kinds of projects that are worth doing.
