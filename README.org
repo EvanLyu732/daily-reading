@@ -224,6 +224,7 @@
 | [[20250218]] | 50 Years of Travel Tips                                                                                              |
 | [[20250220]] | Try Thinking and Learning Without Working Memory                                                                     |
 | [[20250221]] | Speed matters                                                                                                        |
+| [[20250224]] | Ask for no, don’t ask for yes                                                                                        |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
@@ -3275,3 +3276,12 @@ Mean Value Theorem
     - link: https://www.scattered-thoughts.net/writing/speed-matters/
     - takeaway:
       * Being 10x faster also changes the kinds of projects that are worth doing.
+
+      
+** [[20250224]]
+    - paper: Ask for no, don’t ask for yes
+    - link: https://www.mooreds.com/wordpress/archives/3518
+    - takeaway:
+      * Moving forward, even the smallest possible step, helped break that stasis.
+      * Do with deadline 
+
