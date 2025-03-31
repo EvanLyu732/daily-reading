@@ -225,6 +225,7 @@
 | [[20250220]] | Try Thinking and Learning Without Working Memory                                                                     |
 | [[20250221]] | Speed matters                                                                                                        |
 | [[20250224]] | Ask for no, don’t ask for yes                                                                                        |
+| [[20250331]] | What to Do                                                                                                           |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
 |          |                                                                                                                      |
@@ -3285,3 +3286,11 @@ Mean Value Theorem
       * Moving forward, even the smallest possible step, helped break that stasis.
       * Do with deadline 
 
+
+** [[20250331]]
+    - paper: What to Do
+    - link:https://paulgraham.com/do.html 
+    - takeaway:
+      * Make good new things. 
+      * The most impressive thing humans can do is to think. It may be the most impressive thing that can be done. And the best kind of thinking, or more precisely the best proof that one has thought well, is to make good new things.
+      * But how well do you understand something if you can't make a model of it, or write about it? Indeed, trying to express what you understand is not just a way to prove that you understand it, but a way to understand it better.
