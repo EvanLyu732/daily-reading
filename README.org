@@ -226,10 +226,10 @@
 | [[20250221]] | Speed matters                                                                                                        |
 | [[20250224]] | Ask for no, don’t ask for yes                                                                                        |
 | [[20250331]] | What to Do                                                                                                           |
-|          |                                                                                                                      |
-|          |                                                                                                                      |
-|          |                                                                                                                      |
-|          |                                                                                                                      |
+| [[20250401]] | Cybernetics: Or Control and Communication in the Animal and the Machine - Norbert Wiener (1948)                   |
+| [[20250402]] | Design for a Brain: The Origin of Adaptive Behaviour - W. Ross Ashby (1952)                                        |
+| [[20250403]] | Observing Systems: Second-Order Cybernetics - Heinz von Foerster (1981)                                            |
+| [[20250404]] | The Evolution of Cybernetics: From Feedback to Complexity Science                                                   |
 
 ** 20240423
 - Paper: A Survey of Embodied AI: From Simulators to Research Tasks
@@ -3294,3 +3294,47 @@ Mean Value Theorem
       * Make good new things. 
       * The most impressive thing humans can do is to think. It may be the most impressive thing that can be done. And the best kind of thinking, or more precisely the best proof that one has thought well, is to make good new things.
       * But how well do you understand something if you can't make a model of it, or write about it? Indeed, trying to express what you understand is not just a way to prove that you understand it, but a way to understand it better.
+
+** [[20250401]]
+    - paper: Cybernetics: Or Control and Communication in the Animal and the Machine - Norbert Wiener (1948)
+    - link: https://archive.org/details/cyberneticsorcon00wien
+    - takeaway:
+      * =Foundation of Cybernetics=: Norbert Wiener coined the term "cybernetics" from the Greek κυβερνήτης (kybernētēs), meaning "helmsman" or "governor." He defined cybernetics as "the scientific study of control and communication in the animal and the machine."
+      * =Feedback Principle=: The central concept is negative feedback - the ability of a system to regulate itself by feeding information about its output back to its input. This principle applies equally to biological organisms and mechanical systems.
+      * =Information Theory Connection=: Wiener developed cybernetics alongside Claude Shannon's information theory, establishing the mathematical foundation for understanding communication and control systems.
+      * =Interdisciplinary Approach=: Cybernetics emerged as a transdisciplinary field, bridging mathematics, engineering, biology, psychology, and social sciences. The Macy Conferences (1946-1953) brought together diverse scholars to develop these ideas.
+      * =Homeostasis and Adaptation=: Drawing from biology, Wiener emphasized how systems maintain stability through dynamic equilibrium, constantly adjusting to environmental changes while preserving essential functions.
+
+** [[20250402]]
+    - paper: Design for a Brain: The Origin of Adaptive Behaviour - W. Ross Ashby (1952)
+    - link: https://archive.org/details/designforbrainor00ashb
+    - takeaway:
+      * =Law of Requisite Variety=: Ashby's fundamental principle states that "only variety can destroy variety" - for a system to control another system, it must have at least as much variety (possible states) as the system being controlled.
+      * =Adaptive Systems=: Ashby distinguished between systems that merely respond to stimuli and truly adaptive systems that can modify their own structure and behavior patterns based on experience.
+      * =Ultrastability=: He introduced the concept of ultrastable systems - systems with multiple levels of stability that can reorganize themselves when faced with disturbances they cannot handle at their current level.
+      * =Machine Learning Precursor=: Ashby's homeostats were among the first artificial adaptive systems, demonstrating how machines could learn and adapt through trial and error, prefiguring modern machine learning concepts.
+      * =Cybernetic Regulation=: He formalized the principles of cybernetic regulation, showing how systems use feedback to maintain essential variables within viable ranges despite environmental disturbances.
+
+** [[20250403]]
+    - paper: Observing Systems: Second-Order Cybernetics - Heinz von Foerster (1981)
+    - link: https://link.springer.com/book/10.1007/978-3-642-48954-8
+    - takeaway:
+      * =Second-Order Cybernetics=: Von Foerster extended cybernetics to include the observer in the system being observed, creating "cybernetics of cybernetics" or "the study of observing systems."
+      * =Constructivism=: He argued that reality is constructed by observers rather than simply discovered, leading to radical constructivism and autopoietic theory (developed with Maturana and Varela).
+      * =Self-Organization=: Von Foerster pioneered the study of self-organizing systems, showing how order can emerge spontaneously from the interactions of system components without external control.
+      * =Eigenvalues and Eigenbehaviors=: He applied mathematical concepts to cognitive systems, showing how stable patterns (eigenbehaviors) emerge from recursive interactions in cognitive and social systems.
+      * =Ethical Imperative=: "Act always so as to increase the number of choices" - von Foerster emphasized the ethical dimensions of cybernetics, arguing that systems should enhance rather than restrict possibilities for action.
+
+** [[20250404]]
+    - paper: The Evolution of Cybernetics: From Feedback to Complexity Science
+    - link: https://link.springer.com/article/10.1007/s11213-018-9470-0
+    - takeaway:
+      * =Three Generations of Cybernetics=: 
+        * First-order (1940s-1960s): Focus on feedback, control, and communication in machines and organisms
+        * Second-order (1970s-1990s): Inclusion of observer, autopoiesis, and self-organization  
+        * Third-order (2000s-present): Emphasis on emergence, complexity, and participatory systems
+      * =Modern Applications=: Contemporary cybernetics has evolved into multiple domains including systems science, complexity theory, artificial intelligence, cognitive science, and social cybernetics.
+      * =Autopoiesis and Living Systems=: Maturana and Varela's concept of autopoiesis (self-making) became central to understanding living systems as organizationally closed but thermodynamically open systems.
+      * =Viable System Model=: Stafford Beer's Viable System Model applied cybernetic principles to organizational design, showing how systems can maintain viability through recursive structures and information flows.
+      * =Digital Age Transformation=: Modern cybernetics addresses digital ecosystems, artificial life, swarm intelligence, and human-machine interactions, expanding beyond its original mechanical metaphors to embrace biological and social paradigms.
+      * =Complexity and Networks=: Integration with network theory and complexity science has created new understanding of emergent behaviors in social, biological, and technological systems.
